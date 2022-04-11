@@ -39,12 +39,20 @@ jobs:
       - name: Create output directory
         shell: bash
         run: mkdir output
-      - uses: docker://pandoc/latex:2.9
+      - name: Merge Swedish markdown
+        shell: bash
+        run: sed -s '$a\\n\\newpage\n' ${{ steps.glob_swe.outputs.paths }} > swe.md
+      - name: Merge English markdown
+        shell: bash
+        run: sed -s '$a\\n\\newpage\n' ${{ steps.glob_eng.outputs.paths }} > eng.md
+      - name: Build Swedish pdf
+        uses: docker://pandoc/latex:2.9
         with:
-          args: --output=output/styrdokument_in_swe_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.pdf ${{ steps.glob_swe.outputs.paths }}
-      - uses: docker://pandoc/latex:2.9
+          args: --output=output/styrdokument_in_swe_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.pdf swe.md
+      - name: Build English pdf
+        uses: docker://pandoc/latex:2.9
         with:
-          args: --output=output/styrdokument_in_eng_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.pdf ${{ steps.glob_eng.outputs.paths }}
+          args: --output=output/styrdokument_in_eng_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.pdf eng.md
       - name: Create Zip
         run: |
           zip --junk-paths all_documents_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.zip output/*
