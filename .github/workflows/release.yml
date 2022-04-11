@@ -30,12 +30,11 @@ jobs:
             stadgar/eng/**.md
             pm/eng/**.md
             other_documents/eng/**.md
-      - name: Get commit hash and current date
+      - name: Get current datetime
         id: date_hash
         shell: bash
         run: |
-          echo "::set-output name=hash::$(git rev-parse --short HEAD)"
-          echo "::set-output name=date::$(TZ='Europe/Stockholm' date +%F)"
+          echo "::set-output name=date::$(TZ='Europe/Stockholm' date +%Y%m%d-%H%M%S)"
       - name: Create output directory
         shell: bash
         run: mkdir output
@@ -48,20 +47,20 @@ jobs:
       - name: Build Swedish pdf
         uses: docker://pandoc/latex:2.9
         with:
-          args: --output=output/styrdokument_in_swe_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.pdf swe.md
+          args: --output=output/styrdokument_in_swe_${{ steps.date_hash.outputs.date }}.pdf swe.md
       - name: Build English pdf
         uses: docker://pandoc/latex:2.9
         with:
-          args: --output=output/styrdokument_in_eng_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.pdf eng.md
+          args: --output=output/styrdokument_in_eng_${{ steps.date_hash.outputs.date }}.pdf eng.md
       - name: Create Zip
         run: |
-          zip --junk-paths all_documents_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.zip output/*
+          zip --junk-paths all_documents_${{ steps.date_hash.outputs.date }}.zip output/*
       - name: Release
         uses: softprops/action-gh-release@v1
         if: github.ref == 'refs/heads/main' # Don't release on PR
         with:
-          tag_name: ${{ steps.date_hash.outputs.date }}-${{ steps.date_hash.outputs.hash }}
-          name: Release ${{ steps.date_hash.outputs.date }}-${{ steps.date_hash.outputs.hash }}
+          tag_name: ${{ steps.date_hash.outputs.date }}
+          name: Release ${{ steps.date_hash.outputs.date }}
           files: |
-            all_documents_${{ steps.date_hash.outputs.date }}_${{ steps.date_hash.outputs.hash }}.zip
+            all_documents_${{ steps.date_hash.outputs.date }}.zip
             output/*.pdf
