@@ -34,7 +34,7 @@ Vid användning av de monokroma logotyperna ska den vita logotypen användas om 
 
 Avståndet till andra element bör vara minst hälften av den egna bredden, på alla sidor.
 
-![](../../img/logospacing.png)
+![](./img/logospacing.png)
 
 ## 3 Typografi
 IN-sektionen använder sig primärt av typsnittet Open Sans för digitala och fysiska medier.

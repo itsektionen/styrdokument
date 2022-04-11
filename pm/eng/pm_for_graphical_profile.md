@@ -34,7 +34,7 @@ When using the monochrome logotypes, the white logotype shall be used if the bac
 
 The distance to other elements should be at least half of the logo-type’s width, on all sides.
 
-![](../../img/logospacing.png)
+![](./img/logospacing.png)
 
 ## 3 Typography
 The chapter primarily use the font Open Sans for web and print.
