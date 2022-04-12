@@ -1,16 +1,20 @@
 # Memo for the Chapter standard
 
 ## 1 Formalities
+
 ### 1.1 Purpose
+
 This Memo regulates the chapter's standard which is used to represent the chapter at ceremonial events.
 
 ### 1.2 History
+
 Established: 2011-12-08  
 Last revision: 2013-02-18
 
 The Chapter standard was aquired on 2011-09-21
 
 ## 2 Organisation
+
 The Chapter standard is borne by the Chapter's Standard-bearer that shall have a deputy.  
 Both representatives are elected by the chapter meeting.
 
@@ -19,14 +23,11 @@ To be the standard-bearer shall be viewed as an honorary post and nominations sh
 The Standard shall be stored in Fanborgen
 
 ## 3 Activities
+
 The Chapter's Standard shall be borne at, but not limited to, these events:
 
-- The Walpurgis celebration at Skansen
-
-- The Nobel ceremonies
-
-- Graduation ceremonies
-
-- PHD graduation ceremonies
-
+- The Walpurgis celebration at Skansen  
+- The Nobel ceremonies  
+- Graduation ceremonies  
+- PHD graduation ceremonies  
 - The welcome ceremony at Stadshuset
