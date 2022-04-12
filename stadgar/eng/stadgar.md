@@ -1,4 +1,4 @@
-![](../../img/logo_in_600px.png)
+![](./img/logo_in_600px.png)
 
 # Statutes of the Chapter for Information and Nanotechnology
 

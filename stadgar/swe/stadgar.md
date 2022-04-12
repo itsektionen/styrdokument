@@ -1,4 +1,4 @@
-![](../,,/img/logo_in_600px.png)
+![](./img/logo_in_600px.png)
 
 # Sektionen för Informations- och Nanotekniks Stadgar
 

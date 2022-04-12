@@ -17,7 +17,7 @@ Sektionens logotyp kännetecknas av bokstäverna I och N utförda som två delar
 
 Den officiella logotypen ser ut som följer:
 
-![](../../img/logo_in_600px.png)
+![](./img/logo_in_600px.png)
 
 Mikrochipets ben skall ha färgen kiselblå (se § 1.2 i sektionens stadga) och centrum skall ha en mörkare ton av samma färg (exempelvis `#262D33`).  
 Blixten skall vara vit (`#FFFFFF`).
@@ -28,4 +28,4 @@ I den enfärgade versionen har mikrochipets ben samma färg som blixten, medan c
 
 Nedan finns ett exempel i svart (`#000000`).
 
-![](../../img/logo_in_monokrom_svart.png)
+![](./img/logo_in_monokrom_svart.png)
