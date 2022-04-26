@@ -81,5 +81,6 @@ Memo for Studiemiljönämden, 2008-12-11
 Memo for Studienämden, 2008-12-11  
 Memo for Traditions, 2014-12-08  
 Memo for TraditionsMEsterIT, 2008-12-11  
-Memo for the Elections Committee, 2014-02-10
-Memo for Stickkontaktsansvarig, 2019-02-23
+Memo for the Elections Committee, 2014-02-10  
+Memo for Stickkontaktsansvarig, 2019-02-23  
+Memo for PIFF and PUFF, 2020-09-28
