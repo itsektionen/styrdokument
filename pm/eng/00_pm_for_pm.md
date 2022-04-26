@@ -9,11 +9,11 @@ The purpose of this memo is to formulate and to regulate the form and structure 
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2014-12-07
+Last revision: 2020-05-20  
 
 ### 1.3 Revising this Memo
 
-In order to pass a revision of this Memo, a desicion has to be made with a qualified majority on a chapter meeting.
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority on a chapter meeting.
 
 ## 2 Rules for Memos
 
@@ -27,7 +27,7 @@ All established Memos shall be listed under point 3.2 in this Memo.
 
 ### 2.2 Name
 
-A Memo shall be named accorind to this following principle.  
+A Memo shall be named according to this following principle.  
 "Memo" followed by a suitable preposition, usually "for".  
 For example Memo for Memos.  
 This Memo shall be named in such a way that it is made clear what is being regulated.
@@ -57,7 +57,7 @@ These Memos shall be changed as soon as possible in accordance with §2.4.2 in t
 
 ### 3.1 Instructions
 
-The chapter's active Memos shall be listed unted point 3.2 with it's name and preferably the date of it's establishment.  
+The chapter's active Memos shall be listed under point 3.2 with its name and preferably the date of its establishment.  
 The list may be changed without a decision from the chapter meeting when new Memos are adopted and abolished by the chapter meeting.
 
 ### 3.2 PM
@@ -81,5 +81,6 @@ Memo for Studiemiljönämden, 2008-12-11
 Memo for Studienämden, 2008-12-11  
 Memo for Traditions, 2014-12-08  
 Memo for TraditionsMEsterIT, 2008-12-11  
-Memo for the Elections Committee, 2014-02-10
-Memo for Stickkontaktsansvarig, 2019-02-23
+Memo for the Elections Committee, 2014-02-10  
+Memo for Stickkontaktsansvarig, 2019-02-23  
+Memo for Student Social Committee, 2020-05-20  
