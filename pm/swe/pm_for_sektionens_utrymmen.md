@@ -9,7 +9,7 @@ Denna PM är avsett att reglera hanteringen av sektionens gemensamma resurser, s
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2014-04-09
+Senast ändrat: 2020-05-20
 
 ## 2 Regler
 
@@ -27,7 +27,7 @@ I framställan skall omfattningen av organets behov tydligt framgå.
 
 I den mån särskild behörighet (t ex passerkort) behövs för att komma åt ett utrymme skall organet i sin framställan inkludera en lista på individer som behöver ha denna behörighet.  
 Normalt skall listan vara begränsad till organets styrelse eller motsvarande.
-Styrelsen ansvarar för att kommunicera nödvändiga behörighetsändringar till ansvarig vid ICTskolan.
+Styrelsen ansvarar för att kommunicera nödvändiga behörighetsändringar till ansvarig vid EECS-skolan.
 
 #### 2.1.3 Delande
 
@@ -62,7 +62,7 @@ Styrelsen skall för varje nytt verksamhetsår utvärdera behovet på nytt, då 
 
 #### 2.2.2 Regler
 
-Organ som disponerar egna förvaringsutrymmen ansvarar själva för eventuella regler kring användandet av dessa, utöver vad som beslutas av högre instanser (såsom sektionen, ICT-skolan, Akademiska Hus osv).
+Organ som disponerar egna förvaringsutrymmen ansvarar själva för eventuella regler kring användandet av dessa, utöver vad som beslutas av högre instanser (såsom sektionen, EECS-skolan, Akademiska Hus osv).
 
 ## 3 Sektionslokalen med tillhörande utrymmen
 

@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera sektionens skyddsombud.
 ### 1.2 Historik
 
 Upprättat: 2014-09-22  
-Senast ändrat: 2014-09-22
+Senast ändrat: 2020-05-20
 
 ## 2 Organisation
 
@@ -24,7 +24,7 @@ Sektionens skyddsombud ansvarar för att företräda sektionens medlemmar i arbe
 Samt:  
 
 - att hålla kontinuerlig kontakt med THS huvudskyddsombud.  
-- att hålla kontinuerlig kontakt med sektionens representant i THS och ICT-skolans JML-råd.
+- att hålla kontinuerlig kontakt med sektionens representant i THS.
 
 ## 4 Regleringar
 
