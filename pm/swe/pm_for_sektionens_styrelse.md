@@ -9,7 +9,7 @@ Syftet med denna PM är att formalisera samt reglera sektionens Styrelses samman
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2015-01-01
+Senast ändrat: 2019-09-17
 
 ### 1.3 Ändrande av PM
 
@@ -21,15 +21,15 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 Sektionens styrelse består av:  
 
-- Sektionens ordförande  
-- Sektionens vice ordförande  
-- Sektionens sekreterare  
-- Sektionens kassör  
-- Ledamot med ansvar för utbildningspåverkan  
-- Ledamot med ansvar för studiesocial verksamhet  
-- Ledamot med ansvar för näringslivssamverkan  
-- Ledamot med ansvar för kommunikation  
-- Ledamot  
+- Sektionens ordförande
+- Sektionens vice ordförande
+- Sektionens sekreterare
+- Sektionens kassör
+- Ledamot med ansvar för utbildningspåverkan
+- Ledamot med ansvar för studiesocial verksamhet
+- Ledamot med ansvar för näringslivssamverkan
+- Ledamot med ansvar för kommunikation
+- Ledamot med ansvar för sektionens historia och framtid
 - Ledamot
 
 ### 2.2 Suppleanter
@@ -132,7 +132,17 @@ Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Kommunik
 Ledamoten ansvarar för att kalla till möte med Kommunikationsnämnden innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
 Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Kommunikationsråd.
 
-#### 3.2.9 Övriga ledamöter och suppleanter
+#### 3.2.9 Ledamot med ansvar för sektionens historia och framtid
+
+Ledamoten med ansvar för sektionens historia och framtid skall dokumentera och levandegöra sektionens historia.
+Detta skall ske på ett sådant sätt att all framtida verksamhet sektionen bedriver kan ha nytta av arbetet och att alla sektionsmedlemmar kan ta del av det.
+
+Ledamoten ska bidra med information om sektionens förflutna och tidigare arbete för att assistera sektionen och styrelsen i deras verksamhet.
+Ledamoten skall även arbeta tillsammans med styrelsen för att långsiktigt bevara sektionen.
+
+Ledamoten är också ansvarig för att hantera kommunikationen med sektionens alumner.
+
+#### 3.2.10 Övriga ledamöter och suppleanter
 
 Resterande styrelseledamöter ansvarar för att jobba med styrelsens strategiska frågor samt de områden som styrelsens strategiska frågor som styrelsen anser vara lämpliga.  
 Vice kassörs ansvar regleras av punkt 3.2.4.

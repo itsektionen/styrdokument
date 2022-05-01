@@ -9,7 +9,7 @@ The purpose of this Memo is to formulate and to regulate the chapter's Board's c
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2015-01-01
+Last revision: 2019-09-17
 
 ### 1.3 Revisions to this Memo
 
@@ -29,7 +29,7 @@ The Chapter's board is composed of:
 - a board member responsible for student social activities
 - a board member responsible for business relations
 - a board member responsible for communication
-- a board member
+- a board member responsible for the history and future of the chapter
 - a board member
 
 ### 2.2 Deputies
@@ -132,7 +132,17 @@ The board member shall act as a support for them, as well as a link between the 
 The board member shall be responsible for holding a meeting with the committee before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall actively cooperate with and attend meetings arranged by THS Kommunikationsråd.
 
-### 3.2.9 Other board members and deputies
+### 3.2.9 Board member responsible for the chapter's history and future
+
+The board member with responsibility for the chapters history and future shall document and bring to life the chapter’s history.
+This shall be done in such a way that all future chapter activity can have use of the work, and that all chapter members can partake in the information.
+
+The board member shall contribute with information regarding the chapter’s past and earlier work to assist the chapter and the board in their function and activity.
+The board member shall also work with the board to preserve the chapter in the long term.
+
+The board member is also responsible for management of the communication with the chapter’s alumni.
+
+### 3.2.10 Other board members and deputies
 
 The remaining board members are reaponsible for working with the boards strategic questions as well as the areas the board consider important.  
 The vice treasurer is regulated under point 3.2.4.
