@@ -9,7 +9,7 @@ This memo regulates the chapter's safety officer.
 ### 1.2 Historik
 
 Established: 2014-09-22  
-Last revision: 2014-09-22
+Last revision: 2020-05-20
 
 ## 2 Organisation
 
@@ -23,7 +23,7 @@ It is part of the safety officer's responsibilities to:
 
 - represent the chapter's members in questions regarding their working environment and to make sure that work assigned to trustees adheres to The Work Environment Act.  
 - retain continual contact with THS safety officer.  
-- retain continual contact with the chapter's representative in THS and the ICT schools JML council.
+- retain continual contact with the chapter's representative in THS.
 
 ## 4 Regulations
 

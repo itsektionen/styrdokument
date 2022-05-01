@@ -9,7 +9,7 @@ The purpose of this Memo is to formulate and to regulate the chapter's Board's c
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2019-09-17
+Senast ändrat: 2020-05-20
 
 ### 1.3 Revisions to this Memo
 
@@ -56,7 +56,7 @@ The specific tasks of the board is
 - to administer budgeted means
 - to coordinate the activities of the committees
 - to dismiss a trustee elected by the chapter meeting upon their written request
-- To act as a committees chairperson in place of the ordinary chairperson if needed
+- To act as a committees' chairperson in place of the ordinary chairperson if needed
 - to summon the chapter meeting
 - to work out and propose an operational plan and budget for the coming year to be approved by the chapter meeting
 - to read through the chapter's governing documents with the elected board before retiring
@@ -68,7 +68,7 @@ The specific tasks of the board is
 
 #### 3.2.1 The president
 
-The president is the convenor of the board, leads the boards work and is the head liable for the chapters continual activities and shall therefore make sure that the work within the chapter works satisfyingly.
+The president is the convener of the board, leads the boards work and is the head liable for the chapters continual activities and shall therefore make sure that the work within the chapter works satisfyingly.
 
 The president shall cooperate actively with and attend the meetings arranged by THS Presidents council.
 
@@ -77,19 +77,19 @@ The president shall cooperate actively with and attend the meetings arranged by 
 The vice president shall, in the absence of the chapter president, exercise the president's authority and fulfill their duties.  
 Aside from this the vice president shall have the responsibilities that are delegated to them by mutual agreement.
 
-The vice president shall maintain close contact to the representatives in the councils at the ICT school, and make reports from them at every board meeting.
+The vice president shall maintain close contact to the representatives in the relevant councils for campus KTH Kista at the school of EECS, and make reports from them at every board meeting.
 
 #### 3.2.3 Secretary
 
 The secretary is responsible for the chapter's documents.  
-They shall be well read on the chapter statutes and Memos and shall make sure that it is correctly written both in meaning and language.  
+They shall be well-read on the chapter statutes and Memos and shall make sure that it is correctly written both in meaning and language.  
 
 The secretary shall act as a support for any chapter member that wishes to make a motion.
 
 #### 3.2.4 Treasurer
 
-The treasurer is responsible for the chapter's economy and for it's accounts.  
-The treasurer shall make continual minitoring of the budget including the actual result as well as a prognosis regarding at least the following quarter.  
+The treasurer is responsible for the chapter's economy and for its accounts.  
+The treasurer shall make continual monitoring of the budget including the actual result as well as a prognosis regarding at least the following quarter.  
 This report shall be made available to all chapter members and shall be updated for every ordinary chapter meeting.
 
 The deputy treasurer shall share the treasures duties and responsibilities and shall, in the same way as the treasurer, have a good insight to the chapter's current economic situation.
@@ -109,25 +109,25 @@ The board member shall actively cooperate with and attend meetings arranged by T
 
 The board member responsible for student social activities shall work long-term and strategically towards developing the student life withing the chapter and shall cooperate with the operational parts of the chapter that carries out this work.
 
-The board member shall coordinate the committees within the chapter that work operatively with the chapter's student social activities.  
+The board member shall coordinate the committees within the chapter that work operative with the chapter's student social activities.  
 The Board member shall act as a link between these committees and the board and is therefore responsible for meeting with the committees presidents before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall in absence of a better suited candidate actively cooperate with and attend meetings arranged by THS Lokalråd.  
-The board member shall in absence of a better suited candidate actively cooperate with and attend meetings arranged by THS’ and the ICT-school’s Equality councils.  
+The board member shall in absence of a better suited candidate actively cooperate with and attend meetings arranged by THS’ and the school of EECS Equality councils.  
 
 ### 3.2.7 Board member responsible for business relations
 
 The board member responsible for business relations shall work long-term and strategically towards improving the cooperation between the chapter and the business sector as well as strengthening the chapter's brand in the labour market.
 
-The board member shall be the convenor of the business relations board and shall lead the operational work of the trustees within the committee.  
+The board member shall be the convener of the business relations board and shall lead the operational work of the trustees within the committee.  
 The board member shall act as a support for them, as well as a link between the business relations board and the chapter board.  
 The board member shall be responsible for holding a meeting with the committee before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall actively cooperate with and attend meetings arranged by THS Näringslivsråd.
 
 ### 3.2.8 Board member responsible for communication
 
-The board member responsible for communication shall work long-term and strategically towards strengthening the chapter's brand as well as it's connection to THS, improving the communikation between the different parts of the chapter and it's members and vice versa as well as surveing the students opinions on, and requests for, the chapter.
+The board member responsible for communication shall work long-term and strategically towards strengthening the chapter's brand as well as it's connection to THS, improving the communication between the different parts of the chapter and it's members and vice versa as well as surveying the students opinions on, and requests for, the chapter.
 
-The board member shall be the convenor of Communication committee and shall lead the operational work of the trustees within the committee.  
+The board member shall be the convener of Communication committee and shall lead the operational work of the trustees within the committee.  
 The board member shall act as a support for them, as well as a link between the Communication committee and the chapter board.  
 The board member shall be responsible for holding a meeting with the committee before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall actively cooperate with and attend meetings arranged by THS Kommunikationsråd.
@@ -144,13 +144,13 @@ The board member is also responsible for management of the communication with th
 
 ### 3.2.10 Other board members and deputies
 
-The remaining board members are reaponsible for working with the boards strategic questions as well as the areas the board consider important.  
+The remaining board members are responsible for working with the boards strategic questions as well as the areas the board consider important.  
 The vice treasurer is regulated under point 3.2.4.
 
 ### 3.3 Reports
 
 All board members shall make a report on every board meeting that shall focus on their individual responsibilities.  
-In the case of absence from a board meeting a written report shall be provided at the latest the day before in order for it it can be treated on the meeting.
+In the case of absence from a board meeting a written report shall be provided at the latest the day before in order for it can be treated on the meeting.
 
 ## 4 Motto
 

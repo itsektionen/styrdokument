@@ -70,7 +70,7 @@ I dessa uppgifter ingår:
 
 ### 3.4 Internationella studenter
 
-Kommunikationsnämnden har ett övergripande ansvar för kommunikationen med de internationella studenterna på ICTskolan.
+Kommunikationsnämnden har ett övergripande ansvar för kommunikationen med de internationella studenterna på EECS-skolan på campus KTH Kista.
 
 I dessa uppgifter ingår:
 

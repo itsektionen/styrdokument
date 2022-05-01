@@ -9,7 +9,7 @@ Denna PM reglerar sektionens studienämnd vilken ansvarar för samordning av stu
 ### 1.2 Historik
 
 Upprättat: 2008-02-05  
-Senast ändrat: 2014-01-01
+Senast ändrat: 2020-05-20
 
 ## 2 Organisation
 
@@ -19,8 +19,8 @@ Studienämndens styrelse består av:
 
 - Styrelseledamoten med ansvar för utbildningsinflytande.  
 - Workshopansvarig.  
-- En programansvarig student (PAS) för vardera av ICT Skolans program på grundutbildningsnivå.  
-- En programansvarig student (PAS) som bevakar samtliga masterprogram vid ICT Skolan.
+- En programansvarig student (PAS) för vardera av EECS-skolans program som ges på campus KTH Kista på grundutbildningsnivå.  
+- En programansvarig student (PAS) som bevakar samtliga masterprogram vid EECS-skolan som ges på campus KTH Kista.
 
 Finner styrelsen det lämpligt kan nämnden ta in ytterligare medlemmar.  
 Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.  
@@ -64,7 +64,7 @@ I dess uppgifter ingår:
 
 ### 3.4 Ansvarig för masterprogram
 
-En programansvarig student är ansvarig för studenternas utbildningsinflytande på masterprogrammen i ICT-skolan.
+En programansvarig student är ansvarig för studenternas utbildningsinflytande på masterprogrammen i EECS-skolan som ges på campus KTH Kista.
 
 I dess uppgifter ingår:  
 

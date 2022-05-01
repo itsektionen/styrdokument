@@ -83,4 +83,5 @@ PM för Traditioner, 2014-12-08
 PM för TraditionsMEsterIT, 2008-12-11  
 PM för Valberedningen, 2014-02-10  
 PM för Stickkontaktsansvarig, 2019-02-23  
+PM för Studiesociala nämnden, 2020-05-20  
 PM för Piff och Puff, 2020-09-28

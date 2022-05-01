@@ -9,7 +9,7 @@ Syftet med denna PM är att formalisera samt reglera sektionens Styrelses samman
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2019-09-17
+Senast ändrat: 2020-05-20
 
 ### 1.3 Ändrande av PM
 
@@ -77,7 +77,7 @@ Ordförande ska aktivt samarbeta med och delta i möten anordnat av THS Ordföra
 Vice ordförande ska i sektionsordförandes frånvaro utöva dennes befogenheter, och fullgöra dennes plikter.  
 Utöver detta innehar vice ordförande det ansvar som fördelas mellan denne och ordförande efter gemensam överenskommelse.
 
-Vice ordförande ska ha tät kontakt med representanter i ICT skolans olika råd, samt avlägga deras rapporter på varje styrelsemöte.
+Vice ordförande ska ha tät kontakt med representanter i EECS-skolans olika råd relevanta för campus KTH Kista, samt avlägga deras rapporter på varje styrelsemöte.
 
 #### 3.2.3 Sekreterare
 
@@ -112,7 +112,7 @@ Styrelseledamot med ansvar för studiesocial verksamhet ska arbeta långsiktigt 
 Ledamoten samordnar de nämnder inom sektionen som arbetar operativt med sektionens studiesociala verksamhet.  
 Ledamoten fungerar som en länk mellan dessa nämnder och styrelsen, och ansvarar därför för att träffa nämndernas ordförande inför varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara  och driva deras frågor till styrelsen och vice versa.  
 Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS Lokalråd.  
-Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS och ICT-skolans respektive JML-råd.
+Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS och EECS-skolans respektive JML-råd.
 
 #### 3.2.7 Ledamot med ansvar för näringslivssamverkan
 

@@ -10,7 +10,7 @@ The purpose of the Communication Committee is to coordinate communication, flow 
 ### 1.2 History
 
 Created: 2014-01-01  
-Last revision: 2015-01-01
+Last revision: 2020-05-20
 
 ## 2 Organisation and activities
 
@@ -42,7 +42,7 @@ The vice chairperson is also responsible for the work delegated to them by the c
 The committee for communication is responsible for:
 
 - that information about the chapter's activities is published on the chapter's official website and other channels for communication where the chapter has an official presence.  
-- that in mutual agreement with the chapter's other committiees help them to more efficiently reach the chapter's member.  
+- that in mutual agreement with the chapter's other committees help them to more efficiently reach the chapter's member.  
 - to receive and process requests and opinions regarding the chapter's website and other channels for communication.  
 - to carry out the operation of the website and mail accounts linked to the chapter' domain(s).  
 - to coordinate web developers for larger development or maintenance projects that can not be carried out by the committee.
@@ -59,18 +59,18 @@ The committee for communication is responsible for:
 
 ### 3.3 Alumni
 
-The committee for communication is responsible for the chapter's contact withthe school's alumni.
+The committee for communication is responsible for the chapter's contact with the school's alumni.
 
 The responsibilities include:
 
 - to keep the alumni member contact lists updated  
 - to designate a contact person for communication between the chapter and the alumni members  
-- to inform the alumni members about those events in the chapter that may be of interest for them  
+- to inform the alumni members about those events in the chapter that may be of interest in them  
 - to arrange events where the chapter's members can meet and network with alumni members, such as alumni pubs
 
 ### 3.4 International students
 
-The committee for communications has a general responsibility for the communication with the international students of the ICT-School.
+The committee for communications has a general responsibility for the communication with the international students of the school of EECS at campus KTH Kista.  
 
 These responsibilities include:
 
@@ -80,4 +80,4 @@ These responsibilities include:
 
 ## 4 Economy
 
-The committee has no economy of it's own.
+The committee has no economy of its own.
