@@ -9,7 +9,7 @@ Syftet med denna PM är att formalisera samt reglera hur sektionens PM skall se 
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2019-02-23
+Senast ändrat: 2020-09-28
 
 ### 1.3 Ändrande av PM
 
