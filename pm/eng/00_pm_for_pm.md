@@ -9,7 +9,7 @@ The purpose of this memo is to formulate and to regulate the form and structure 
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2014-12-07
+Last revision: 2020-09-28
 
 ### 1.3 Revising this Memo
 
@@ -81,5 +81,6 @@ Memo for Studiemiljönämden, 2008-12-11
 Memo for Studienämden, 2008-12-11  
 Memo for Traditions, 2014-12-08  
 Memo for TraditionsMEsterIT, 2008-12-11  
-Memo for the Elections Committee, 2014-02-10
-Memo for Stickkontaktsansvarig, 2019-02-23
+Memo for the Elections Committee, 2014-02-10  
+Memo for Stickkontaktsansvarig, 2019-02-23  
+Memo for PIFF and PUFF, 2020-09-28
