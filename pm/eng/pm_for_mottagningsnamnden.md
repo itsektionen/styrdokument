@@ -9,7 +9,7 @@ The purpose of this memo is to regulate the Reception Committee
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2014-11-10
+Last revision: 2019-05-21
 
 ## 2 Organisation
 
@@ -34,6 +34,8 @@ The Reception committee shall actively seek to include the chapter's other commi
 
 The chairperson is responsible to report to the board member responsible for studysocial activities before the chapter board's meetings during the whole business year.
 
+The chairperson and deputy chairperson are elected on the first ordinary chapter meeting following the end of the reception.
+
 ## 3 Economy
 
 The committee has no economy of it's own.
@@ -47,3 +49,5 @@ The Reception committee shall formulate, plan and execute the Reception.
 It is the responsibility of the committee to make certain that the execution of the Reception does not conflict with the current rules reated by THS, KTH or the chapter.
 
 For more extensive information please refer to the Rules for the Reception committee.
+
+The operational year of the Reception committee starts when all members of the committee's board have been elected by the chapter meeting.

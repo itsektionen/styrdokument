@@ -9,7 +9,7 @@ Syftet med denna PM är att formalisera samt reglera hur sektionens PM skall se 
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2020-05-20
+Senast ändrat: 2020-09-28
 
 ### 1.3 Ändrande av PM
 
@@ -84,3 +84,4 @@ PM för TraditionsMEsterIT, 2008-12-11
 PM för Valberedningen, 2014-02-10  
 PM för Stickkontaktsansvarig, 2019-02-23  
 PM för Studiesociala nämnden, 2020-05-20  
+PM för Piff och Puff, 2020-09-28

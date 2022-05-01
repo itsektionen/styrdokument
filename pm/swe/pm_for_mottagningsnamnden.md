@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera Mottagningsnämnden.
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2014-11-10
+Senast ändrat: 2019-05-21
 
 ## 2 Organisation
 
@@ -36,6 +36,8 @@ Mottagningsnämnden ska aktivt verka för att inkludera övriga nämnder i sina 
 
 Mottagningsansvarig åläggs att rapportera till ledamot med ansvar för studiesocial verksamhet i samband med sektionens styrelsemöten under hela verksamhetsåret.
 
+Val av Ordförande och Vice ordförande skall ske på första ordinarie Sektionsmöte efter Mottagningens avslutande.
+
 ## 3 Ekonomi
 
 Nämnden har inte egen ekonomi
@@ -49,3 +51,5 @@ Mottagningsnämnden skall utarbeta, planera och genomföra Mottagningen.
 Det är nämndens ansvar att tillse att Mottagningen i sitt utförande inte strider mot gällande regler uppsatta av THS, KTH eller sektionen.
 
 För utförligare information se Reglemente för Mottagningsnämnden.
+
+Verksamhetsåret för Mottagningsnämnden börjar då hela mottagningsstyrelsen för nästkommande år valts av SM.
