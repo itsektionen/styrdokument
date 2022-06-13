@@ -19,6 +19,8 @@ För ändrande av denna PM krävs ett beslut taget med kvalificerad majoritet p�
 
 ### 1.4 Omfattning
 
+Denna PM reglerar användandet av sektionens logotyp, samt sektionens material i digitala och fysiska medier.
+
 ## 2 Logotyp
 
 Sektionens logotyp definieras utförligt i PM för Sektionens Insignia.

@@ -19,6 +19,8 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 
 ### 1.4 Scope
 
+Thus memo regulates the use of the chapter's logo, and the chapter's material in digital and physical media.
+
 ## 2 Logotype
 
 The chapter’s logotype is defined in the Memo for Insignia.
