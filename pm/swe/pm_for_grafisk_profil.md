@@ -13,6 +13,12 @@ Det skall finnas en enhetlighet i allt material som ges ut, och sektionens känn
 Upprättat: 2017-05-23  
 Senast ändrat: 2022-05-03
 
+### 1.3 Ändrande av PM
+
+För ändrande av denna PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
+
+### 1.4 Omfattning
+
 ## 2 Logotyp
 
 Sektionens logotyp definieras utförligt i PM för Sektionens Insignia.

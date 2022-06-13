@@ -13,6 +13,12 @@ The material being produced shall be uniform in nature, and the chapter’s attr
 Established: 2017-05-23  
 Changed: 2022-05-03
 
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority on a chapter meeting.
+
+### 1.4 Scope
+
 ## 2 Logotype
 
 The chapter’s logotype is defined in the Memo for Insignia.
