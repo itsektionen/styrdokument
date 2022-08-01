@@ -11,7 +11,7 @@ Det skall finnas en enhetlighet i allt material som ges ut, och sektionens känn
 ### 1.2 Historik
 
 Upprättat: 2017-05-23  
-Senast ändrat: 2022-05-03
+Senast ändrat: 2022-MM-DD
 
 ### 1.3 Ändrande av PM
 
@@ -20,6 +20,11 @@ För ändrande av denna PM krävs ett beslut taget med kvalificerad majoritet p�
 ### 1.4 Omfattning
 
 Denna PM reglerar användandet av sektionens logotyp, samt sektionens material i digitala och fysiska medier.
+
+De nämnder vars logotyp baseras på sektionens logotyp skall följa samma regler som gäller användande av sektionens logotyp.
+
+De nämnder vars logotyp inte är baserad på sektionens logotyp, samt deras material i digitala och fysiska medier, omfattas inte.
+Det är dock starkt rekommenderat att nämnderna applicerar §2.2 samt §3 på sitt eget material.
 
 ## 2 Logotyp
 
@@ -55,6 +60,8 @@ Sektionens namn, "Sektionen för Informations- och Nanoteknik", på engelska "Th
 ## 3 Typografi
 
 IN-sektionen använder sig primärt av typsnittet Open Sans för digitala och fysiska medier.
+
+Det är starkt rekommenderat att även för sektionens styrdokument använda Open Sans om styrdokumenten publiceras i fristående form, till exempel som en samling PDF-filer.
 
 ## 4 Färger
 

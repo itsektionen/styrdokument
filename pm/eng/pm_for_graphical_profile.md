@@ -11,7 +11,7 @@ The material being produced shall be uniform in nature, and the chapter’s attr
 ### 1.2 History
 
 Established: 2017-05-23  
-Changed: 2022-05-03
+Changed: 2022-MM-DD
 
 ### 1.3 Revising this Memo
 
@@ -20,6 +20,11 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 ### 1.4 Scope
 
 Thus memo regulates the use of the chapter's logo, and the chapter's material in digital and physical media.
+
+The committees whose logo is based on the chapter's logo shall follow the same rules that apply to the use of the chapter's logo.
+
+The committees whose logo is not based on the chapter's logo, and their material in digital and physical media, are not covered by this memo.
+However, it is strongly recommended that the committees apply §2.2 and §3 on their own material.
 
 ## 2 Logotype
 
@@ -55,6 +60,8 @@ The chapter's name "Sektionen för Informations- och Nanoteknik", in English "Th
 ## 3 Typography
 
 The chapter primarily uses the font Open Sans for web and print.
+
+It is strongly recommended that the chapter's regulatory documents are published in Open Sans, in the case that they are published in standalone form, for example as a collection of PDF files.
 
 ## 4 Colours
 
