@@ -34,7 +34,7 @@ Den monokroma logotypen får färgsättas i andra färger än de ovan angivna, f
 För affischer och dylikt skall logotypen vara placerad i ett av affischens hörn, i enlighet med de framtagna mallarna och rådande proportioner.  
 
 Om logotypen används tillsammans med THS logotyp placeras den i det motsatta övre hörnet.  
-Använd de monokroma logotyperna om den flerfärgade logotypen syns dåligt mot en bakgrund.  
+Om den flerfärgade logotypen syns dåligt mot en bakgrund skall en monokrom version av logotypen användas.
 
 Vid användning av de monokroma logotyperna ska den vita logotypen användas om bakgrunden är mörk, och den svarta om bakgrunden är ljus.  
 

@@ -134,7 +134,7 @@ Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Kommunikat
 
 #### 3.2.9 Övriga ledamöter och suppleanter
 
-Resterande styrelseledamöter ansvarar för att jobba med styrelsens strategiska frågor samt de områden som styrelsens strategiska frågor som styrelsen anser vara lämpliga.  
+Resterande styrelseledamöter ansvarar för att jobba med styrelsens strategiska frågor samt de områden som styrelsen anser vara lämpliga.  
 Vice kassörs ansvar regleras av punkt 3.2.4.
 
 ### 3.3 Rapportering

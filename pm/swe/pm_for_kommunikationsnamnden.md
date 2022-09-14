@@ -59,7 +59,7 @@ Kommunikationsnämnden ansvarar för:
 
 ### 3.3 Alumni
 
-Kommunikationsnämnden ansvarar för sektionens kontakt med skolans alumni.
+Kommunikationsnämnden har delat ansvar med sektionens Historieansvarig för sektionens kontakt med skolans alumni.
 
 I dessa uppgifter ingår:
 

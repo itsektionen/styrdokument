@@ -17,8 +17,7 @@ Senast ändrat: 2020-05-20
 
 Studienämndens styrelse består av:  
 
-- Styrelseledamoten med ansvar för utbildningsinflytande.  
-- Workshopansvarig.  
+- Styrelseledamoten med ansvar för utbildningsinflytande.
 - En programansvarig student (PAS) för vardera av EECS-skolans program som ges på campus KTH Kista på grundutbildningsnivå.  
 - En programansvarig student (PAS) som bevakar samtliga masterprogram vid EECS-skolan som ges på campus KTH Kista.
 
@@ -38,20 +37,7 @@ Styrelseledamoten ansvarar för att möten med hela nämnden hålls inför varje
 
 Dennes ansvar och plikter regleras närmare i ”PM för Sektionens styrelse”.
 
-### 3.2 Workshopansvarig
-
-Ansvarar för att anordna workshops för sektionens medlemmar.  
-Under workshopen kan studenter i de lägre årskurserna få hjälp med studier av de handledare som är närvarande vid det aktuella tillfället.
-
-I dess uppgifter ingår:  
-
-- Att anordna workshops för sektionens medlemmar.  
-- Att informera sektionens medlemmar om verksamheten.  
-- Att hitta lämpliga handledare.  
-- Att utvärdera verksamheten.  
-- Att aktivt och kontinuerligt arbeta med att förbättra verksamheten.
-
-### 3.3 PAS
+### 3.2 PAS
 
 En programansvarig student är ansvarig för studenternas utbildningsinflytande på programmet.
 
@@ -62,7 +48,7 @@ I dess uppgifter ingår:
 - Att arbeta för att förbättra det som kan och bör förbättras på programmet.  
 - Att vara tillgänglig för synpunkter kring studiefrågor.
 
-### 3.4 Ansvarig för masterprogram
+### 3.3 Ansvarig för masterprogram
 
 En programansvarig student är ansvarig för studenternas utbildningsinflytande på masterprogrammen i EECS-skolan som ges på campus KTH Kista.
 

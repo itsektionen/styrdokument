@@ -22,7 +22,7 @@ Näringslivsnämndens styrelse består av:
 
 Dessa väljs av SM.
 
-Näringslivsnämndens kan välja in fler styrelseledamöter.  
+Näringslivsnämnden kan välja in fler styrelseledamöter.  
 Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.
 
 ### 2.1 Styrelseledamot med ansvar för Näringslivssamverkan

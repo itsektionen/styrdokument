@@ -14,7 +14,9 @@ Senast ändrat: 2013-02-18
 ## 2 Officiella informationskanaler
 
 - Sektionswebbplatsen, [https://www.insektionen.se](https://www.insektionen.se)  
-- Massutskick via e-post
+- Massutskick via e-post för SM.  
+  Övriga utskick via e-post skall godkännas av sektionsstyrelsen.
+  - Inlägg på IN-Sektionens Facebooksida.
 
 ## 3 Informationspraxis
 
@@ -22,6 +24,7 @@ Senast ändrat: 2013-02-18
   Formatet på den rekommenderade signaturen kan hittas på [https://www.insektionen.se/mailinfo](https://www.insektionen.se/mailinfo).  
 - Information riktad till samtliga medlemmar ska vara på engelska och svenska.  
 - Alla funktionärer med funktionsmail ska i all mailkorrespondens gällande sektionsarbetet använda denna.
+- Information om SM och StyM skall i förhand publiceras på Facebook och sektionens webbplats.
 
 ## 4 Regler för massutskick via e-post
 
