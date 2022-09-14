@@ -9,7 +9,7 @@ Denna PM reglerar sektionens studienämnd vilken ansvarar för samordning av stu
 ### 1.2 Historik
 
 Upprättat: 2008-02-05  
-Senast ändrat: 2020-05-20
+Senast ändrat: 2021-02-25
 
 ## 2 Organisation
 

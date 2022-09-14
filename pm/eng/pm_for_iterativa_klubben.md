@@ -10,27 +10,23 @@ The purpose of the ITerative Club is to arrange events for the chapter's members
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2013-04-15
+Last revision: 2021-02-25
 
 ## 2 Organisation
 
-The ITerative Club is led by the committee's chairperson, also known as root, and the committee's vice chairperson, also known as sudo.  
-Both of these are elected by the chapter's chapter meeting.
+The ITerative Club is led by the committee's chairperson, known as root, and a deputy chairperson, known as sudo, they are both responsible for the committee's activities.
 
-Other committee board members are chosen by root and sudo.  
+They are approved by the chapter meeting.
+
+Other committee board members are elected according to the committee's regulations.  
 
 Interested members of the chapters may become members of the ITerative Club.
 
-## 3 Activities
+## 3 Economy
 
-The ITerative Club are mainly responsible to arrange alcohol-free events for all members of the chapter.
+The ITerative Club does not have a separate economy.
 
-The ITerative Club's board decide how many events shall take place during the business year.
+## 4 Activities
 
-The following must be included:
-
-- LAN  
-- "Cosy Fridays"  
-- Boardgame events
-
-The committee's activities are regulated by the ITerative Club's regulations which are subordinated to the chapter's bylaws.
+The committee's activities are regulated in the ITerative Club's regulations wich are a part of this Memo.  
+These by-laws are revised in accordance with regulations in said regulations.

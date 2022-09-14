@@ -4,13 +4,14 @@
 
 ### 1.1 Purpose
 
-The purpose of this memo is to regulate the Communication Committee.  
+The purpose of this memo is to regulate the Communication Committee.
+
 The purpose of the Communication Committee is to coordinate communication, flow of information and marketing within the chapter, and to make sure that communication with the chapter's members is clear and uniform.
 
 ### 1.2 History
 
 Created: 2014-01-01  
-Last revision: 2020-05-20
+Last revision: 2021-02-25
 
 ## 2 Organisation and activities
 

@@ -9,7 +9,7 @@ The purpose of this memo is to formulate and to regulate the form and structure 
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2020-09-28
+Last revision: 2021-02-25
 
 ### 1.3 Revising this Memo
 
@@ -62,7 +62,7 @@ The list may be changed without a decision from the chapter meeting when new Mem
 ### 3.2 PM
 
 Memo for Memos, 2008-12-11  
-Memo for History Responsible, 2022-02-25  
+Memo for History Responsible, 2021-02-25  
 Memo for Graphical Profile 2017-05-23  
 Memo for Idrottsnämden, 2008-12-11  
 Memo for Information, 2008-12-11  

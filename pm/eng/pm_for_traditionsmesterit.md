@@ -12,7 +12,7 @@ As such TMEIT shall arrange parties and other social activities for the chapter'
 ### 1.2 History
 
 Established: 2008-02-05  
-Last revision: 2014-10-07
+Last revision: 2021-02-25
 
 ## 2 Organisation
 

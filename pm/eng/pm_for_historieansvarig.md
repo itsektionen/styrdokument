@@ -8,8 +8,8 @@ The purpose of this PM is to regulate the Chapters’ History Responsible.
 
 ### 1.2 History
 
-Established: 2020-02-25
-Last revision: 2020-02-25
+Established: 2021-02-25
+Last revision: 2021-02-25
 
 ## 2 Responsibility
 

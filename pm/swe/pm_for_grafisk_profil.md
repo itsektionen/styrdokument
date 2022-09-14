@@ -11,7 +11,7 @@ Det skall finnas en enhetlighet i allt material som ges ut, och sektionens känn
 ### 1.2 Historik
 
 Upprättat: 2017-05-23  
-Senast ändrat: 2017-05-23
+Senast ändrat: 2021-02-25
 
 ## 2 Logotyp
 

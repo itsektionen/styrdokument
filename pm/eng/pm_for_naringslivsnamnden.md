@@ -11,7 +11,7 @@ The purpose of the Business Relations Committee is to market and promote the cha
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2015-01-01
+Last revision: 2021-02-25
 
 ## 2 Organisation and activities
 

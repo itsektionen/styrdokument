@@ -9,7 +9,7 @@ Syftet med denna PM är att formalisera samt reglera sektionens Styrelses samman
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2020-05-20
+Senast ändrat: 2021-02-25
 
 ### 1.3 Ändrande av PM
 

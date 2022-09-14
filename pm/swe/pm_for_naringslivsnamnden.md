@@ -11,7 +11,7 @@ Näringslivsnämndens syfte är att marknadsföra sektionen samt arbeta för att
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2015-01-01
+Senast ändrat: 2021-02-25
 
 ## 2 Organisation och verksamhet
 

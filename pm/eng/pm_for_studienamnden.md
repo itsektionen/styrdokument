@@ -9,7 +9,7 @@ This Memo regulates the chapters' education committee which is responsible for c
 ### 1.2 History
 
 Established: 2008-02-05  
-Last revision: 2020-05-20  
+Last revision: 2021-02-25
 
 ## 2 Organisation
 

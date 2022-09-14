@@ -9,7 +9,7 @@ Syftet med detta PM är att reglera sektionens historieansvarige.
 ### 1.2 Historik
 
 Upprättat: 2020-02-25  
-Senast ändrat: 2020-02-25
+Senast ändrat: 2021-02-25
 
 ## 2 Ansvar
 

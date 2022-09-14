@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera sektionens insignia.
 ### 1.2 Historik
 
 Upprättat: 2013-10-16  
-Senast ändrat: 2013-10-16
+Senast ändrat: 2021-02-25
 
 ## 1.3 Ändring
 

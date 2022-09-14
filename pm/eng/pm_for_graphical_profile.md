@@ -11,7 +11,7 @@ The material being produced shall be uniform in nature, and the chapter’s attr
 ### 1.2 History
 
 Established: 2017-05-23  
-Changed: 2017-05-23
+Changed: 2021-02-25
 
 ## 2 Logotype
 
