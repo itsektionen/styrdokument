@@ -4,7 +4,7 @@
 # Statutes of the Chapter for Information and Nanotechnology
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2021-02-25
+Last edit made at the chapter meeting on 2021-05-27
 
 \pagebreak
 
