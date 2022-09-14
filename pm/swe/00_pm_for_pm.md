@@ -44,8 +44,7 @@ En PM får aldrig reglera något som inte har relevans till det syfte som PM:n h
 
 I punkten ”historik” skall datumet för upprättande samt datum för senaste ändring av PM finnas.
 
-Huvudregeln gällande ändrande av PM är kvalificerad majoritet.  
-I vissa fall kan strängare ändringsregler förekomma, vilka finns i sådant fall angivna i PMet.
+PM ändras med kvalificerad majoritet eller i enlighet med regler angivna i PM:et.
 
 ### 2.4 Tolkning av PM
 
@@ -57,12 +56,13 @@ Dessa PM skall snarast ändras i enlighet med §2.4.2 i sektionens stadga.
 
 ### 3.1 Instruktioner
 
-Under punkt 3.2 skall samtliga sektionens aktuella PM finnas listade med namn och, med fördel, datum för PM:ets upprättade.  
+Under punkt 3.2 skall samtliga sektionens aktuella PM finnas listade med namn och datum för PM:ets upprättade.  
 Listan får ändras utan att beslut behöver fattas på SM, var efter SM beslutar om upprättande eller avskaffande av PM.
 
 ### 3.2 PM
 
 PM för PM, 2008-12-11.  
+PM för Historieansvarig, 2022-02-25  
 PM för Grafisk profil 2017-05-23  
 PM för Idrottsnämnden, 2008-12-11  
 PM för Information, 2008-12-11  
