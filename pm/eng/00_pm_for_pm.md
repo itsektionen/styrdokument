@@ -62,6 +62,7 @@ The list may be changed without a decision from the chapter meeting when new Mem
 ### 3.2 PM
 
 Memo for Memos, 2008-12-11  
+Memo for History Responsible, 2022-02-25  
 Memo for Graphical Profile 2017-05-23  
 Memo for Idrottsnämden, 2008-12-11  
 Memo for Information, 2008-12-11  

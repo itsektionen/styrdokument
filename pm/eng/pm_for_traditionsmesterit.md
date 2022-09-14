@@ -24,4 +24,4 @@ These two are approved by the Chapter meeting.
 ## 3 Activities
 
 The activities of TMEIT are regulated in it's own regulations wich are a part of this Memo.  
-These By-laws are revised in accordance with regulations in said regulations.
+These by-laws are revised in accordance with regulations in said regulations.

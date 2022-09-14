@@ -26,7 +26,7 @@ A chapter member may only be part of one board at a time.
 
 ### 2.1 Board member responsible for Communication
 
-Is the committee's chairperson and responsible for calling the whole committee to meetings before each chapter board meeting.  
+The board member responsible for Communication is the committee's chairperson and responsible for calling the whole committee to meetings before each chapter board meeting.  
 The responsibilities and duties of this person is regulated in detail in the "Memo for the Chapter's board".
 The board member responsible for Communication shall work long-term and strategically to develop the communication within the chapter.
 
@@ -55,7 +55,7 @@ The committee for communication is responsible for:
 - that profile items are procured and sold  
 - that requests by the members about profile items are processed and evaluated, by surveys in cooperation with other members of the committee  
 - to help the chapter's committees with graphical material, such as posters, if needed in the committees activities  
-- to promote the chapter's connection to THS
+- to make clear the chapter's connection to THS
 
 ### 3.3 Alumni
 

@@ -16,7 +16,7 @@ Senast ändrat: 2013-02-18
 - Sektionswebbplatsen, [https://www.insektionen.se](https://www.insektionen.se)  
 - Massutskick via e-post för SM.  
   Övriga utskick via e-post skall godkännas av sektionsstyrelsen.
-  - Inlägg på IN-Sektionens Facebooksida.
+- Inlägg på IN-Sektionens Facebooksida.
 
 ## 3 Informationspraxis
 
