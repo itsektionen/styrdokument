@@ -11,7 +11,7 @@ The material being produced shall be uniform in nature, and the chapter’s attr
 ### 1.2 History
 
 Established: 2017-05-23  
-Changed: 2017-05-23
+Changed: 2021-02-25
 
 ## 2 Logotype
 
@@ -33,9 +33,9 @@ The monochrome logotypes may be coloured in other colours than those defined abo
 
 For posters and the like the logotype shall be placed in one of the poster’s corners, in accordance with the provided templates and defined proportions.
 
-If the logotype is used together with THS’ logotype, it should be placed in the opposite upper corner.  
-Use the monochrome logotypes if the coloured logotype is is not sufficiently visible against a background.
+If the logotype is used together with THS’ logotype, it should be placed in the opposite upper corner.
 
+Use the monochrome logotypes if the coloured logotype is not sufficiently visible against a background.  
 When using the monochrome logotypes, the white logotype shall be used if the back-ground is dark, and the black if the background is light.
 
 The distance to other elements should be at least half of the logo-type’s width, on all sides.

@@ -11,7 +11,7 @@ The purpose of the Business Relations Committee is to market and promote the cha
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2015-01-01
+Last revision: 2021-02-25
 
 ## 2 Organisation and activities
 
@@ -23,7 +23,7 @@ The board of the Business Relations Committee is made up by:
 These are elected by the chapter meeting.
 
 The Business Relations Committee may elect more board members.  
-A chapter member may only be part of one board at a time.
+A chapter member may only hold one board position within the chapter's committee's at any given time.
 
 ### 2.1 Board member responsible for Business Relations
 
@@ -34,8 +34,8 @@ The responsibilities and duties of this person is regulated in detail in the Mem
 
 ### 2.2 Deputy chairperson
 
-The vice chairperson shall in the absence of the chairperson carry out their duties and execute their responsibilities.  
-The vice chairperson is also responsible for the work delegated to them by the chairperson by mutual agreement.
+The deputy chairperson shall in the absence of the chairperson carry out their duties and execute their responsibilities.  
+The deputy chairperson is also responsible for the work delegated to them by the chairperson by mutual agreement.
 
 ## 3 Activities
 
@@ -45,16 +45,16 @@ The Business Relations Committee is responsible for:
 
 - contacting and staying in touch with companies regarding company events and activities  
 - arranging events based on what is requested and agreed upon based on the previous point  
-- to evalute events that has been carried out and collect feedback from both students and companies  
+- to evaluate events that has been carried out and collect feedback from both students and companies  
 - to arrange and host Kista Arbetsmarknadsdag (KAM) during the school year
 
 ### 3.2 Sponsorship
 
 The Business Relations Committee is responsible for:
 
-- coordinating of sponsorship for all of the chapter's committies  
+- coordinating of sponsorship for all of the chapter's committees
 - to recruit a suitable number of members in order to satisfy the chapter's needs regarding sponsorship, and to supervise them
 
 ## 4 Economy
 
-The committee has no economy of it's own.
+The committee has no economy of its own.

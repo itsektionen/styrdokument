@@ -11,7 +11,7 @@ Näringslivsnämndens syfte är att marknadsföra sektionen samt arbeta för att
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2015-01-01
+Senast ändrat: 2021-02-25
 
 ## 2 Organisation och verksamhet
 
@@ -22,7 +22,7 @@ Näringslivsnämndens styrelse består av:
 
 Dessa väljs av SM.
 
-Näringslivsnämndens kan välja in fler styrelseledamöter.  
+Näringslivsnämnden kan välja in fler styrelseledamöter.  
 Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.
 
 ### 2.1 Styrelseledamot med ansvar för Näringslivssamverkan

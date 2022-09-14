@@ -10,27 +10,23 @@ ITerativa Klubben är en nämnd som syftar till att anordna evenemang för sekti
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2013-04-15  
+Senast ändrat: 2021-02-25
 
 ## 2 Organisation
 
-ITerativa Klubben leds av nämndens ordförande, även kallad root, och nämndens vice ordförande, även kallad sudo.  
-Båda dessa väljs av sektionens sektionsmöte.
+ITerativa Klubben leds av en ordförande benämnd root och en vice ordförande benämnd sudo, de ansvarar bägge för nämndens verksamhet.  
 
-Övriga styrelsemedlemmar väljs av root och sudo.
+De godkännes av SM.
+
+Övriga styrelsemedlemmar väljs enligt ITerativa Klubbens reglemente.
 
 Intresserade sektionsmedlemmar får bli medlemmar i ITerativa Klubben.
 
+## 3 Ekonomi
+
+ITerativa Klubben har ingen egen ekonomi.
+
 ## 3 Verksamhet
 
-ITerativa Klubben ansvarar främst för att anordna alkoholfria event för samtliga sektionens medlemmar.
-
-Styrelsen för ITerativa Klubben bestämmer hur många event som ska förekomma under verksamhetsåret.
-
-Av dessa ska följande event ingå:
-
-- LAN  
-- Fredagsmys  
-- Brädspelsevent
-
-Nämndens verksamhet regleras av ITerativa Klubbens reglemente som är underställda IN-sektionens stadgar.
+ITerativa Klubbens verksamhetregleras under eget reglemente vilket är en del av denna PM.  
+Detta reglemente ändras i enlighet med bestämmelser i nämnda reglemente.

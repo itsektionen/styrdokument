@@ -9,7 +9,7 @@ This Memo regulates the chapters' education committee which is responsible for c
 ### 1.2 History
 
 Established: 2008-02-05  
-Last revision: 2020-05-20  
+Last revision: 2021-02-25
 
 ## 2 Organisation
 
@@ -17,9 +17,8 @@ Last revision: 2020-05-20
 
 The board of the education committee is composed of:
 
-- The board member responsible for education influence.  
-- Workshop manager  
-- A Program representing student (PAS) for each of the educational programs at undergrad level at the school of EECS given at campus KTH Kista.  
+- The board member responsible for education influence.
+- A Program representing student (PAS) for each of the educational programs at undergrad level at the school of EECS given at campus KTH Kista.
 - A program representing student (PAS) representing all master studies programs at the school of EECS at campus KTH Kista.
 
 If the board finds it necessary it may choose to elect more members.  
@@ -38,20 +37,7 @@ It is the responsibility of the board member that meetings be held with the comm
 
 Their responsibilities and duties are further regulated in Memo for the chapter board.
 
-## 3.2 Workshop manager
-
-Is responsible for arranging workshops for the chapters members.  
-During the workshop students in the lower grades can get help in their studies by the tutors that are present.
-
-Their tasks include:
-
-- Arranging workshops for the chapter's members.  
-- Informing the chapter's members about these activities.  
-- Finding suitable tutors.  
-- Evaluating these activities.  
-- Actively and continuously working on improving these activities.
-
-### 3.3 PAS
+### 3.2 PAS
 
 A program representing student is responsible for the student's education influence at their program.
 
@@ -62,7 +48,7 @@ Their tasks include:
 - Work towards improving that wich may and should be improved at their program.  
 - Be available for opinions in matters regarding education.
 
-### 3.4 Representative for master programs
+### 3.3 Representative for master programs
 
 A program representing student is responsible for the students' education influence at the master programs at the school of EECS given at campus KTH Kista.
 

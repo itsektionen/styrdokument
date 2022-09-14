@@ -11,7 +11,7 @@ Det skall finnas en enhetlighet i allt material som ges ut, och sektionens känn
 ### 1.2 Historik
 
 Upprättat: 2017-05-23  
-Senast ändrat: 2017-05-23
+Senast ändrat: 2021-02-25
 
 ## 2 Logotyp
 
@@ -33,10 +33,10 @@ Den monokroma logotypen får färgsättas i andra färger än de ovan angivna, f
 
 För affischer och dylikt skall logotypen vara placerad i ett av affischens hörn, i enlighet med de framtagna mallarna och rådande proportioner.  
 
-Om logotypen används tillsammans med THS logotyp placeras den i det motsatta övre hörnet.  
-Använd de monokroma logotyperna om den flerfärgade logotypen syns dåligt mot en bakgrund.  
+Om logotypen används tillsammans med THS logotyp placeras den i det motsatta övre hörnet.
 
-Vid användning av de monokroma logotyperna ska den vita logotypen användas om bakgrunden är mörk, och den svarta om bakgrunden är ljus.  
+Om den flerfärgade logotypen syns dåligt mot en bakgrund skall en monokrom version av logotypen användas.  
+Vid användning av de monokroma logotyperna ska den vita logotypen användas om bakgrunden är mörk, och den svarta om bakgrunden är ljus.
 
 Avståndet till andra element bör vara minst hälften av den egna bredden, på alla sidor.
 

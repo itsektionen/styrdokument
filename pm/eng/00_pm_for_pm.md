@@ -9,7 +9,7 @@ The purpose of this memo is to formulate and to regulate the form and structure 
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2020-09-28
+Last revision: 2021-02-25
 
 ### 1.3 Revising this Memo
 
@@ -44,8 +44,7 @@ A Memo shall never regulate something that is not related to the purpose of the 
 
 In the paragraph "History" the date of creation as well as the date of the last revision shall be listed.
 
-The main rule regarding making revisions to Memos shall be a qualified majority.  
-In some cases stricter rules may occur, in which case they shall be listed in the Memo.
+A memo is changed through a decision made by a qualified majority, or in accordance with rules listed in the memo.
 
 ### 2.4 Interpretation of Memos
 
@@ -57,12 +56,13 @@ These Memos shall be changed as soon as possible in accordance with §2.4.2 in t
 
 ### 3.1 Instructions
 
-The chapter's active Memos shall be listed under point 3.2 with its name and preferably the date of its establishment.  
+The chapter's active Memos shall be listed under point 3.2 with its name and the date of its establishment.  
 The list may be changed without a decision from the chapter meeting when new Memos are adopted and abolished by the chapter meeting.
 
 ### 3.2 PM
 
 Memo for Memos, 2008-12-11  
+Memo for History Responsible, 2021-02-25  
 Memo for Graphical Profile 2017-05-23  
 Memo for Idrottsnämden, 2008-12-11  
 Memo for Information, 2008-12-11  

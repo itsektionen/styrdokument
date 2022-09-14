@@ -4,13 +4,14 @@
 
 ### 1.1 Syfte
 
-Syftet med denna PM är att reglera Kommunikationsnämnden.  
+Syftet med denna PM är att reglera Kommunikationsnämnden.
+
 Kommunikationsnämndens syfte är att koordinera kommunikation, informationsflöde och marknadsföring inom sektionen, och se till att detta gentemot sektionens medlemmar är enhetligt och överskådligt.
 
 ### 1.2 Historik
 
 Upprättat: 2014-01-01  
-Senast ändrat: 2015-01-01  
+Senast ändrat: 2021-02-25  
 
 ## 2 Organisation och verksamhet
 
@@ -59,7 +60,7 @@ Kommunikationsnämnden ansvarar för:
 
 ### 3.3 Alumni
 
-Kommunikationsnämnden ansvarar för sektionens kontakt med skolans alumni.
+Kommunikationsnämnden har delat ansvar med sektionens Historieansvarig för sektionens kontakt med skolans alumni.
 
 I dessa uppgifter ingår:
 

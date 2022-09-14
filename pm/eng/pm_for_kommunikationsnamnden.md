@@ -4,13 +4,14 @@
 
 ### 1.1 Purpose
 
-The purpose of this memo is to regulate the Communication Committee.  
+The purpose of this memo is to regulate the Communication Committee.
+
 The purpose of the Communication Committee is to coordinate communication, flow of information and marketing within the chapter, and to make sure that communication with the chapter's members is clear and uniform.
 
 ### 1.2 History
 
 Created: 2014-01-01  
-Last revision: 2020-05-20
+Last revision: 2021-02-25
 
 ## 2 Organisation and activities
 
@@ -26,7 +27,7 @@ A chapter member may only be part of one board at a time.
 
 ### 2.1 Board member responsible for Communication
 
-Is the committee's chairperson and responsible for calling the whole committee to meetings before each chapter board meeting.  
+The board member responsible for Communication is the committee's chairperson and responsible for calling the whole committee to meetings before each chapter board meeting.  
 The responsibilities and duties of this person is regulated in detail in the "Memo for the Chapter's board".
 The board member responsible for Communication shall work long-term and strategically to develop the communication within the chapter.
 
@@ -55,7 +56,7 @@ The committee for communication is responsible for:
 - that profile items are procured and sold  
 - that requests by the members about profile items are processed and evaluated, by surveys in cooperation with other members of the committee  
 - to help the chapter's committees with graphical material, such as posters, if needed in the committees activities  
-- to promote the chapter's connection to THS
+- to make clear the chapter's connection to THS
 
 ### 3.3 Alumni
 
