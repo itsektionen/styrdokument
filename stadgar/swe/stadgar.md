@@ -4,7 +4,7 @@
 # Sektionen för Informations- och Nanotekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
-Senast ändrade vid Sektionsmötet 2017-02-22
+Senast ändrade vid Sektionsmötet 2021-05-27
 
 \pagebreak
 
@@ -148,7 +148,7 @@ upprättade PM.
 
 §2.1.4 Ändring av sektionens styrande dokument tar effekt omedelbart efter att handlingar innehållande beslut om ändringarna är justerade och anslagna, om inte sektionsmötet beslutar annorlunda.
 
-§2.1.5 Sektionens styrdokument skall finnas i sin helhet på både svenska och engelska.  
+§2.1.5 Sektionens styrdokument skall finnas i sin helhet på svenska, och översättningar till engelska skall alltid finnas tillgängliga.  
 Vid eventuella tolkningstvister skall tolkningsrätt ligga på det svenska dokumentet.
 
 ### §2.2 Stadgar
@@ -203,9 +203,9 @@ Om någon är missnöjd med tolkningen har denne rätt att lyfta frågan till h�
 §3.2.3 Sektionen kan i nämndens reglerande PM göra undantag från §3.2.2.  
 Beslut om upprättande och ändrande av sådana undantag kräver alltid beslut på sektionsmöte med kvalificerad majoritet.
 
-§3.2.4 Nämnder med egen ekonomi är redovisningsskyldiga inför sektionsmötet och inför sektionsstyrelsen.
+§3.2.4 Nämnder med egen budget är redovisningsskyldiga inför sektionsmötet och inför sektionsstyrelsen.
 
-§3.2.5 Nämnder med egen ekonomi firmatecknas av nämndens ordförande och nämndens kassör, var och en för sig, om ej annat anges i nämndens styrande PM.  
+§3.2.5 Nämnder med egen budget attesteras av nämndens ordförande och nämndens kassör, var och en för sig, om ej annat anges i nämndens styrande PM.  
 Dessa ansvarar för nämndens ekonomi.  
 Nämnder utan egen ekonomi skall inte ha en firmatecknare.
 
@@ -355,7 +355,7 @@ Vid divergerande röstrapport genomförs omräkning.
 
 ### §5.8 Motion, interpellation och proposition
 
-§5.8.1 Motionsrätt har samtliga medlemmar, revisor samt THS styrelse.
+§5.8.1 Motionsrätt har samtliga medlemmar, samt THS styrelse, och revisorer.
 
 §5.8.2 Motion eller interpellation till sektionsmötet skall skriftligen vara sektionsstyrelsen tillhanda senast åtta (8) dagar före sektionsmöte.  
 Sektionsstyrelsen skall skriftligen besvara samtliga motioner och interpellationer.
@@ -524,7 +524,7 @@ Dess namn, ändamål och sammansättning regleras av PM som upprättas vid uppr�
 
 §8.2.1 Varje nämnd skall ha en ordförande som väljs eller godkänns av sektionsmötet.
 
-§8.2.2 Nämnder med egen ekonomi skall ha en kassör som väljs av sektionsmötet.
+§8.2.2 Nämnder med egen budget skall ha en ekonomiskt ansvarig person som godkänns alternativt väljs av sektionsmötet.
 
 ### §8.3 Bemyndigande
 
@@ -641,9 +641,9 @@ Undantaget är medlemskap i sektionens klubbar.
 
 ### §11.7 Ansvarsfrihet
 
-§11.7.1 Frågan om ansvarsfrihet för sektionsstyrelsen och firmatecknare för sektionens övriga organ prövas av sektionsmötet.
+§11.7.1 Frågan om ansvarsfrihet för sektionsstyrelsen, firmatecknare för sektionen, och ekonomiskt ansvariga för sektionens övriga organ prövas av sektionsmötet.
 
-§11.7.2 Vid fråga om ej beviljad ansvarsfrihet bör ansvarsfrihet prövas för individuella styrelsemedlemmar och firmatecknare för sektionens övriga organ.
+§11.7.2 Vid fråga om ej beviljad ansvarsfrihet bör ansvarsfrihet prövas för individuella styrelsemedlemmar, firmatecknare och ekonomiskt ansvariga för sektionens övriga organ.
 
 ## §12 Valberedning
 

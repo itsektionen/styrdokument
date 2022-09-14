@@ -4,7 +4,7 @@
 # Statutes of the Chapter for Information and Nanotechnology
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2017-02-22
+Last edit made at the chapter meeting on 2021-05-27
 
 \pagebreak
 
@@ -111,8 +111,7 @@ They sign the chapter firm together.
 
 The chapter board may suggest other signatories that the chapter meeting can approve.
 
-§1.6.2 The chapter's signatories shall be at least 20 years old and have no payment
-defaults and must not be in any criminal record.
+§1.6.2 The chapter's signatories shall be at least 20 years old, have no payment defaults, and must not appear in any criminal records.
 
 ### §1.7 Structure
 
@@ -151,7 +150,7 @@ defaults and must not be in any criminal record.
 
 §2.1.4 Changes made to the chapter's by-laws take effect immediately after the minutes, including decisions regarding said changes, have been adjusted and published, unless the chapter meeting decides otherwise.
 
-§2.1.5 All of the Chapter's regulatory documents shall be available in full in both Swedish and English.  
+§2.1.5 All of the Chapter's regulatory documents shall be available in full in Swedish, and up-to-date English translations shall always be available.  
 In the event of any difference of interpretation the Swedish document holds precedence.
 
 ### §2.2 Statutes
@@ -207,10 +206,10 @@ If any part is displeased with the interpretation they have the right to take th
 §3.2.3 The chapter can make exceptions from §3.2.2 in the committees' governing memo.  
 Decisions regarding the establishing and changing of such exceptions always require approval from the chapter meeting with a qualified majority.
 
-§3.2.4 A committee with its own economy is required to make its accounting available to the chapter meeting and the chapter board.
+§3.2.4 A committee with its own budget  is required to make its accounting available to the chapter meeting and the chapter board.
 
-§3.2.5 Committees with their own economy are signed separately by the committee president and treasurer unless otherwise is stated in the committees governing memo.  
-The signatories are responsible for the committees economy.  
+§3.2.5 Committees with their own budget are authorized separately by the committee president and treasurer unless otherwise is stated in the committee's governing memo.  
+The authorizing  parties are responsible for the committee’s economy.  
 Committees without its own economy shall not have any signatories.
 
 ### §3.3 Responsibilities
@@ -305,9 +304,8 @@ The right to vote may not be used to vote for one self or on the topic of one's 
 §5.2.2 Any other persons have the right to attend the chapter meeting.  
 If a member with the right to vote demands it, the meeting must be held behind closed doors, in which case only members with the right to vote or co-opted persons have the right to attend.
 
-§5.2.3 The chapter meeting have the right to co-opt persons to parts of, or the entire meeting.  
-Co-opted persons have the right to attend and the right to speak in
-the questions they have been co-opted for.
+§5.2.3 The chapter meeting has the right to co-opt persons to parts of, or the entire meeting.  
+Co-opted persons have the right to attend and the right to speak in the questions they have been co-opted for.
 
 ### §5.3 Assembly
 
@@ -392,7 +390,7 @@ Other contact information that is not directly connected to the chapter shall on
 Reservations against decisions made at the chapter meeting shall be handed to the chairman of the meeting at most 24 hours after the meeting is concluded.  
 The chairman of the meeting has the right to demand that all or some demands and follow-up motions be presented in writing.
 
-§5.9.3 Meeting protocols are adjusted by the chairman of the meeting, as well as two adjustors chosen by the meeting, at most ten work days after the chapter meeting, whereupon the protocols should be published as soon as possible.  
+§5.9.3 Meeting protocols are adjusted by the chairman of the meeting, as well as two adjusters chosen by the meeting, at most ten work days after the chapter meeting, whereupon the protocols should be published as soon as possible.  
 The chapter secretary is responsible for making sure the protocols are adjusted and published within 14 days, and that a copy is sent to THS' board if they make such a request.
 
 §5.9.4 The chairman of the meeting and the secretary of the meeting are chosen by the chapter meeting.
@@ -418,7 +416,7 @@ A by-election shall then be held during the next chapter meeting.
 §6.2.4 A trustee, except for commissioners and deputies in the union council, may be dismissed by a chapter meeting that has voted on a motion containing a request and a motivation for dismissal.  
 Such a decision requires a qualified majority.
 
-§6.2.5 If such a need is arisen the chapter board may appoint an acting trustee, except for commissioners and deputies in the union council, until a by-election can be held during the next chapter meeting.
+§6.2.5 If such a need arises the chapter board may appoint an acting trustee, except for commissioners and deputies in the union council, until a by-election can be held during the next chapter meeting.
 
 §6.2.6 The current operational year may not be concluded, and a new operational year may not be started, before all positions within the chapter presidium, and at least one chapter auditor are elected for the upcoming operational year.
 
@@ -535,7 +533,7 @@ It's name, purpose and composition is regulated by a memo adopted at the time of
 
 §8.2.1 Each committee must have a president that is either elected or approved by the chapter meeting.
 
-§8.2.2 Committees with its own economy must have a treasurer that is elected by the chapter meeting.
+§8.2.2 Committees with their own budget must have an economy responsible who is elected or approved by the chapter meeting.
 
 ### §8.3 Authority
 
@@ -638,18 +636,18 @@ Reasons why this should be must be presented to and approved by the chapter meet
 - to call on any chapter body for auditing.  
 - to monitor all chapter bodies with the right to speak and make suggestions.  
 - to make changes to the praxis for accounting.  
-- to request aditional chapter meetings.
+- to request additional chapter meetings.
 
 ### §11.6 The audit report
 
 §11.6.1 Regarding the audit report the following applies:
 
 - it shall be handed in to the board at least ten (10) days before the chapter meeting where auditing is processed.  
-- it must be signed by at least two of the chapter chapter's auditors.
+- it must be signed by at least two (2) of the chapter's auditors.
 
 ### §11.7 Discharging
 
-§11.7.1 The discharging of the chapter board and the signatories for other chapter bodies is treated by the chapter meeting.
+§11.7.1 The discharging of the chapter board and the signatories for the chapter is treated by the chapter meeting.
 
 §11.7.2 In the event of the board and the signatories for other chapter bodies not being discharged as a whole, discharging of individual members of the chapter board and the signatories should be tried.
 
