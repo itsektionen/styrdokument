@@ -15,17 +15,14 @@ Last revision: 2019-05-21
 
 The Reception committee is made up by at least:
 
-- Chairperson and main responsible, called INitiationsGENeral (INGEN), who has the main responsibility and final say regarding the Reception.  
-  INGEN is elected by the chapter meeting.  
-- Deputy chairperson. Shall in the absence of INGEN carry out INGEN's duties and execute INGEN's responsibilities.  
-  Is responsible for the economy and contact for the chapter's treasurer.  
-  The vice chairperson is also responsible for the work delegated to them by INGEN by mutual agreement.  
-  Is elected by the chapter meeting.  
-- Three board members. Their areas of responsibilitiy is decided by the Reception committee.  
-  They are elected by the chapter meeting.  
-- One main responsible from each föseri.  
-  They are nominated by the current responsible and are approved by the chapter meeting.  
-  The nomination is based on a draft where all chapter members may participate.
+-   Chairperson and main responsible, called INitiationsGENeral (INGEN), who has the main responsibility and final say regarding the Reception.  
+    INGEN is elected by the chapter meeting.
+-   Deputy chairperson. Shall in the absence of INGEN carry out INGEN's duties and execute INGEN's responsibilities.  
+    Is responsible for the economy and contact for the chapter's treasurer.  
+    The vice chairperson is also responsible for the work delegated to them by INGEN by mutual agreement.  
+    Is elected by the chapter meeting.
+-   Three board members. Their areas of responsibilitiy is decided by the Reception committee.  
+    They are elected by the chapter meeting.
 
 The Reception's management/leadership, regulated by the Reception's rules, are themselves responsible for creating the structure within the committee.  
 In addition to this the Reception committee may freely define and assign additional areas of responsibility to handle questions such as specific events and marketing.
