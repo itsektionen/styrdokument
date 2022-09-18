@@ -61,27 +61,28 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 ### 3.2 PM
 
-PM för PM, 2008-12-11.  
+PM för PM, 2008-12-11  
+PM för Förtroendevalda Positioner 2021-11-29  
+PM för Grafisk Profil, 2017-05-23  
 PM för Historieansvarig, 2021-02-25  
-PM för Grafisk profil 2017-05-23  
 PM för Idrottsnämnden, 2008-12-11  
 PM för Information, 2008-12-11  
 PM för Insignia, 2013-10-16  
-PM för Iterativa klubben, 2008-12-11  
+PM för ITerativa Klubben, 2008-12-11  
 PM för Kommunikationsnämnden, 2014-01-01  
 PM för Mottagningsnämnden, 2008-12-11  
 PM för Näringslivsnämnden, 2008-12-11  
+PM för PIFF och PUFF, 2020-09-28  
 PM för Qlubbmästeriet IN-sektionen Kista, 2009-05-15  
-PM för Sektionens profil, 2014-02-10  
-PM för Sektionens styrelse, 2008-12-11  
-PM för Sektionens utrymmen, 2008-12-11  
+PM för Sektionens Profil, 2014-02-10  
+PM för Sektionens Styrelse, 2008-12-11  
+PM för Sektionens Utrymmen, 2008-12-11  
 PM för Sektionsfanan, 2011-12-08  
 PM för Skyddsombud, 2014-09-22  
+PM för Stickkontaktsansvarig, 2019-02-23  
 PM för Studiemiljönämnden, 2008-12-11  
 PM för Studienämnden, 2008-12-11  
+PM för Studiesociala nämnden, 2020-05-20  
 PM för Traditioner, 2014-12-08  
 PM för TraditionsMEsterIT, 2008-12-11  
 PM för Valberedningen, 2014-02-10  
-PM för Stickkontaktsansvarig, 2019-02-23  
-PM för Studiesociala nämnden, 2020-05-20  
-PM för Piff och Puff, 2020-09-28
