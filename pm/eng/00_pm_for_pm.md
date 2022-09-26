@@ -64,6 +64,7 @@ The list may be changed without a decision from the chapter meeting when new Mem
 Memo for Memos, 2008-12-11  
 Memo for Business Relations Committee, 2008-12-11  
 Memo for Communication Committee, 2014-01-01  
+Memo for Council of Safety, 2014-09-22  
 Memo for Graphical Profile, 2017-05-23  
 Memo for History Responsible, 2021-02-25  
 Memo for ITerativa Klubben, 2008-12-11  
@@ -85,4 +86,3 @@ Memo for the Chapter Standard, 2011-12-08
 Memo for the Chapter's Locals, 2008-12-11  
 Memo for the Chapter's Profile, 2014-02-10  
 Memo for the Elections Committee, 2014-02-10  
-Memo for the Safety Officer, 2014-09-22

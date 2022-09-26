@@ -78,11 +78,11 @@ PM för Sektionens Profil, 2014-02-10
 PM för Sektionens Styrelse, 2008-12-11  
 PM för Sektionens Utrymmen, 2008-12-11  
 PM för Sektionsfanan, 2011-12-08  
-PM för Skyddsombud, 2014-09-22  
 PM för Stickkontaktsansvarig, 2019-02-23  
 PM för Studiemiljönämnden, 2008-12-11  
 PM för Studienämnden, 2008-12-11  
 PM för Studiesociala nämnden, 2020-05-20  
 PM för Traditioner, 2014-12-08  
 PM för TraditionsMEsterIT, 2008-12-11  
-PM för Valberedningen, 2014-02-10
+PM för Trygghetsråd, 2014-09-22  
+PM för Valberedningen, 2014-02-10  
