@@ -9,16 +9,20 @@ Detta dokument reglerar traditioner som är bra för sektionens sammanhållning 
 ### 1.2 Historik
 
 Upprättat: 2014-12-08  
-Senast ändrat: 2014-12-08
+Senast ändrat: 2022-09-27
 
-### 1.3 Villkor
+### 1.3 Ändrande av PM
+
+För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
+
+### 1.4 Villkor
 
 För att en tradition ska läggas till i detta dokument ska den ha ägt rum minst tre år i rad och med samma ändamål.  
 En tradition skall strykas ur detta dokument om villkoren inte uppfylls ett år.  
 En sådan ändring kan göras av styrelsen utan beslut fattat av sektionsmötet.  
 Undantag från denna regel kan göras i särskilda fall.
 
-### 1.4 Format
+### 1.5 Format
 
 Alla traditioner ska beskrivas med ett namn och en kortare beskrivning, och ska vara skrivet under den nämnd som arrangerar och ansvarar för traditionen.
 

@@ -12,7 +12,11 @@ As such QMISK shall arrange parties and other social activities for the chapter 
 ### 1.2 History
 
 Established: 2009-05-15  
-Last revision: 2015-03-02
+Last revision: 2022-09-27
+
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority at a chapter meeting.
 
 ## 2 Organisation
 

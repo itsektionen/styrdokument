@@ -11,7 +11,11 @@ Näringslivsnämndens syfte är att marknadsföra sektionen samt arbeta för att
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2021-02-25
+Senast ändrat: 2022-09-27
+
+### 1.3 Ändrande av PM
+
+För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
 
 ## 2 Organisation och verksamhet
 

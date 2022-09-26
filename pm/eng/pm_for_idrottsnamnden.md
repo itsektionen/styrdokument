@@ -11,7 +11,11 @@ The purpose of the Sports Committee is to encourage physical activities in the c
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2014-10-07
+Last revision: 2022-09-27
+
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority at a chapter meeting.
 
 ## 2 Organisation
 

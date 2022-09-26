@@ -9,9 +9,13 @@ This Memo regulates the chapter's standard which is used to represent the chapte
 ### 1.2 History
 
 Established: 2011-12-08  
-Last revision: 2013-02-18
+Last revision: 2022-09-27
 
 The Chapter standard was aquired on 2011-09-21
+
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority at a chapter meeting.
 
 ## 2 Organisation
 

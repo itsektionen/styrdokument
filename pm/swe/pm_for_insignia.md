@@ -11,7 +11,7 @@ Denna PM är avsedd att reglera sektionens insignia.
 Upprättat: 2013-10-16  
 Senast ändrat: 2021-02-25
 
-## 1.3 Ändring
+### 1.3 Ändrande av PM
 
 För ändring av ändring av denna PM krävs beslut taget med kvalificerad majoritet på två på varandra följande SM.
 

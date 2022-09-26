@@ -9,9 +9,13 @@ Denna PM reglerar sektionens fana vilken används för att representera sektione
 ### 1.2 Historik
 
 Upprättat: 2011-12-08  
-Senast ändrat: 2013-02-18
+Senast ändrat: 2012-09-27
 
 Sektionsfanan införskaffades 2011-09-21
+
+### 1.3 Ändrande av PM
+
+För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
 
 ## 2 Organisation
 

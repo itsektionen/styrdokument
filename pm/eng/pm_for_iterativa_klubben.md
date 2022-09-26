@@ -10,7 +10,11 @@ The purpose of the ITerative Club is to arrange events for the chapter's members
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2021-02-25
+Last revision: 2022-09-27
+
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority at a chapter meeting.
 
 ## 2 Organisation
 

@@ -11,7 +11,11 @@ Kommunikationsnämndens syfte är att koordinera kommunikation, informationsflö
 ### 1.2 Historik
 
 Upprättat: 2014-01-01  
-Senast ändrat: 2021-12-13  
+Senast ändrat: 2022-09-27  
+
+### 1.3 Ändrande av PM
+
+För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
 
 ## 2 Organisation och verksamhet
 

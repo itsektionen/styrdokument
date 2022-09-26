@@ -11,7 +11,11 @@ Valberedningen bereder de val som förrättas av sektionsmötet i enlighet med s
 ### 1.2. Historik
 
 Upprättat: 2014-02-10  
-Senast ändrat: 2014-04-09
+Senast ändrat: 2022-09-27
+
+### 1.3 Ändrande av PM
+
+För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
 
 ## 2. Bakgrund
 

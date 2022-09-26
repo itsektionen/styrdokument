@@ -11,6 +11,10 @@ Denna PM är avsedd att reglera Mottagningsnämnden.
 Upprättat: 2008-12-11  
 Senast ändrat: 2022-09-27
 
+### 1.3 Ändrande av PM
+
+För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
+
 ## 2 Organisation
 
 Mottagningsnämnden består som minst av:

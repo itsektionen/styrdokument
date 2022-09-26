@@ -11,7 +11,7 @@ The purpose of this memo is to regulate the chapter's insignia.
 Created: 2013-10-16  
 Last revision: 2021-02-25
 
-## 1.3 Change
+### 1.3 Revising this Memo
 
 To change this memo a decision needs to be made with qualified majority on two chapter meetings in a row.
 

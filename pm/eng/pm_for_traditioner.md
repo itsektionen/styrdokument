@@ -9,16 +9,20 @@ This document regulates the traditions that promotes fellowship and continuity w
 ### 1.2 History
 
 Established: 2014-12-08  
-Last revision: 2014-12-08
+Last revision: 2022-09-27
 
-### 1.3 Conditions
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority at a chapter meeting.
+
+### 1.4 Conditions
 
 In order for a tradition to be added to this document it shall take place at least three consecutive years with the same purpouse.  
 A tradition shall be omitted from this document if for one year the coniditons are not met.  
 Such a revision may be made by the chapter board without a desicion from the chapter meeting.  
 Exceptions from this rule may be made in special cases.
 
-### 1.4 Format
+### 1.5 Format
 
 All traditions shall be described with it's name and a short description under the committee that organises and is responsible for the tradition.
 

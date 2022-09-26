@@ -11,7 +11,11 @@ The Elections Committee shall prepare the elections administered by the chapter 
 ### 1.2. History
 
 Established: 2014-02-10  
-Last revision: 2014-04-09
+Last revision: 2022-09-27
+
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority at a chapter meeting.
 
 ## 2. Background
 

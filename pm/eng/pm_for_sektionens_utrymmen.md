@@ -9,7 +9,11 @@ The purpose of this Memo is to regulate the chapter's shared resources, e.g. sto
 ### 1.2 History
 
 Established: 2008-12-11  
-Last revision: 2020-05-20
+Last revision: 2022-09-27
+
+### 1.3 Revising this Memo
+
+In order to pass a revision of this Memo, a decision has to be made with a qualified majority at a chapter meeting.
 
 ## 2 Rules
 

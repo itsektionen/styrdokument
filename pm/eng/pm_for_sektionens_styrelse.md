@@ -11,7 +11,7 @@ The purpose of this Memo is to formulate and to regulate the chapter's Board's c
 Created: 2008-12-11  
 Senast ändrat: 2021-02-25
 
-### 1.3 Revisions to this Memo
+### 1.3 Revising this Memo
 
 In order to pass a revision of this Memo a decision has to be made with a qualified majority on a chapter meeting.
 
