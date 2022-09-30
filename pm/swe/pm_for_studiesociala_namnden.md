@@ -10,7 +10,7 @@ Studiesociala  nämnden ansvarar för att långsiktigt utveckla studentlivet ino
 ### 1.2 Historik
 
 Upprättat: 2020-05-20  
-Senast ändrat: 2022-11-30  
+Senast ändrat: 2021-12-13  
 
 ### 1.3 Ändrande av PM
 
@@ -24,7 +24,7 @@ Studiesociala nämndens styrelse består av:
 
 - Ordförande samt styrelseledamot med ansvar för Studiesocial verksamhet.  
 - JML-koordinator
-- Internationell-koordinaotr (INt)  
+- Internationell-koordinator (INt)  
 
 Studiesociala nämnden kan välja in fler styrelseledamöter. Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.  
 
