@@ -5,7 +5,8 @@
 ### 1.1 Syfte
 
 Detta PM reglerar sektionens studiesociala nämnd.  
-Studiesociala  nämnden ansvarar för att långsiktigt utveckla studentlivet inom sektionen. Att samarbeta med de operativa organ inom sektionen som  utför arbetet och driva JML- och INternationellt-kopplat arbete för sektionsmedlemmar.
+Studiesociala  nämnden ansvarar för att långsiktigt utveckla studentlivet inom sektionen.
+Att samarbeta med de operativa organ inom sektionen som utför arbetet och driva JML- och INternationellt-kopplat arbete för sektionsmedlemmar.
 
 ### 1.2 Historik
 
