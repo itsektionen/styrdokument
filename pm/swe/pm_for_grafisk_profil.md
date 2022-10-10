@@ -11,7 +11,7 @@ Det skall finnas en enhetlighet i allt material som ges ut, och sektionens känn
 ### 1.2 Historik
 
 Upprättat: 2017-05-23  
-Senast ändrat: 2022-MM-DD
+Senast ändrat: 2022-09-27
 
 ### 1.3 Ändrande av PM
 
