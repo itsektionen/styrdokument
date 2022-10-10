@@ -27,39 +27,39 @@ The list may be changed without decisions at SM, where after SM decides on chang
 
 #### 2.2.1 Chapter Board
 
--   Chapter President
--   Chapter vice President
--   Chapter Secretary
--   Chapter Cashier
--   Board member responsible for education influence
--   Board member responsible for student social activities
--   Board member responsible for business relations
--   Board member responsible for communication
--   Board member – two
--   Chapter vice Cashier
+- Chapter President
+- Chapter vice President
+- Chapter Secretary
+- Chapter Cashier
+- Board member responsible for education influence
+- Board member responsible for student social activities
+- Board member responsible for business relations
+- Board member responsible for communication
+- Board member – two
+- Chapter vice Cashier
 
 #### 2.2.2 Studiemiljönämnden
 
--   StURe
--   Lill-StURe
+- StURe
+- Lill-StURe
 
 #### 2.2.3 Studiesocialanämnden
 
--   vice President with responsibility for JML
+- vice President with responsibility for JML
 
 #### 2.2.4 Studienämnden
 
--   PAS CINTE
--   PAS TCOMK
--   PAS TIDAB
--   PAS TIEDB
--   PAS Master
+- PAS CINTE
+- PAS TCOMK
+- PAS TIDAB
+- PAS TIEDB
+- PAS Master
 
 #### 2.2.5 Näringslivsnämnden
 
 - vice President
 - Responsible for Kista Arbetsmarknadsdag (KAM)
- 
+
 #### 2.2.6 Kommunikationsnämnden
 
 - vice President
@@ -73,6 +73,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 
 - INGEN
 - NÅGON
+- MÅNGA
 - Member - three
 
 #### 2.2.9 PIFF och PUFF

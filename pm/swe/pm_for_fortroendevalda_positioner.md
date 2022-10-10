@@ -74,6 +74,7 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 - INGEN
 - NÅGON
+- MÅNGA
 - Ledamot - tre
 
 #### 2.2.9 PIFF och PUFF

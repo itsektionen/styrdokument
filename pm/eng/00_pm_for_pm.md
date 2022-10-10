@@ -71,7 +71,7 @@ Memo for Information, 2008-12-11
 Memo for Insignia, 2013-10-16  
 Memo for PIFF and PUFF, 2020-09-28
 Memo for Qlubbmästeriet IN-Sektionen Kista, 2009-05-15  
-Memo for Reception Committee, 2008-12-11  
+Memo for Reception Committee, 2022-09-27  
 Memo for Sports Committee, 2008-12-11  
 Memo for Stickkontaktsansvarig, 2019-02-23  
 Memo for Student Social Committee, 2020-05-20  
@@ -85,5 +85,4 @@ Memo for the Chapter Standard, 2011-12-08
 Memo for the Chapter's Locals, 2008-12-11  
 Memo for the Chapter's Profile, 2014-02-10  
 Memo for the Elections Committee, 2014-02-10  
-Memo for the Safety Officer, 2014-09-22  
-
+Memo for the Safety Officer, 2014-09-22

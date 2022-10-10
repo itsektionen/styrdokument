@@ -70,7 +70,7 @@ PM för Idrottsnämnden, 2008-12-11
 PM för Information, 2008-12-11  
 PM för Insignia, 2013-10-16  
 PM för Kommunikationsnämnden, 2014-01-01  
-PM för Mottagningsnämnden, 2008-12-11  
+PM för Mottagningsnämnden, 2022-09-27  
 PM för Näringslivsnämnden, 2008-12-11  
 PM för PIFF och PUFF, 2020-09-28  
 PM för Qlubbmästeriet IN-sektionen Kista, 2009-05-15  
@@ -85,4 +85,4 @@ PM för Studienämnden, 2008-12-11
 PM för Studiesociala nämnden, 2020-05-20  
 PM för Traditioner, 2014-12-08  
 PM för TraditionsMEsterIT, 2008-12-11  
-PM för Valberedningen, 2014-02-10  
+PM för Valberedningen, 2014-02-10
