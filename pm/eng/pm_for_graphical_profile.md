@@ -11,7 +11,7 @@ The material being produced shall be uniform in nature, and the chapter’s attr
 ### 1.2 History
 
 Established: 2017-05-23  
-Changed: 2021-02-25
+Changed: 2022-05-03
 
 ## 2 Logotype
 
@@ -33,12 +33,14 @@ The monochrome logotypes may be coloured in other colours than those defined abo
 
 For posters and the like the logotype shall be placed in one of the poster’s corners, in accordance with the provided templates and defined proportions.
 
-If the logotype is used together with THS’ logotype, it should be placed in the opposite upper corner.
+If the logotype is used together with THS' logotype, it should be placed in the opposite corner.
 
 Use the monochrome logotypes if the coloured logotype is not sufficiently visible against a background.  
 When using the monochrome logotypes, the white logotype shall be used if the back-ground is dark, and the black if the background is light.
 
-The distance to other elements should be at least half of the logo-type’s width, on all sides.
+The distance to other elements must be at least a quarter of the logotype’s width, on all sides.
+
+The chapter's name "Sektionen för Informations- och Nanoteknik", in English "The Chapter for Information- and Nanotechnology" and the abbreviations "IN-Sektionen" and "IN-Chapter" is allowed to be closer to the logotype, but should be with the distance of b1 (the width of the top triangle or one eight of the logos width).
 
 ![How to place the chapter's logo relative to other page elements](./img/logospacing.png)
 
