@@ -11,7 +11,7 @@ To collaborate with the operational bodies within the chapter that carry out tha
 ### 1.2 History
 
 Established: 2020-05-20  
-Last revision: 2021-12-13
+Last revision: 2022-05-03
 
 ### 1.3 Revisions to this Memo
 
@@ -38,7 +38,6 @@ The Study Social Committee can also include:
 ### 2.2 Appointment
 
 All board representatives of the chapter's Study Social Committee are elected by the Chapter Meeting.  
-
 - Members of the JML-workgroup are appointed by the board of the Study Social Committee.
 - Members of the INternational-workgroup are appointed by the board of the Study Social Committee.
 
@@ -76,3 +75,8 @@ The tasks of the INternational-coordinator includes:
 - To maintain a dialogue with THS International and attend their International Councils, or equivalent international related meetings concerning the chapter.
 - To work to ensure that international students are received during the reception periods.
 - To work to ensure that all information is available in English.
+
+## 4 Logo
+
+### 4.1 JML Logo
+![JML Logo](./img/logo-jml-1500px.png)

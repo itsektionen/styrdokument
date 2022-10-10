@@ -11,7 +11,7 @@ Att samarbeta med de operativa organ inom sektionen som utför arbetet och driva
 ### 1.2 Historik
 
 Upprättat: 2020-05-20  
-Senast ändrat: 2021-12-13  
+Senast ändrat: 2022-05-03  
 
 ### 1.3 Ändrande av PM
 
@@ -27,7 +27,8 @@ Studiesociala nämndens styrelse består av:
 - JML-koordinator
 - Internationell-koordinator (INt)  
 
-Studiesociala nämnden kan välja in fler styrelseledamöter. Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.  
+Studiesociala nämnden kan välja in fler styrelseledamöter.
+Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.  
 
 Studiesociala nämnden kan även innehålla:  
 
@@ -74,3 +75,8 @@ I dessa uppgifter ingår:
 - Att hålla en dialog med THS International och närvara på deras International Councils, eller motsvarande möten.
 - Att arbeta för att internationella studenter blir mottagna under mottagningsperioderna.
 - Att arbeta för att all information finns tillgänglig på engelska.
+
+## 4 Logotyp
+
+### 4.1 JML Logotyp
+![JML Logotyp](./img/logo-jml-1500px.png)
