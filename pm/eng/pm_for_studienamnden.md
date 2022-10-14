@@ -63,3 +63,6 @@ Their tasks include:
 - Work towards improving that which may and should be improved at their program.  
 - Be available for opinions in matters regarding education.  
 - Communicating in english since students that do not speak swedish are involved.
+
+## 4 Logo
+![Education Committee Logo](./img/logo-studie-1500px.png)

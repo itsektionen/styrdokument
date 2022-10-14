@@ -63,3 +63,6 @@ I dess uppgifter ingår:
 - Att arbeta för att förbättra det som kan och bör förbättras på programmet.  
 - Att vara tillgänglig för synpunkter kring studiefrågor.  
 - Att kommunicera på engelska då studenter som ej talar svenska är involverade.
+
+## 4 Logotyp
+![Studienämnden Logotyp](./img/logo-studie-1500px.png)
