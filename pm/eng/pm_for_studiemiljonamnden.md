@@ -29,3 +29,6 @@ The committee does not have its own economy.
 
 StURe together with Lill-StURe shall perform a safety inspection round every semester.  
 It is also Studiemiljönämnden's task to make sure that error reports regarding the premises reaches Akademiska Hus and to maintain the quality of The Chapter Hall (Kistan 2.0).
+
+## 5 Logo
+![SMN Logo](./img/logo-smn-1500px.png)

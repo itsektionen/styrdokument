@@ -61,3 +61,7 @@ Verksamhetsåret för Mottagningsnämnden börjar då hela mottagningsstyrelsen 
 ### 4.1 Mastermottagningen
 
 Mottagningsnämnden skall utarbeta, planera och genomföra evenemang för nyantagna masterstudenter vid KTH i Kista.
+
+## 5 Logotyp
+
+![Mottagningenen Logotyp](./img/logo-mottagningen-1500px.png)

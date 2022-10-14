@@ -86,3 +86,7 @@ I dessa uppgifter ingår:
 ## 4 Ekonomi
 
 Nämnden har ej egen ekonomi.
+
+## 5 Logotyp
+
+![Kommunikationsnämnden Logotyp](./img/logo-kommunikation-1500px.png)

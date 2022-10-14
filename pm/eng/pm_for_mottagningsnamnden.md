@@ -61,3 +61,7 @@ The operational year of the Reception committee starts when all members of the c
 ### 4.1 Masters reception
 
 The Reception committee shall formulate, plan and execute events for the new masters students at KTH in Kista.
+
+## 5 Logo
+
+![Reception Committee Logo](./img/logo-mottagningen-1500px.png)

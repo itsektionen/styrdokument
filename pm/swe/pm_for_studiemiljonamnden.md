@@ -29,3 +29,6 @@ Nämnden har ej egen ekonomi.
 
 StURe tillsammans med Lill-StURe genomför skyddsrond varje termin.  
 Det är även Studiemiljönämndens uppgift att se till att felanmälningar av lokalerna når akademiska hus samt att Sektionslokalen (Kistan 2.0) hålls trevlig.
+
+## 5 Logotyp
+![SMN Logotyp](./img/logo-smn-1500px.png)
