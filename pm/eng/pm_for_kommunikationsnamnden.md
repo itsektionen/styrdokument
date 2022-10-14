@@ -86,3 +86,7 @@ These responsibilities include:
 ## 4 Economy
 
 The committee has no economy of its own.
+
+## 5 Logo
+
+![Communication Committee Logo](./img/logo-kommunikation-1500px.png)
