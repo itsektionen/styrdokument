@@ -26,3 +26,6 @@ Ordförande och vice ordförande väljs av sektionsmötet.
 ## 3 Ekonomi
 
 Nämnden har ej egen ekonomi.
+
+## 4 Logotyp
+![Idrottsnämnden Logotyp](./img/logo-idrott-1500px.png)
