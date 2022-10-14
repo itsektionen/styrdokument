@@ -62,3 +62,6 @@ The Business Relations Committee is responsible for:
 ## 4 Economy
 
 The committee has no economy of its own.
+
+## 5 Logo
+![Business Relations Committee Logo](./img/logo-naringsliv-1500px.png)

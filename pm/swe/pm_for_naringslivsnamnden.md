@@ -62,3 +62,6 @@ Näringslivsnämnden ansvarar för:
 ## 4 Ekonomi
 
 Näringslivsnämnden har ej egen ekonomi.
+
+## 5 Logotyp
+![Näringslivsnämnden Logotyp](./img/logo-naringsliv-1500px.png)
