@@ -31,11 +31,12 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Chapter vice President
 - Chapter Secretary
 - Chapter Cashier
-- Board member responsible for education influence
-- Board member responsible for student social activities
-- Board member responsible for business relations
-- Board member responsible for communication
-- Board member – two
+- Board member responsible for Education Influence
+- Board member responsible for Study Social Activities
+- Board member responsible for Business Relations
+- Board member responsible for Communication
+- Board member responsible for JML Activities
+- Board member
 - Chapter vice Cashier
 
 #### 2.2.2 Studiemiljönämnden
@@ -43,11 +44,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - StURe
 - Lill-StURe
 
-#### 2.2.3 Studiesocialanämnden
-
-- vice President with responsibility for JML
-
-#### 2.2.4 Studienämnden
+#### 2.2.3 Studienämnden
 
 - PAS CINTE
 - PAS TCOMK
@@ -55,59 +52,59 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - PAS TIEDB
 - PAS Master
 
-#### 2.2.5 Näringslivsnämnden
+#### 2.2.4 Näringslivsnämnden
 
 - vice President
 - Responsible for Kista Arbetsmarknadsdag (KAM)
-
-#### 2.2.6 Kommunikationsnämnden
+ 
+#### 2.2.5 Kommunikationsnämnden
 
 - vice President
 
-#### 2.2.7 Idrottsnämnden
+#### 2.2.6 Idrottsnämnden
 
 - President
 - vice President
 
-#### 2.2.8 Mottagningen
+#### 2.2.7 Mottagningen
 
 - INGEN
 - NÅGON
 - MÅNGA
 - Member - three
 
-#### 2.2.9 PIFF och PUFF
+#### 2.2.8 PIFF och PUFF
 
 - First P
 - First I
 - First F
 
-#### 2.2.10 TMEIT
+#### 2.2.9 TMEIT
 
 - TranditionsMästare
 - vice TraditionsMästare
 
-#### 2.2.11 QMISK
+#### 2.2.10 QMISK
 
 - QlubbMästare
 - vice QlubbMästare
 
-#### 2.2.12 ITK
+#### 2.2.11 ITK
 
 - Root
 - Sudo
 
-#### 2.2.13 The Link
+#### 2.2.12 The Link
 
 - President
 - vice President
 
-#### 2.2.14 The Elections Committee
+#### 2.2.13 The Elections Committee
 
 - Convener
 - Member - at least 4
 
-#### 2.2.15 Andra Positioner
+#### 2.2.14 Andra Positioner
 
 - Auditor - two
 - Safety officer

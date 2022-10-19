@@ -21,15 +21,15 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 Sektionens styrelse består av:  
 
-- Sektionens ordförande
-- Sektionens vice ordförande
-- Sektionens sekreterare
-- Sektionens kassör
-- Ledamot med ansvar för utbildningspåverkan
-- Ledamot med ansvar för studiesocial verksamhet
-- Ledamot med ansvar för näringslivssamverkan
-- Ledamot med ansvar för kommunikation
-- Ledamot
+- Sektionens Ordförande
+- Sektionens vice Ordförande
+- Sektionens Sekreterare
+- Sektionens Kassör
+- Ledamot med ansvar för Utbildningspåverkan
+- Ledamot med ansvar för Studiesocial verksamhet
+- Ledamot med ansvar för Näringslivssamverkan
+- Ledamot med ansvar för Kommunikation
+- Ledamot med ansvar för JML-verksamhet
 - Ledamot
 
 ### 2.2 Suppleanter
@@ -112,7 +112,6 @@ Styrelseledamot med ansvar för studiesocial verksamhet ska arbeta långsiktigt 
 Ledamoten samordnar de nämnder inom sektionen som arbetar operativt med sektionens studiesociala verksamhet.  
 Ledamoten fungerar som en länk mellan dessa nämnder och styrelsen, och ansvarar därför för att träffa nämndernas ordförande inför varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara  och driva deras frågor till styrelsen och vice versa.  
 Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS Lokalråd.  
-Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS och EECS-skolans respektive JML-råd.
 
 #### 3.2.7 Ledamot med ansvar för näringslivssamverkan
 
@@ -132,7 +131,15 @@ Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Kommunik
 Ledamoten ansvarar för att kalla till möte med Kommunikationsnämnden innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
 Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Kommunikationsråd.
 
-#### 3.2.9 Övriga ledamöter och suppleanter
+#### 3.2.9 Ledamot med ansvar för JML-verksamhet
+Styrelseledamot med ansvar för JML-verksamhet ska arbeta långsiktigt med att utveckla jämställdhet, mångfald och lika villkor inom sektionen och samarbeta med de operativa organ inom sektionen som utför arbetet.
+
+Ledamoten är sammankallande för JML-arbetsgruppen, och leder det operativa arbetet de andra medlemmarna inom gruppen utför.  
+Ledamoten fungerar även som stöd för dessa, samt som en länk mellan JML-arbetsgruppen och styrelsen.  
+Ledamoten ansvarar för att kalla till möte med JML-arbetsgruppen innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
+Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS, EECS-skolan och JML Rådet.
+
+#### 3.2.10 Övriga ledamöter och suppleanter
 
 Resterande styrelseledamöter ansvarar för att jobba med styrelsens strategiska frågor samt de områden som styrelsen anser vara lämpliga.  
 Vice kassörs ansvar regleras av punkt 3.2.4.

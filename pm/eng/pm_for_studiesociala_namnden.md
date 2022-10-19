@@ -4,9 +4,9 @@
 
 ### 1.1 Purpose
 
-This Memo regulates the chapter's Study Social Committee.
-The Study Social Committee is responsible for developing student life within the chapter in the long term.
-To collaborate with the operational bodies within the chapter that carry out that work and run JML- and INternationally-linked work for chapter members.
+This Memo regulates the chapter's Study Social Committee.  
+The Study Social Committee is responsible for developing student life within the chapter in the long term.  
+To collaborate with the operational bodies within the chapter that carry out that work and run INternationally-linked work for chapter members.
 
 ### 1.2 History
 
@@ -24,7 +24,6 @@ In order to pass a revision of this Memo a decision has to be made with a qualif
 The Study Social board is composed of:
 
 - President and Board Member responsible for study social activities.  
-- JML-coordinator
 - INternational-coordinator (INt)
 
 The Study Social board can elect more board members.  
@@ -32,13 +31,11 @@ An individual chapter member may only occupy one seat on the board at any given 
 
 The Study Social Committee can also include:  
 
-- JML-workgroup
 - INternational-workgroup
 
 ### 2.2 Appointment
 
 All board representatives of the chapter's Study Social Committee are elected by the Chapter Meeting.  
-- Members of the JML-workgroup are appointed by the board of the Study Social Committee.
 - Members of the INternational-workgroup are appointed by the board of the Study Social Committee.
 
 ## 3 Individual responsibility
@@ -75,8 +72,3 @@ The tasks of the INternational-coordinator includes:
 - To maintain a dialogue with THS International and attend their International Councils, or equivalent international related meetings concerning the chapter.
 - To work to ensure that international students are received during the reception periods.
 - To work to ensure that all information is available in English.
-
-## 4 Logo
-
-### 4.1 JML Logo
-![JML Logo](./img/logo-jml-1500px.png)

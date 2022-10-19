@@ -21,16 +21,17 @@ In order to pass a revision of this Memo a decision has to be made with a qualif
 
 The Chapter's board is composed of:
 
-- the chapter's president
-- the chapter's vice president
-- the chapter's secretary
-- the chapter's treasurer
-- a Board member responsible for education influence
-- a board member responsible for student social activities
-- a board member responsible for business relations
-- a board member responsible for communication
-- a board member
-- a board member
+- Chapter President
+- Chapter vice President
+- Chapter Secretary
+- Chapter Cashier
+- Board member responsible for Education Influence
+- Board member responsible for Study Social Activities
+- Board member responsible for Business Relations
+- Board member responsible for Communication
+- Board member responsible for JML Activities
+- Board member
+- Chapter vice Cashier
 
 ### 2.2 Deputies
 
@@ -105,16 +106,15 @@ The board member shall also be a support for said trustees and shall be a link b
 The Board member is responsible for summoning committee meetings before each board meeting to ensure a good insight in their work and the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall actively cooperate with and attend meetings arranged by THS Education council.
 
-### 3.2.6 Board member responsible for student social activities
+#### 3.2.6 Board member responsible for study social activities
 
-The board member responsible for student social activities shall work long-term and strategically towards developing the student life withing the chapter and shall cooperate with the operational parts of the chapter that carries out this work.
+The board member responsible for study social activities shall work long-term and strategically towards developing the student life withing the chapter and shall cooperate with the operational parts of the chapter that carries out this work.
 
-The board member shall coordinate the committees within the chapter that work operative with the chapter's student social activities.  
+The board member shall coordinate the committees within the chapter that work operative with the chapter's study social activities.  
 The Board member shall act as a link between these committees and the board and is therefore responsible for meeting with the committees presidents before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
-The board member shall in absence of a better suited candidate actively cooperate with and attend meetings arranged by THS Lokalråd.  
-The board member shall in absence of a better suited candidate actively cooperate with and attend meetings arranged by THS’ and the school of EECS Equality councils.  
+The board member shall in absence of a better suited candidate actively cooperate with and attend meetings arranged by THS Lokalråd.
 
-### 3.2.7 Board member responsible for business relations
+#### 3.2.7 Board member responsible for business relations
 
 The board member responsible for business relations shall work long-term and strategically towards improving the cooperation between the chapter and the business sector as well as strengthening the chapter's brand in the labour market.
 
@@ -123,7 +123,7 @@ The board member shall act as a support for them, as well as a link between the 
 The board member shall be responsible for holding a meeting with the committee before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall actively cooperate with and attend meetings arranged by THS Näringslivsråd.
 
-### 3.2.8 Board member responsible for communication
+#### 3.2.8 Board member responsible for communication
 
 The board member responsible for communication shall work long-term and strategically towards strengthening the chapter's brand as well as it's connection to THS, improving the communication between the different parts of the chapter and it's members and vice versa as well as surveying the students opinions on, and requests for, the chapter.
 
@@ -132,7 +132,16 @@ The board member shall act as a support for them, as well as a link between the 
 The board member shall be responsible for holding a meeting with the committee before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall actively cooperate with and attend meetings arranged by THS Kommunikationsråd.
 
-### 3.2.9 Other board members and deputies
+#### 3.2.9 Board member responsible for JML activities
+
+The board member responsible for JML activities shall work long-term and strategically towards improving equality, diversity and equal conditions within the chapter and shall cooperate with the operational parts of the chapter that carries out this work.
+
+The board member shall be the convener of the JML-workgroup and shall lead the operational work of the members within the group.  
+The board member shall act as a support for them, as well as a link between the JML-workgroup and the chapter board.  
+The board member shall be responsible for holding a meeting with the JML-workgroup before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
+The board member shall actively cooperate with and attend meetings arranged by THS, the EECS-school and JML Rådet.
+
+#### 3.2.10 Other board members and deputies
 
 The remaining board members are responsible for working with the boards strategic questions as well as the areas the board consider important.  
 The vice treasurer is regulated under point 3.2.4.

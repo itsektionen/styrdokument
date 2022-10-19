@@ -8,8 +8,7 @@ Denna PM är avsedd till att lista alla sektionens förtroendevalda positioner.
 
 ### 1.2 Historik
 
-Upprättat: 2021-11-29
-
+Upprättat: 2021-11-29  
 Senast ändrat: 2021-11-29
 
 ### 1.3 Ändrande av PM
@@ -28,87 +27,84 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 #### 2.2.1 Sektionsstyrelsen
 
--   Sektionens Ordförande
--   Sektionens vice Ordförande
--   Sektionens Sekreterare
--   Sektionens Kassör
--   Styrelseledamot med ansvar för Utbildningspåverkan
--   Styrelseledamot med ansvar för Studiesocial verksamhet
--   Styrelseledamot med ansvar för Näringslivssamverkan
--   Styrelseledamot med ansvar för Kommunikation
--   Styrelseledamot – två
--   Sektionens vice Kassör
+- Sektionens Ordförande
+- Sektionens vice Ordförande
+- Sektionens Sekreterare
+- Sektionens Kassör
+- Styrelseledamot med ansvar för Utbildningspåverkan
+- Styrelseledamot med ansvar för Studiesocial verksamhet
+- Styrelseledamot med ansvar för Näringslivssamverkan
+- Styrelseledamot med ansvar för Kommunikation
+- Styrelseledamot med ansvar för JML-verksamhet
+- Styrelseledamot
+- Sektionens vice Kassör
 
 #### 2.2.2 Studiemiljönämnden
 
--   StURe
--   Lill-StURe
+- StURe
+- Lill-StURe
 
-#### 2.2.3 Studiesocialanämnden
+#### 2.2.3 Studienämnden
 
--   vice Ordförande med ansvar för JML
+- PAS CINTE
+- PAS TCOMK
+- PAS TIDAB
+- PAS TIEDB
+- PAS Master
 
-#### 2.2.4 Studienämnden
-
--   PAS CINTE
--   PAS TCOMK
--   PAS TIDAB
--   PAS TIEDB
--   PAS Master
-
-#### 2.2.5 Näringslivsnämnden
+#### 2.2.4 Näringslivsnämnden
 
 - vice Ordförande
 - Ansvarig för Kista Arbetsmarknadsdag (KAM)
  
-#### 2.2.6 Kommunikationsnämnden
+#### 2.2.5 Kommunikationsnämnden
 
 - vice Ordförande
 
-#### 2.2.7 Idrottsnämnden
+#### 2.2.6 Idrottsnämnden
 
 - Ordförande
 - vice Ordförande
 
-#### 2.2.8 Mottagningen
+#### 2.2.7 Mottagningen
 
 - INGEN
 - NÅGON
 - MÅNGA
 - Ledamot - tre
 
-#### 2.2.9 PIFF och PUFF
+#### 2.2.8 PIFF och PUFF
 
 - Första P
 - Första I
 - Första F
 
-#### 2.2.10 TMEIT
+#### 2.2.9 TMEIT
 
 - TranditionsMästare
 - vice TraditionsMästare
 
-#### 2.2.11 QMISK
+#### 2.2.10 QMISK
 
 - QlubbMästare
 - vice QlubbMästare
 
-#### 2.2.12 ITK
+#### 2.2.11 ITK
 
 - Root
 - Sudo
 
-#### 2.2.13 The Link
+#### 2.2.12 The Link
 
 - Ordförande
 - vice Ordförande
 
-#### 2.2.14 Valberedningen
+#### 2.2.13 Valberedningen
 
 - Sammankallande
 - Medlem - minst 4
 
-#### 2.2.15 Andra Positioner
+#### 2.2.14 Andra Positioner
 
 - Revisor - två
 - Skyddsvårdsombud

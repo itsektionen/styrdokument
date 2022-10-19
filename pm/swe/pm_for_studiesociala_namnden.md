@@ -5,8 +5,8 @@
 ### 1.1 Syfte
 
 Detta PM reglerar sektionens studiesociala nämnd.  
-Studiesociala  nämnden ansvarar för att långsiktigt utveckla studentlivet inom sektionen.
-Att samarbeta med de operativa organ inom sektionen som utför arbetet och driva JML- och INternationellt-kopplat arbete för sektionsmedlemmar.
+Studiesociala nämnden ansvarar för att långsiktigt utveckla studentlivet inom sektionen.  
+Att samarbeta med de operativa organ inom sektionen som utför arbetet och driva INternationellt-kopplat arbete för sektionsmedlemmar.  
 
 ### 1.2 Historik
 
@@ -24,7 +24,6 @@ För ändrande av detta PM krävs ett beslut med kvalificerad majoritet på ett 
 Studiesociala nämndens styrelse består av:  
 
 - Ordförande samt styrelseledamot med ansvar för Studiesocial verksamhet.  
-- JML-koordinator
 - Internationell-koordinator (INt)  
 
 Studiesociala nämnden kan välja in fler styrelseledamöter.
@@ -32,13 +31,11 @@ Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.
 
 Studiesociala nämnden kan även innehålla:  
 
-- JML-arbetsgrupp
 - INternationell-arbetsgrupp
 
 ### 2.2 Tillsättning
 
 Samtliga av Studiesociala Nämndens styrelserepresentanter väljs av SM.  
-- Medlemmar i JML-arbetsgruppen tillsätts av Studiesociala Nämndens styrelse.  
 - Medlemmar i INternationella-arbetsgruppen tillsätts av Studiesociala Nämndens styrelse.
 
 ## 3 Verksamhet
@@ -75,8 +72,3 @@ I dessa uppgifter ingår:
 - Att hålla en dialog med THS International och närvara på deras International Councils, eller motsvarande möten.
 - Att arbeta för att internationella studenter blir mottagna under mottagningsperioderna.
 - Att arbeta för att all information finns tillgänglig på engelska.
-
-## 4 Logotyp
-
-### 4.1 JML Logotyp
-![JML Logotyp](./img/logo-jml-1500px.png)

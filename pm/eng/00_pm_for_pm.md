@@ -70,12 +70,13 @@ Memo for History Responsible, 2021-02-25
 Memo for ITerativa Klubben, 2008-12-11  
 Memo for Information, 2008-12-11  
 Memo for Insignia, 2013-10-16  
-Memo for PIFF and PUFF, 2020-09-28
+Memo for JML, 2022-09-27  
+Memo for PIFF and PUFF, 2020-09-28  
 Memo for Qlubbmästeriet IN-Sektionen Kista, 2009-05-15  
 Memo for Reception Committee, 2022-09-27  
 Memo for Sports Committee, 2008-12-11  
 Memo for Stickkontaktsansvarig, 2019-02-23  
-Memo for Student Social Committee, 2020-05-20  
+Memo for Study Social Committee, 2020-05-20  
 Memo for Study Committee, 2008-12-11  
 Memo for Study Enviroment Committee, 2008-12-11  
 Memo for Traditions, 2014-12-08  
