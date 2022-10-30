@@ -98,17 +98,12 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 - Root
 - Sudo
 
-#### 2.2.13 The Link
-
-- Ordförande
-- vice Ordförande
-
-#### 2.2.14 Valberedningen
+#### 2.2.13 Valberedningen
 
 - Sammankallande
 - Medlem - minst 4
 
-#### 2.2.15 Andra Positioner
+#### 2.2.14 Andra Positioner
 
 - Revisor - två
 - Skyddsvårdsombud

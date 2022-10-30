@@ -97,17 +97,12 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Root
 - Sudo
 
-#### 2.2.13 The Link
-
-- President
-- vice President
-
-#### 2.2.14 The Elections Committee
+#### 2.2.13 The Elections Committee
 
 - Convener
 - Member - at least 4
 
-#### 2.2.15 Andra Positioner
+#### 2.2.14 Andra Positioner
 
 - Auditor - two
 - Safety officer
