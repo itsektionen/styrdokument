@@ -96,6 +96,8 @@ Vice kassör delar kassörens förpliktelser och ansvar, och skall på samma sä
 
 Kassören ska aktivt samarbeta med och delta i möten anordnat av THS Ekonomiråd.
 
+Kassören skall aktivt samarbeta med sektionens inköpssamordnare och hålla den uppdaterad med sektionens ekonomi samt se till att den följer sektionens budget.
+
 #### 3.2.5 Ledamot med ansvar för utbildningspåverkan
 
 Styrelseledamot med ansvar för utbildningspåverkan ska arbeta långsiktigt och strategiskt med utbildnings-, jämlikhets- och mångfaldsfrågor inom de program som finns inom sektionen och verka för att de ständigt förbättras intill det bästa är uppnått.  

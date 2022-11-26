@@ -71,6 +71,7 @@ Memo for ITerativa Klubben, 2008-12-11
 Memo for Information, 2008-12-11  
 Memo for Insignia, 2013-10-16  
 Memo for PIFF and PUFF, 2020-09-28
+Memo for Purchase Coordinator, 2022-12-XX  
 Memo for Qlubbmästeriet IN-Sektionen Kista, 2009-05-15  
 Memo for Reception Committee, 2022-09-27  
 Memo for Sports Committee, 2008-12-11  

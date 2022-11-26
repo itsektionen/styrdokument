@@ -68,6 +68,7 @@ PM för Historieansvarig, 2021-02-25
 PM för ITerativa Klubben, 2008-12-11  
 PM för Idrottsnämnden, 2008-12-11  
 PM för Information, 2008-12-11  
+PM för Inköpssamordnare, 2022-12-XX  
 PM för Insignia, 2013-10-16  
 PM för Kommunikationsnämnden, 2014-01-01  
 PM för Mottagningsnämnden, 2022-09-27  

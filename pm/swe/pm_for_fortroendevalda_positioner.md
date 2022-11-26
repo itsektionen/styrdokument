@@ -111,3 +111,4 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 - Fanbärare
 - vice Fanbärare
 - Stickkontaktsansvarig
+- Inköpssamordnare

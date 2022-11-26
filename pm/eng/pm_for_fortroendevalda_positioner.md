@@ -30,13 +30,13 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Chapter President
 - Chapter vice President
 - Chapter Secretary
-- Chapter Cashier
+- Chapter Treasurer
 - Board member responsible for education influence
 - Board member responsible for student social activities
 - Board member responsible for business relations
 - Board member responsible for communication
 - Board member – two
-- Chapter vice Cashier
+- Chapter vice Treasurer
 
 #### 2.2.2 Studiemiljönämnden
 
@@ -110,3 +110,4 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Standard bearer
 - vice Standard bearer
 - Stickkontaktsansvarig
+- Purchase Coordinator
