@@ -11,7 +11,7 @@ Att samarbeta med de operativa organ inom sektionen som utför arbetet och driva
 ### 1.2 Historik
 
 Upprättat: 2020-05-20  
-Senast ändrat: 2022-05-03  
+Senast ändrat: 2022-11-28  
 
 ### 1.3 Ändrande av PM
 

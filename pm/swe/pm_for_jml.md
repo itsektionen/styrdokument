@@ -9,8 +9,8 @@ JML nämnden ansvarar för att långsiktigt utveckla jämställdhet, mångfald o
 
 ### 1.2 Historik
 
-Upprättat: 2022-09-27  
-Senast ändrat: 2022-09-27
+Upprättat: 2022-11-28  
+Senast ändrat: 2022-11-28
 
 ### 1.3 Ändrande av PM
 

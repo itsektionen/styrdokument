@@ -11,7 +11,7 @@ To collaborate with the operational bodies within the chapter that carry out tha
 ### 1.2 History
 
 Established: 2020-05-20  
-Last revision: 2022-05-03
+Last revision: 2022-11-28
 
 ### 1.3 Revisions to this Memo
 

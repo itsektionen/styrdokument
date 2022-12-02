@@ -69,7 +69,7 @@ PM för ITerativa Klubben, 2008-12-11
 PM för Idrottsnämnden, 2008-12-11  
 PM för Information, 2008-12-11  
 PM för Insignia, 2013-10-16  
-PM för JML, 2022-09-27  
+PM för JML, 2022-11-28  
 PM för Kommunikationsnämnden, 2014-01-01  
 PM för Mottagningsnämnden, 2022-09-27  
 PM för Näringslivsnämnden, 2008-12-11  

@@ -9,8 +9,8 @@ The JML committee is responsible for long-term development of equality, diversit
 
 ### 1.2 History
 
-Created: 2022-09-27  
-Last revision: 2022-09-27
+Created: 2022-11-28  
+Last revision: 2022-11-28
 
 ### 1.3 Revising this Memo
 
