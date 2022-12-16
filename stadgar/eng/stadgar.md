@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-![The chapter's logo](./img/logo_in_600px.png)
+![The chapter's logo](./img/logo-in-1500px.png)
 
 # Statutes of the Chapter for Information and Nanotechnology
 

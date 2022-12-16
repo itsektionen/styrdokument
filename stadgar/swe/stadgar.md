@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-![](./img/logo_in_600px.png)
+![](./img/logo-in-1500px.png)
 
 # Sektionen för Informations- och Nanotekniks Stadgar
 

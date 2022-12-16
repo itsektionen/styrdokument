@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera sektionens insignia.
 ### 1.2 Historik
 
 Upprättat: 2013-10-16  
-Senast ändrat: 2021-02-25
+Senast ändrat: 2022-11-28
 
 ### 1.3 Ändrande av PM
 
@@ -23,7 +23,7 @@ Sektionens logotyp kännetecknas av bokstäverna I och N utförda som två delar
 
 Den officiella logotypen ser ut som följer:
 
-![Sektionens logotyp, i färg](./img/logo_in_600px.png)
+![Sektionens logotyp, i färg](./img/logo-in-1500px.png)
 
 Mikrochipets ben skall ha färgen kiselblå (se § 1.2 i sektionens stadga) och centrum skall ha en mörkare ton av samma färg (exempelvis `#262D33`).  
 Blixten skall vara vit (`#FFFFFF`).
@@ -35,4 +35,4 @@ I den enfärgade versionen har mikrochipets ben samma färg som blixten, medan c
 
 Nedan finns ett exempel i svart (`#000000`).
 
-![Sektionens logotyp, monokrom, i svart](./img/logo_in_monokrom_svart.png)
+![Sektionens logotyp, monokrom, i svart](./img/logo-in-monokrom-1500px.png)

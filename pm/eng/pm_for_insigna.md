@@ -9,7 +9,7 @@ The purpose of this memo is to regulate the chapter's insignia.
 ### 1.2 History
 
 Created: 2013-10-16  
-Last revision: 2021-02-25
+Last revision: 2022-11-28
 
 ### 1.3 Revising this Memo
 
@@ -23,7 +23,7 @@ The chapter's logotype is distinguished by the letters I and N as two parts of a
 
 The official logotype looks like this:
 
-![The chapter's logo, in color](./img/logo_in_600px.png)
+![The chapter's logo, in color](./img/logo-in-1500px.png)
 
 The legs of the microchip shall be of the color "kiselblå" (see §1.2 in the chapter's statutes) and the centrum shall have a darker tone of the same color (for example `#262D33`). The lightning bolt shall be white (`#FFFFFF`).
 
@@ -34,4 +34,4 @@ In the monochrome version the microchip's legs have the same color as the lightn
 
 Below is an example in black (`#000000`).
 
-![The chapter's logo, monochrome, black](./img/logo_in_monokrom_svart.png)
+![The chapter's logo, monochrome, black](./img/logo-in-monokrom-1500px.png)
