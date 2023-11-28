@@ -66,7 +66,6 @@ Memo for Business Relations Committee, 2008-12-11
 Memo for Communication Committee, 2014-01-01  
 Memo for Council of Safety, 2014-09-22  
 Memo for Graphical Profile, 2017-05-23  
-Memo for History Responsible, 2021-02-25  
 Memo for ITerativa Klubben, 2008-12-11  
 Memo for Information, 2008-12-11  
 Memo for Insignia, 2013-10-16  
