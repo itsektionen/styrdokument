@@ -20,10 +20,13 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 ## 2 Organisation
 
-TMEIT leds av Traditionsmästaren.  
-Bland TMEIT:s övriga medlemmar utses en vice Traditionsmästare, som hjälper Traditionsmästaren samt i dennes frånvaro fullgör dennes plikter.
+TMEIT leds utav en Traditionsmästaren och vice Traditionsmästare som ansvarar för driften.  
+Dessa godkännes av SM.
 
-Dessa två godkännes av SM.
+TMEIT:s disponering av budget sköts av Skattmästare.
+Denne godkännes av SM.
+
+Övriga medlemmar väljs enligt TMEIT reglemente.
 
 ## 3 Verksamhet
 

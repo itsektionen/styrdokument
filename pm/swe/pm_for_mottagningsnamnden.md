@@ -19,19 +19,13 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 Mottagningsnämnden består som minst av:
 
-- Ordförande och huvudansvarig, benämnd INitiationsGENeral (INGEN), som har det yttersta ansvaret och ordet avseende Mottagningen som helhet.  
-  Väljs av SM.
-- Vice ordförande.  
-  Ska i INGENs frånvaro utöva dennes befogenheter, och fullgöra dennes plikter.  
-  Är ekonomisk samordnare och fungerar som kontaktperson med sektionens kassör.  
-  Utöver detta innehar vice ordförande det ansvar som fördelas mellan denne och ordförande efter gemensam överenskommelse.  
-  Benämnd Neurotisk Åskådare till Generalens Ounvikliga Nederlag (NÅGON).
-  Väljs av SM.
-- Mastermottagningens ansvaige, som har yttersta ansvaret för- och ordet avseende mastermottagningen tillsammans med INGEN.
-  Benämnd Mastermottagningens Ångestfulla och Neurotiska Generellt Ansvarige (MÅNGA).
-  Väljs av SM.
-- Tre ledamöter i Mottagningsnämndens styrelse. Deras ansvarsområden bestäms av mottagningsnämnden i början av verksamhetsåret.  
-  De väljs av SM.
+- Ordförande och huvudansvarig (INGEN)
+- Vice ordförande (NÅGON)
+- Mastermottagningens ansvarige (MÅNGA)
+- Ledamot med ansvar för Budget
+- Två ledamöter i Mottagningsnämndens styrelse.
+
+Dessa väljs av SM.
 
 Mottagningens ledning, reglerat av Mottagningens reglemente, bygger själva upp strukturen inom nämnden.  
 Utöver detta står det Mottagningsnämnden fritt att internt definiera och tilldela ytterligare ansvarsposter för att hantera frågor såsom exempelvis evenemangsansvar och marknadsföring.
@@ -40,7 +34,26 @@ Mottagningsnämnden ska aktivt verka för att inkludera övriga nämnder i sina 
 
 Mottagningsansvarig åläggs att rapportera till ledamot med ansvar för studiesocial verksamhet i samband med sektionens styrelsemöten under hela verksamhetsåret.
 
-Val av Ordförande, Vice ordförande och Mastermottagningens ansvarige skall ske på första ordinarie Sektionsmöte efter Mottagningens avslutande.
+Val av Ordförande, vice Ordförande och Mastermottagningens ansvarige skall ske på första ordinarie Sektionsmöte efter Mottagningens avslutande.
+
+### 2.1 Ordförande och huvudansvarig (INGEN)
+Benämnd INitiationsGENeral (INGEN), som har det yttersta ansvaret och ordet avseende Mottagningen som helhet.
+
+### 2.2 vice Ordförande (NÅGON)
+Ska i INGENs frånvaro utöva dennes befogenheter, och fullgöra dennes plikter.
+Utöver detta innehar vice ordförande det ansvar som fördelas mellan denne och ordförande efter gemensam överenskommelse.
+Benämnd Neurotisk Åskådare till Generalens Ounvikliga Nederlag (NÅGON).
+
+### 2.3 Mastermottagningens ansvarige
+Har yttersta ansvaret för- och ordet avseende mastermottagningen tillsammans med INGEN.
+Benämnd Mastermottagningens Ångestfulla och Neurotiska Generellt Ansvarige (MÅNGA).  
+
+### 2.4 Ledamot med ansvar för Budget
+Är ekonomisk samordnare och fungerar som kontaktperson med sektionens kassör.
+Dennes uppgift är att disponera Mottagnigens budget.  
+
+### 2.5 Ledamöter
+Deras ansvarsområden bestäms av mottagningsnämnden i början av verksamhetsåret.
 
 ## 3 Ekonomi
 
