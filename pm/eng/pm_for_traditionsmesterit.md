@@ -23,7 +23,7 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 TMEIT is led by a Traditionsmästaren and vice Traditionsmästare that are responsible for managing the committee.  
 These positions are approved by the chapter meeting.
 
-TMEIT's budget is managed by Skattmästare.
+TMEIT's budget is managed by Skattmästare.  
 Approved by the chapter meeting.
 
 Other committee members are elected according to TMEIT's regulations.

@@ -18,9 +18,11 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 
 ## 2 Organisation
 
-The ITerative Club is led by the committee's chairperson, known as root, and a deputy chairperson, known as sudo, they are both responsible for the committee's activities.
-
+The ITerative Club is led by the committee's chairperson, known as root, and a deputy chairperson, known as sudo, they are both responsible for the committee's activities.  
 They are approved by the chapter meeting.
+
+ITerative Club's budget is managed by Bureaucracy Senator.  
+Approved by the chapter meeting.
 
 Other committee board members are elected according to the committee's regulations.  
 

@@ -23,7 +23,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 QMISK leds utav en Qlubbmästare och vice Qlubbmästare som ansvarar för driften.  
 Dessa godkännes av SM.
 
-QMISK:s disponering av budget sköts av Skattmästare.
+QMISK:s disponering av budget sköts av Skattmästare.  
 Denne godkännes av SM.
 
 Övriga medlemmar väljs enligt QMISK reglemente.

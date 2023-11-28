@@ -25,6 +25,8 @@ The Reception committee is made up by at least:
 - Board member responsible for Budget
 - Two board members
 
+They are elected by the chapter meeting
+
 The Reception's management/leadership, regulated by the Reception's rules, are themselves responsible for creating the structure within the committee.  
 In addition to this the Reception committee may freely define and assign additional areas of responsibility to handle questions such as specific events and marketing.
 

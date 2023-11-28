@@ -23,7 +23,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 TMEIT leds utav en Traditionsmästaren och vice Traditionsmästare som ansvarar för driften.  
 Dessa godkännes av SM.
 
-TMEIT:s disponering av budget sköts av Skattmästare.
+TMEIT:s disponering av budget sköts av Skattmästare.  
 Denne godkännes av SM.
 
 Övriga medlemmar väljs enligt TMEIT reglemente.
