@@ -44,7 +44,7 @@ Ska i INGENs frånvaro utöva dennes befogenheter, och fullgöra dennes plikter.
 Utöver detta innehar vice ordförande det ansvar som fördelas mellan denne och ordförande efter gemensam överenskommelse.
 Benämnd Neurotisk Åskådare till Generalens Ounvikliga Nederlag (NÅGON).
 
-### 2.3 Mastermottagningens ansvarige
+### 2.3 Mastermottagningens ansvarige (MÅNGA)
 Har yttersta ansvaret för- och ordet avseende mastermottagningen tillsammans med INGEN.
 Benämnd Mastermottagningens Ångestfulla och Neurotiska Generellt Ansvarige (MÅNGA).  
 
@@ -53,7 +53,7 @@ Benämnd Mastermottagningens Ångestfulla och Neurotiska Generellt Ansvarige (M�
 Dennes uppgift är att disponera Mottagnigens budget.  
 
 ### 2.5 Ledamöter
-Deras ansvarsområden bestäms av mottagningsnämnden i början av verksamhetsåret.
+Ansvarsområden bestäms av mottagningsnämnden i början av verksamhetsåret.
 
 ## 3 Ekonomi
 
