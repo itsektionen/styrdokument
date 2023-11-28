@@ -74,7 +74,7 @@ Kommunikationsnämnden ansvarar för:
 
 ### 3.3 Alumni
 
-Historieansvarig ansvarar med hjälp av resten av Kommunikationsnämnden för sektionens kontakt med skolans alumni.
+Historieansvarig ansvarar för sektionens kontakt med skolans alumni.
 
 I dessa uppgifter ingår:
 
