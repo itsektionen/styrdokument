@@ -318,7 +318,7 @@ Som ordinarie möte räknas:
   Bör hållas efter valmötet men ska under alla omständigheter hållas innan utgång av innevarande verksamhetsår.  
   Ska även behandla kommande års verksamhetsplan.  
 - Dechargemötet, där fråga om ansvarsfrihet för föregående års sektionsstyrelse lyfts.  
-  Ska hållas senast 10 månader efter avslutat verksamhetsår.
+  Ska hållas senast 6 månader efter avslutat verksamhetsår, i enlighet med THS reglemente.
 
 Övriga möten räknas som extra insatta.
 
