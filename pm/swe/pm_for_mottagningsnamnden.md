@@ -53,7 +53,7 @@ Benämnd Mastermottagningens Ångestfulla och Neurotiska Generellt Ansvarige (M�
 Dennes uppgift är att disponera Mottagnigens budget.  
 
 ### 2.5 Ledamöter
-Ansvarsområden bestäms av mottagningsnämnden i början av verksamhetsåret.
+Deras ansvarsområden bestäms av mottagningsnämnden i början av verksamhetsåret.
 
 ## 3 Ekonomi
 

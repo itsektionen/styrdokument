@@ -53,7 +53,7 @@ Is responsible for the economy and contact for the chapter's treasurer.
 Shall manage the reception budget.
 
 ### 2.5 Board Member
-Areas of responsibilitiy is decided by the Reception committee.
+Their areas of responsibilitiy is decided by the Reception committee.
 
 ## 3 Economy
 
