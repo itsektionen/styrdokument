@@ -83,16 +83,19 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 - TranditionsMästare
 - vice TraditionsMästare
+- Skattmästare
 
 #### 2.2.10 QMISK
 
 - QlubbMästare
 - vice QlubbMästare
+- Skattmästare
 
 #### 2.2.11 ITK
 
 - Root
 - Sudo
+- Byråkratisenator
 
 #### 2.2.12 Valberedningen
 
