@@ -21,7 +21,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 Kommunikationsnämndens styrelse består av:
 
-- Styrelseledamot med ansvar för Kommunikation  
+- Styrelseledamot med ansvar för Kommunikation (KommA)
 - Vice ordförande
 - Historieansvarig
 

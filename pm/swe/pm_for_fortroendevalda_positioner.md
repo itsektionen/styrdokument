@@ -60,6 +60,7 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 #### 2.2.5 Kommunikationsnämnden
 
 - vice Ordförande
+- Historieansvarig
 
 #### 2.2.6 Idrottsnämnden
 
@@ -103,7 +104,6 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 - Revisor - två
 - Skyddsvårdsombud
-- Historieansvarig
 - Fanbärare
 - vice Fanbärare
 - Stickkontaktsansvarig

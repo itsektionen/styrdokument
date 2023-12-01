@@ -21,7 +21,7 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 
 The board of the committee for communications is made up by:
 
-- Board member responsible for Communication  
+- Board member responsible for Communication (KommA)
 - Deputy chairperson
 - History Responsible
 

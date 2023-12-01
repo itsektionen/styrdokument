@@ -60,6 +60,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 #### 2.2.5 Kommunikationsnämnden
 
 - vice President
+- History Responsible
 
 #### 2.2.6 Idrottsnämnden
 
@@ -103,7 +104,6 @@ The list may be changed without decisions at SM, where after SM decides on chang
 
 - Auditor - two
 - Safety officer
-- History Responsible
 - Standard bearer
 - vice Standard bearer
 - Stickkontaktsansvarig
