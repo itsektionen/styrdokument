@@ -11,7 +11,7 @@ The purpose of the Communication Committee is to coordinate communication, flow 
 ### 1.2 History
 
 Created: 2014-01-01  
-Last revision: 2022-09-27
+Last revision: 2023-12-05
 
 ### 1.3 Revising this Memo
 
@@ -23,6 +23,7 @@ The board of the committee for communications is made up by:
 
 - Board member responsible for Communication  
 - Deputy chairperson
+- History Responsible
 
 These are elected by the chapter meeting.
 
@@ -39,6 +40,14 @@ The board member responsible for Communication shall work long-term and strategi
 
 The vice chairperson shall in the absence of the chairperson carry out their duties and execute their responsibilities.  
 The vice chairperson is also responsible for the work delegated to them by the chairperson by mutual agreement.
+
+### 2.3 History Responsible
+The History Responsible shall document and bring the Chapter’s history to life in such a way that all future chapter activities can make use of it, and all chapter members can take part of it.
+
+The History Responsible person is headresponsible for keeping in contact with the Chapter's alumni.  
+This includes informing them of events that may be of interest to them and to create opportunities for the Chapter’s members to make contact with said alumni.
+
+The History Responsible person shall see that all the committees maintain their part of the PM of traditions and shall themselves take responsibility to preserve the Chapter´s overall traditions.
 
 ## 3 Activities
 
@@ -64,12 +73,11 @@ The committee for communication is responsible for:
 
 ### 3.3 Alumni
 
-The committee for communication is responsible for the chapter's contact with the school's alumni.
+History Responsible is responsible for the chapter's contact with the school's alumni.
 
 The responsibilities include:
 
-- to keep the alumni member contact lists updated  
-- to designate a contact person for communication between the chapter and the alumni members  
+- to be a contact person for communication between the chapter and the alumni members  
 - to inform the alumni members about those events in the chapter that may be of interest in them  
 - to arrange events where the chapter's members can meet and network with alumni members, such as alumni pubs
 
