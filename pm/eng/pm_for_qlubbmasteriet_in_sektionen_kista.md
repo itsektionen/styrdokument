@@ -23,7 +23,7 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 QMISK is led by a Qlubbmästare and vice Qlubbmästare that are responsible for managing the committee.  
 These positions are approved by the chapter meeting.
 
-QMISK's budget is managed by Skattmästare.  
+QMISK's budget is managed by the Skattmästare.  
 Approved by the chapter meeting.
 
 Other committee members are elected according to QMISK's regulations.

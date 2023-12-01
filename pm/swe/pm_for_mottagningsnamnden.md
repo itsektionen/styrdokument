@@ -50,7 +50,7 @@ Benämnd Mastermottagningens Ångestfulla och Neurotiska Generellt Ansvarige (M�
 
 ### 2.4 Ledamot med ansvar för Budget
 Är ekonomisk samordnare och fungerar som kontaktperson med sektionens kassör.
-Dennes uppgift är att disponera Mottagnigens budget.  
+Dennes uppgift är att disponera Mottagningens budget.  
 
 ### 2.5 Ledamöter
 Deras ansvarsområden bestäms av mottagningsnämnden i början av verksamhetsåret.

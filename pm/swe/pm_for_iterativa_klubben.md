@@ -21,7 +21,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 ITerativa Klubben leds av en ordförande benämnd root och en vice ordförande benämnd sudo, de ansvarar bägge för nämndens verksamhet.  
 Dessa godkännes av SM.
 
-ITerativa Klubben:s disponering av budget sköts av Byrokratisenator.  
+ITerativa Klubben:s disponering av budget sköts av Byråkratisenatorn.  
 Denne godkännes av SM.
 
 Övriga styrelsemedlemmar väljs enligt ITerativa Klubbens reglemente.
