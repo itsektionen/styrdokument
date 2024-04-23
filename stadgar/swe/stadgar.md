@@ -4,7 +4,7 @@
 # Sektionen för Informations- och Nanotekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
-Senast ändrade vid Sektionsmötet 2021-05-27
+Senast ändrade vid Sektionsmötet 2024-01-23
 
 \pagebreak
 
