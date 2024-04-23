@@ -10,7 +10,7 @@ The JML committee is responsible for long-term development of equality, diversit
 ### 1.2 History
 
 Created: 2022-11-28  
-Last revision: 2022-11-28
+Last revision: 2023-12-05
 
 ### 1.3 Revising this Memo
 
@@ -45,6 +45,8 @@ These tasks include:
 - To hold and arrange a JML workshop for new students during the reception.  
 - To hold and arrange a JML workshop for those that participate in the reception of new students.  
 - To hold and arrange a JML workshop so the chapter board and those holding a trustee position within the chapter has the opportunity to participate once during their elected term.  
+- To lead the preventive work according to the Memo for Conduct of Conduct.
+- To inform the chapter members about the PM for Conduct of Conduct.
 
 ### 3.2 JML-Workgroup
 

@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera sektionens trygghetsråd.
 ### 1.2 Historik
 
 Upprättat: 2014-09-22  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 För ändrande av denna PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
@@ -20,6 +20,9 @@ Sektionens trygghetsråd består minst av två skyddsombud varav ett huvudansvar
 Alla roller i trygghetsrådet väljs av sektionsmötet.
 
 Trygghetsrådets uppgifter kan delas upp mellan skyddsombuden eller göras gemensamt.
+
+Alla skyddsombud i Trygghetsrådet har tystnadsplikt.  
+Tystnadsplikten kan förlängas till sektionsstyrelsen vid behov.
 
 ## 3 Ansvar
 
