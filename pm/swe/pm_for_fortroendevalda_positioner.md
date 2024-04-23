@@ -71,7 +71,8 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 - INGEN
 - NÅGON
 - MÅNGA
-- Ledamot - tre
+- Ledamot med ansvar för Budget
+- Ledamot - två
 
 #### 2.2.8 PIFF och PUFF
 

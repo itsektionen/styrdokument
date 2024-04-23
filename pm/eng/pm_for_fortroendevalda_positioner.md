@@ -71,7 +71,8 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - INGEN
 - NÅGON
 - MÅNGA
-- Member - three
+- Member responsible for Budget
+- Member - two
 
 #### 2.2.8 PIFF och PUFF
 
