@@ -3,8 +3,9 @@
 ## 1 Formalities
 
 ### 1.1 Purpose
+
 The purpose of this document is for the chapter to be an inclusive and safe environment for everyone.  
-Everyone has the right to be treated with respect and should feel welcome and secure at the chapter’s activities and in the chapter premises.
+Everyone has the right to be treated with respect and should feel welcome and safe at the chapter’s activities and in the chapter premises.
 
 This Memo is part of the preventive work to avoid unacceptable behavior and to provide the chapter with a better basis to objectively handle situations where unacceptable behavior is exhibited.
 
@@ -21,7 +22,6 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 The policy must be followed by all chapter members and covers all participants in the chapter’s events, as well as in the representation of the chapter.
 
 This Memo should always be linked in all registration forms and event information.
- 
 
 ## 2 Responsabillites
 
