@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera Mottagningsnämnden.
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 

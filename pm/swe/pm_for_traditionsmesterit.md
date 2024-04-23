@@ -12,7 +12,7 @@ Som sådant ska TMEIT anordna fester och andra sociala arrangemang för sektione
 ### 1.2 Historik
 
 Upprättat: 2008-02-05  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 

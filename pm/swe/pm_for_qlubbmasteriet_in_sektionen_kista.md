@@ -12,7 +12,7 @@ Som sådant ska QMISK anordna fester och andra sociala arrangemang för sektione
 ### 1.2 Historik
 
 Upprättat: 2009-05-15  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 

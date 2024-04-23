@@ -9,7 +9,7 @@ The purpose of this memo is to regulate the Reception Committee
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2022-09-27
+Last revision: 2023-12-05
 
 ### 1.3 Revising this Memo
 
