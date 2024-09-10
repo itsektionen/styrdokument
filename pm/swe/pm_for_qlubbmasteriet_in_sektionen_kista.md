@@ -1,10 +1,10 @@
-# PM för Qlubbmästeriet IN-sektionen Kista
+# PM för Qlubbmästeriet IT-Sektionen Kista
 
 ## 1 Formalia
 
 ### 1.1 Syfte
 
-Denna PM är avsedd att reglera nämnden Qlubbmästeriet IN-sektionen Kista, förkortat QMISK.
+Denna PM är avsedd att reglera nämnden Qlubbmästeriet IT-Sektionen Kista, förkortat QMISK.
 
 QMISK är ett utav sektionens klubbmästerier.  
 Som sådant ska QMISK anordna fester och andra sociala arrangemang för sektionens medlemmar och i vissa fall även dess vänner.

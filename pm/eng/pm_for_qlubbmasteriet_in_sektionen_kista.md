@@ -1,10 +1,10 @@
-# Memo for Qlubbmästeriet IN-sektionen Kista
+# Memo for Qlubbmästeriet IT-Sektionen Kista
 
 ## 1 Formalities
 
 ### 1.1 Purpose
 
-This memo regulates the committee Qlubbmästeriet IN-sektionen Kista, shortened to QMISK.
+This memo regulates the committee Qlubbmästeriet IT-Sektionen Kista, shortened to QMISK.
 
 QMISK is one of the chapter's klubbmästerier.  
 As such QMISK shall arrange parties and other social activities for the chapter and it's friends.

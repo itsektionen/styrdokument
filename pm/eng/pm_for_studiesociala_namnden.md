@@ -6,7 +6,7 @@
 
 This Memo regulates the chapter's Study Social Committee.  
 The Study Social Committee is responsible for developing student life within the chapter in the long term.  
-To collaborate with the operational bodies within the chapter that carry out that work and run INternationally-linked work for chapter members.
+To collaborate with the operational bodies within the chapter that carry out that work and run Internationally-linked work for chapter members.
 
 ### 1.2 History
 
@@ -24,19 +24,19 @@ In order to pass a revision of this Memo a decision has to be made with a qualif
 The Study Social board is composed of:
 
 - President and Board Member responsible for study social activities.  
-- INternational-coordinator (INt)
+- International-coordinator (Int)
 
 The Study Social board can elect more board members.  
 An individual chapter member may only occupy one seat on the board at any given time.  
 
 The Study Social Committee can also include:  
 
-- INternational-workgroup
+- International-workgroup
 
 ### 2.2 Appointment
 
 All board representatives of the chapter's Study Social Committee are elected by the Chapter Meeting.  
-- Members of the INternational-workgroup are appointed by the board of the Study Social Committee.
+- Members of the International-workgroup are appointed by the board of the Study Social Committee.
 
 ## 3 Individual responsibility
 
@@ -62,11 +62,11 @@ The tasks of the JML-coordinator includes:
 - To organize and hold a JML-workshop for those who participate in the reception of new students during the reception. 
 - To arrange and hold a JML-workshop so that the chapter's board and those who hold a position of trust within the chapter have the opportunity to participate at least once during their term of office.
 
-### 3.3 INternational-coordinator (INt)
+### 3.3 International-coordinator (Int)
 
-Is responsible for promoting the position of international students in the section as well as convening and chairing the INternational working group.
+Is responsible for promoting the position of international students in the section as well as convening and chairing the International working group.
 
-The tasks of the INternational-coordinator includes:
+The tasks of the International-coordinator includes:
 
 - To coordinate events with the chapter's various bodies that promote the integration of international students. 
 - To maintain a dialogue with THS International and attend their International Councils, or equivalent international related meetings concerning the chapter.

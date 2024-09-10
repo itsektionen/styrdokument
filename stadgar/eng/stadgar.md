@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 ![The chapter's logo](./img/logo-in-1500px.png)
 
-# Statutes of the Chapter for Information and Nanotechnology
+# Statutes of the Information Technology Chapter
 
 Adopted at the chapter meeting on 2008-12-11  
 Last edit made at the chapter meeting on 2024-01-23
@@ -12,7 +12,7 @@ Last edit made at the chapter meeting on 2024-01-23
 |:---|---:|:---|---:|
 | §1 General Information | | §2 Regulatory documents |
 | §1.1 Name | | §2.1 Regulatory documents |
-| §1.2 Colour | | §2.2 Statutes |
+| §1.2 Color | | §2.2 Statutes |
 | §1.3 Purpose | | §2.3 Memos |
 | §1.4 Composition | | §2.4 Interpreting regulatory documents |
 | §1.5 Operational year | | --- |
@@ -77,26 +77,24 @@ Last edit made at the chapter meeting on 2024-01-23
 
 ### §1.1 Name
 
-§1.1.1 The chapter's name is Sektionen för Informations- och Nanoteknik (en. The
-Chapter for Information- and Nanotechnology)
+§1.1.1 The chapter's name is Informationstekniksektionen (en. Information Technology Chapter)
 
-### §1.2 Colour
+### §1.2 Color
 
-§1.2.1 The chapter's chapter colour is kiselblå (silicon blue),  
-RGB HEX-kod `#44687d`,  
-NCS: `S 6020-R90B`,  
-CMYK: `78, 51, 37, 13`,  
-PMS: `5405C`,  
-Lab: `42, -9, -16`.
+§1.2.1 The chapter's chapter colors are Laser Violet and Dark Silicon Blue,  
+Laser Violet
+HEX: `#CC99FF`
 
-### §1.3 Pupose
+Dark Silicon Blue
+HEX: `#1C2A33`
+
+### §1.3 Purpose
 
 §1.3.1 The purpose of the chapter is to promote studies, student life, and other related interests of the students at KTH Kista.
 
 ### §1.4 Composition
 
-§1.4.1 The chapter consists of its regular members, supporting members, and honorary
-members.  
+§1.4.1 The chapter consists of its regular members, supporting members, and honorarymembers.  
 To be considered a member one must pay the proper fees.
 
 ### §1.5 Operational year
@@ -136,7 +134,7 @@ The chapter board may suggest other signatories that the chapter meeting can app
 
 ### §1.10 The chapter's birthday
 
-§1.10.1 The chapter's birthday is December the fourth 2008.
+§1.10.1 The chapter's birthday is September 12, 2000.
 
 ## §2 Regulatory documents
 
@@ -206,10 +204,10 @@ If any part is displeased with the interpretation they have the right to take th
 §3.2.3 The chapter can make exceptions from §3.2.2 in the committees' governing memo.  
 Decisions regarding the establishing and changing of such exceptions always require approval from the chapter meeting with a qualified majority.
 
-§3.2.4 A committee with its own budget  is required to make its accounting available to the chapter meeting and the chapter board.
+§3.2.4 A committee with its own budget is required to make its accounting available to the chapter meeting and the chapter board.
 
 §3.2.5 Committees with their own budget are authorized separately by the committee president and treasurer unless otherwise is stated in the committee's governing memo.  
-The authorizing  parties are responsible for the committee’s economy.  
+The authorizing parties are responsible for the committee’s economy.  
 Committees without its own economy shall not have any signatories.
 
 ### §3.3 Responsibilities
@@ -257,7 +255,7 @@ required.
 - to stand as a candidate for any position of responsibility within the chapter and THS, except for the position of supervisor.  
 - to attend board meetings.  
 - to utilise of services provided by the chapter.  
-- to wear the chapter's overalls with the chapter colour and the chapter's insignia.
+- to wear the chapter's overalls with the chapter color and the chapter's insignia.
 
 §4.2.2 It is the responsibility of regular members:
 
@@ -399,13 +397,13 @@ The chapter secretary is responsible for making sure the protocols are adjusted 
 
 ### §6.1 Mandate
 
-§6.1.1 The mandate for The Chapter for Information- and Nanotechnology is the working year unless otherwise is stated in the chapter's regulatory documents.
+§6.1.1 The mandate for The Information Technology Chapter is the working year unless otherwise is stated in the chapter's regulatory documents.
 
 §6.1.2 Trustees attend their position of trust until the end of the mandate or until dismissal according to §6.2.3 or §6.2.4.
 
 ### §6.2 Appointment and removal
 
-§6.2.1 The regular election or approval of the chapter's trustees for the coming working  year occurs during the autumn semester, unless stated otherwise in the chapter's regulatory documents in accordance with §12.3.
+§6.2.1 The regular election or approval of the chapter's trustees for the coming working year occurs during the autumn semester, unless stated otherwise in the chapter's regulatory documents in accordance with §12.3.
 
 §6.2.2 By-elections of commissioners and deputies in the union council is conducted in accordance with THS' statutes.  
 By-elections to other positions of trust occur at the chapter meeting.
@@ -475,7 +473,7 @@ If the regular members cannot attend their respective deputies gain these rights
 
 §7.5.3 The deputies of the regular board members, members and deputies of the student union council, committee chairpersons, and the chapter's auditors have the right to attend, speak, and make proposals.
 
-§7.5.4 The board may co-opt additional persons to their meetings or parts thereof  with the right to attend, speak, and make proposals.
+§7.5.4 The board may co-opt additional persons to their meetings or parts thereof with the right to attend, speak, and make proposals.
 
 §7.5.5 All chapter members have the right to attend board meetings.
 

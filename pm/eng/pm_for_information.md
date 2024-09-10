@@ -33,4 +33,4 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 ## 4 Rules for use of programme mailing lists
 
 - In the subject it shall be clear that the mail refers to chapter activities.  
-  For example by including IN-Sektionen in the title according to the format “`IN-Sektionen | <title>`”.
+  For example by including IT-Sektionen in the title according to the format “`IT-Sektionen | <title>`”.

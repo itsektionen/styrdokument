@@ -1,6 +1,6 @@
 # styrdokument
 
-Regulatory documents belonging to the Chapter for Information- and Nanotechnology, written in Markdown.  
+Regulatory documents belonging to the Information Technology Chapter, written in Markdown.  
 The compiled documents are available in PDF form under [the repository's "**Releases**" page](https://github.com/insektionen/styrdokument/releases)
 
 See [Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for an introduction to Markdown syntax.

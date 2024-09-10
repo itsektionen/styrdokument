@@ -20,7 +20,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 - Sektionswebbplatsen, [https://www.insektionen.se](https://www.insektionen.se)  
 - Massutskick via e-post för SM.  
   Övriga utskick via e-post skall godkännas av sektionsstyrelsen.
-- Inlägg på IN-Sektionens Facebooksida.
+- Inlägg på IT-Sektionens Facebooksida.
 
 ## 3 Informationspraxis
 
@@ -33,4 +33,4 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 ## 4 Regler för massutskick via e-post
 
 - I ämnesraden ska det klart och tydligt framgå att mailet gäller sektionsaktivitet.  
-  Till exempel genom att inkludera IN-Sektionen i titeln enligt formatet “`IN-Sektionen | <titel>`“.
+  Till exempel genom att inkludera IT-Sektionen i titeln enligt formatet “`IT-Sektionen | <titel>`“.
