@@ -4,7 +4,7 @@
 
 ## 1.1 Purpose
 
-The purpose of this memo is to clearify the guildelines regarding the member's of the chapter of Information and Nano Technology's overalls and the chapter's other profile items.
+The purpose of this memo is to clearify the guildelines regarding the member's of the chapter of Information Technology's overalls and the chapter's other profile items.
 
 ### 1.2 History
 
@@ -23,7 +23,7 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 
 The overalls shall have the Chapter's official color and may be worn by all members.
 
-The official color is regulated in the Chapter for Information and Nano Technology's statutes.
+The official color is regulated in the Chapter for Information Technology's statutes.
 
 #### 2.1.2 Overaller for members of QMISK
 
@@ -33,7 +33,7 @@ Members of QMISK may wear ochre red overalls.
 
 The chapter's members may also wear overalls in earlier chapter colors.
 
-Recognised colors are laser violet, lime green, and ochre red.
+Recognised colors are lime green, silicon blue and ochre red.
 
 ### 2.2 Stripes
 
