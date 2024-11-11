@@ -6,11 +6,12 @@
 
 The purpose of this memo is to regulate the chapters JML committee.  
 The JML committee is responsible for long-term development of equality, diversity and equal conditions within the chapter.
+The JML committee is also responsible for furthering the integration and engagement of international students and to run Internationally-linked work for chapter members.
 
 ### 1.2 History
 
 Created: 2022-11-28  
-Last revision: 2023-12-05
+Last revision: 2024-11-11
 
 ### 1.3 Revising this Memo
 
@@ -22,14 +23,18 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 
 The JML board is composed of:
 - Board Member responsible for JML  
+- International Coordinator
 
 The JML committee includes:
 - JML-workgroup
+- International workgroup
 
 ### 2.2 Appointment
 All board representatives of the chapter's JML committee are elected by the Chapter Meeting.  
 
-The members of the JML-workgroup can be appointed by the JML committee's board.
+The members of the JML-workgroup can be appointed by the Board Member responsible for JML.
+
+The members of the International workgroup can be appointed by the International Coordinator.
 
 ## 3 Individual responsibility
 
@@ -51,6 +56,20 @@ These tasks include:
 ### 3.2 JML-Workgroup
 
 Tasked to work with JML questions in the chapter under the Board Member responsible for JML, leadership and with helping the Board Member responsible for JML to fulfill its responsibilities. 
+
+### 3.3 International Coordinator (Int)
+
+Is responsible for promoting the position of international students in the chapter as well as convening and chairing the International working group.
+
+The tasks of the International-coordinator includes:
+
+- To coordinate events with the chapter's various bodies that promote the integration and engagement of international students. 
+- To maintain a dialogue with THS International and attend their International Councils, or equivalent international related meetings concerning the chapter.
+- To coordinate with the International workgroup and the reception committee in order to plan, formulate and execute events during the reception period for all new masters and exchange students which will belong to the chapter during their studies at KTH.
+- To ensure that all information in the chapter is available in English.
+
+### 3.4 International workgroup
+Tasked to work with promoting the position, integration, and engagement of international students in the chapter under the International Coordinator. Members of the group that have actively contributed for a total of 25 working hours within a 4 month period, are eligible for a 0.2 GPA boost for exchange studies up to the discretion of the THS Head of International and the International Coordinator.
 
 ## 4 Logo
 

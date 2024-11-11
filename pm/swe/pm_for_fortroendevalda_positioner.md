@@ -9,7 +9,7 @@ Denna PM är avsedd till att lista alla sektionens förtroendevalda positioner.
 ### 1.2 Historik
 
 Upprättat: 2021-11-29  
-Senast ändrat: 2023-12-05
+Senast ändrat: 2024-11-11
 
 ### 1.3 Ändrande av PM
 
@@ -71,7 +71,6 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 - INGEN
 - NÅGON
-- MÅNGA
 - Ledamot med ansvar för Budget
 - Ledamot - två
 
@@ -104,7 +103,10 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 - Sammankallande
 - Medlem - minst 4
 
-#### 2.2.13 Andra Positioner
+#### 2.2.13 JML
+- Internationell-koordinator
+
+#### 2.2.14 Andra Positioner
 
 - Revisor - två
 - Skyddsvårdsombud

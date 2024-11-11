@@ -9,7 +9,7 @@ The purpose of this memo is to regulate the Reception Committee
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2023-12-05
+Last revision: 2024-11-11
 
 ### 1.3 Revising this Memo
 
@@ -21,7 +21,6 @@ The Reception committee is made up by at least:
 
 - President and main responsible (INGEN)
 - vice President (NÅGON)
-- Masters reception responsible (MÅNGA)
 - Board member responsible for Budget
 - Two board members
 
@@ -34,7 +33,7 @@ The Reception committee shall actively seek to include the chapter's other commi
 
 The chairperson is responsible to report to the board member responsible for studysocial activities before the chapter board's meetings during the whole business year.
 
-The chairperson, deputy chairperson and masters reception responsible are elected on the first ordinary chapter meeting following the end of the reception.
+The chairperson and deputy chairperson are elected on the first ordinary chapter meeting following the end of the reception.
 
 ### 2.1 President and main responsible (INGEN)
 Called INitiationsGENeral (INGEN), who has the main responsibility and final say regarding the Reception.
@@ -44,15 +43,11 @@ Shall in the absence of INGEN carry out INGEN's duties and execute INGEN's respo
 The vice chairperson is also responsible for the work delegated to them by INGEN by mutual agreement.
 Called Neurotisk Åskådare till Generalens Oundvikliga Nederlag (NÅGON).
 
-### 2.3 Masters reception responsible (MÅNGA)
-Has the main responsibility and the final say regarding the masters reception together with INGEN.
-Called Mastermottagningens Ångestfulla och Neurotiska Generellt Ansvarige (MÅNGA).
-
-### 2.4 Board Member responsible for Budget
+### 2.3 Board Member responsible for Budget
 Is responsible for the economy and contact for the chapter's treasurer.
 Shall manage the reception budget.
 
-### 2.5 Board Member
+### 2.4 Board Member
 Their areas of responsibilitiy is decided by the Reception committee.
 
 ## 3 Economy
@@ -71,9 +66,9 @@ For more extensive information please refer to the Rules for the Reception commi
 
 The operational year of the Reception committee starts when all members of the committee's board have been elected by the chapter meeting or the chapters operational year starts, whichever occurs first.
 
-### 4.1 Masters reception
+### 4.1 Masters and Exchange Reception
 
-The Reception committee shall formulate, plan and execute events for the new masters students at KTH in Kista.
+The Reception committee shall coordinate with the International Coordinator and any members of the International Workgroup to ensure that events are planned, formulated and executed for all new masters and exchange students beginning their studies, who will belong to the chapter during their studies at KTH.
 
 ## 5 Logo
 

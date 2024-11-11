@@ -6,11 +6,12 @@
 
 Detta PM reglerar sektionens JML nämnd.
 JML nämnden ansvarar för att långsiktigt utveckla jämställdhet, mångfald och lika villkor inom sektionen.
+JML nämnden ansvarar även för att främja integration och engagemang av internationella studenter samt att driva internationellt-kopplat arbete för sektionsmedlemmar.
 
 ### 1.2 Historik
 
 Upprättat: 2022-11-28  
-Senast ändrat: 2023-12-05
+Senast ändrat: 2024-11-11
 
 ### 1.3 Ändrande av PM
 
@@ -22,15 +23,18 @@ För ändrande av denna PM krävs ett beslut taget med kvalificerad majoritet p�
 
 JML nämndens styrelse består av:
 - Styrelseledamot med ansvar för JML-verksamhet
+- Internationell-koordinator
 
 JML nämnden innehåller:
 - JML-arbetsgrupp
+- Internationell-arbetsgrupp
 
 ### 2.2 Tillsättning
 
 Samtliga av JML Nämndens styrelserepresentanter väljs av SM.
 
 JML-arbetsgruppen tillsätts av JML Nämndens styrelse.
+Internationell-arbetsgruppen tillsätts av JML Nämndens styrelse.
 
 ## 3 Verksamhet
 
@@ -53,6 +57,17 @@ I dessa uppgifter ingår:
 ### 3.2 JML-Arbetsgrupp
 
 Arbetar med JML-frågor inom sektionen under Styrelseledamot med ansvar för JML-verksamhets ledning och hjälper Styrelseledamot med ansvar för JML-verksamhet att uppfylla sina uppgifter.  
+
+### 3.3 Internationell-kooordinator
+Ansvarar för att främja internationella studenters plats i sektionen samt sammankallande- och styrande för Internationell-arbetsgruppen.
+I dessa uppgifter ingår:
+- Att koordinera event med sektionens olika organ som främjar integrationen av internationella studenter.
+- Att hålla en dialog med THS International och närvara på deras International Councils, eller motsvarande möten.
+- Att samordna med den Internationella-arbetsgruppen och Mottagningsnämnden för att säkerställa att evenemang utarbetas, planeras och genomföras för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH.
+- Att arbeta för att all information finns tillgänglig på engelska.
+
+### 3.4 Internationell=Arbetsgrupp
+Arbetar med att främja internationella studenters ställning, integration och engagemang i sektionen under Internationell-koordinators ledning. De arbetar också tillsammans med den Internationella-koordinatorn och Mottagningsnämnden för att säkerställa att evenemang planeras och genomförs för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH. Medlemmar i den Internationella arbetsgruppen som aktivt har bidragit med totalt 25 arbetstimmar under en 4-månadersperiod är berättigade till en GPA-boost på 0,2 för utbytesstudier enligt beslut av THS Head of International och den Internationella-koordinatorn.
 
 ## 4 Logotyp
 
