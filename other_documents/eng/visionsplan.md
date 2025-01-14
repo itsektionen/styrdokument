@@ -1,6 +1,6 @@
 # Visionsplan
 
-This document regulates the visions of the Chapter for Information- and Nano Technology (below referred to as the chapter).  
+This document regulates the visions of the Chapter for Information Technology (below referred to as the chapter).  
 The document shall be updated annually by the board.  
 The goals shall act as a guide for the chapter's work.
 

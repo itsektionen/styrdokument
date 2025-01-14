@@ -73,7 +73,7 @@ PM för Kommunikationsnämnden, 2014-01-01
 PM för Mottagningsnämnden, 2022-09-27  
 PM för Näringslivsnämnden, 2008-12-11  
 PM för PIFF och PUFF, 2020-09-28  
-PM för Qlubbmästeriet IN-sektionen Kista, 2009-05-15  
+PM för Qlubbmästeriet IT-Sektionen Kista, 2009-05-15  
 PM för Sektionens Profil, 2014-02-10  
 PM för Sektionens Styrelse, 2008-12-11  
 PM för Sektionens Utrymmen, 2008-12-11  

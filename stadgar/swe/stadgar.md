@@ -1,7 +1,7 @@
 <!-- markdownlint-disable-next-line -->
 ![](./img/logo-in-1500px.png)
 
-# Sektionen för Informations- och Nanotekniks Stadgar
+# Sektionen för Informationstekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
 Senast ändrade vid Sektionsmötet 2024-01-23
@@ -77,16 +77,16 @@ Senast ändrade vid Sektionsmötet 2024-01-23
 
 ### §1.1 Namn
 
-§1.1.1 Sektionens namn är Sektionen för Informations- och Nanoteknik.
+§1.1.1 Sektionens namn är Sektionen för Informationsteknik.
 
 ### §1.2 Färg
 
-§1.2.1 Sektionens sektionsfärg är kiselblå,  
-RGB HEX-kod `#44687d`,  
-NCS: `S 6020-R90B`,  
-CMYK: `78, 51, 37, 13`,  
-PMS: `5405C`,  
-Lab: `42, -9, -16`.
+§1.2.1 Sektionens sektionsfärger är laserviolett och mörk kiselblå,  
+Laserviolett
+HEX: `#CC99FF`
+
+Mörk Kiselblå
+HEX: `#1C2A33`
 
 ### §1.3 Ändamål
 
@@ -133,7 +133,7 @@ Sektionsstyrelsen kan även föreslå andra firmatecknare som sektionsmötet kan
 
 ### §1.10 Sektionens födelsedag
 
-§1.10.1 Sektionens födelsedag infaller den 4 december 2008.
+§1.10.1 Sektionens födelsedag infaller den 12 september 2000.
 
 ## §2 Styrdokument
 

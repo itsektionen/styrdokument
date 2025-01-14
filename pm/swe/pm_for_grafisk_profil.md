@@ -53,26 +53,30 @@ Vid användning av de monokroma logotyperna ska den vita logotypen användas om 
 
 Avståndet till andra element ska vara minst en fjärdedel av den egna bredden, på alla sidor.
 
-Sektionens namn, "Sektionen för Informations- och Nanoteknik", på engelska "The Chapter for Information- and Nanotechnology" samt förkortningarna "IN-Sektionen" och "IN-Chapter" får vara närmare logotypen, men bör vara med avståndet av b1 (bredden av den övre triangeln eller en åttondel av hela logotypens bredd).
+Sektionens namn, "Sektionen för Informationsteknik", på engelska "The Chapter for Information Technology" samt förkortningarna "IT-Sektionen" och "IT-Chapter" får vara närmare logotypen, men bör vara med avståndet av b1 (bredden av den övre triangeln eller en åttondel av hela logotypens bredd).
 
 ![Hur sektionens logotyp skall placeras i förhållande till andra sidelement](./img/logospacing.png)
 
 ## 3 Typografi
 
-IN-sektionen använder sig primärt av typsnittet Open Sans för digitala och fysiska medier.
+IT-Sektionen använder sig primärt av typsnitten Poppins och Inter för digitala och fysiska medier.
 
-Det är starkt rekommenderat att även för sektionens styrdokument använda Open Sans om styrdokumenten publiceras i fristående form, till exempel som en samling PDF-filer.
+Det är starkt rekommenderat att även för sektionens styrdokument använda Inter Regular om styrdokumenten publiceras i fristående form, till exempel som en samling PDF-filer.
+
+Poppins Semi-bold är rekommenderat att använda för rubriker.
+Inter Regular är rekommenderat att använda för brödtext.
 
 ## 4 Färger
 
 ### 4.1 Sektionsfärg
 
-IN-sektionens sektionsfärg är Kiselblå, färgen definieras:  
-RGB/hex: `#44687D`  
-NCS: `S 4030-B`  
-CMYK: `45.6, 16.8, 0, 50.98`  
-PMS: `5405 C`  
-Lab: `42.2, -6.8, -15.7`
+Sektionens sektionsfärg är Laserviolett, färgen definieras:  
+Laserviolett
+HEX: `#CC99FF`
+
+Sektionsfärgen komplementeras med färgen Mörk Kiselblå, färgen definieras:
+Mörk Kiselblå
+HEX: `#1C2A33`
 
 ### 4.2 Programfärger
 
