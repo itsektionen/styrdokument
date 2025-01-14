@@ -57,7 +57,7 @@ A gasque meant to end a study period and celebrate the finished exams.
 
 ## 6 The Reception
 
-### 6.1 FadderINternat
+### 6.1 FadderInternat
 
 A trip for the active members of the reception.  
 Usually involves team buidling and a gasque.

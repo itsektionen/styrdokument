@@ -5,6 +5,7 @@
 ### 1.1 Purpose
 
 This Memo regulates the chapter's Study Social Committee.  
+
 The Study Social Committee is responsible for developing student life within the chapter in the long term.
 
 ### 1.2 History
