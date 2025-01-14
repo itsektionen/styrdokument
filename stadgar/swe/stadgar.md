@@ -133,7 +133,7 @@ Sektionsstyrelsen kan även föreslå andra firmatecknare som sektionsmötet kan
 
 ### §1.10 Sektionens födelsedag
 
-§1.10.1 Sektionens födelsedag infaller den 4 december 2008.
+§1.10.1 Sektionens födelsedag infaller den 12 september 2000.
 
 ## §2 Styrdokument
 

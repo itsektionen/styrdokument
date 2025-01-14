@@ -53,7 +53,7 @@ When using the monochrome logotypes, the white logotype shall be used if the bac
 
 The distance to other elements must be at least a quarter of the logotype’s width, on all sides.
 
-The chapter's name "Sektionen för Informationsteknik", in English "The Chapter for Information technology" and the abbreviations "IT-Sektionen" and "IT-Chapter" is allowed to be closer to the logotype, but should be with the distance of b1 (the width of the top triangle or one eight of the logos width).
+The chapter's name "Sektionen för Informationsteknik", in English "The Chapter for Information Technology" and the abbreviations "IT-Sektionen" and "IT-Chapter" is allowed to be closer to the logotype, but should be with the distance of b1 (the width of the top triangle or one eight of the logos width).
 
 ![How to place the chapter's logo relative to other page elements](./img/logospacing.png)
 
@@ -70,10 +70,11 @@ Inter Regular is recommended to be used for body texts.
 
 ### 4.1 Chapter color
 
-The chapter's color is Laser Violet and Dark Silicon Blue, it is defined as:
+The chapter color is Laser Violet, it is defined as:
 Laser Violet
 HEX: `#CC99FF`
 
+The chapter color is complemented by the color Dark Silicon Blue, it is defined as:
 Dark Silicon Blue
 HEX: `#1C2A33`
 

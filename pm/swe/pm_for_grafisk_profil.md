@@ -53,7 +53,7 @@ Vid användning av de monokroma logotyperna ska den vita logotypen användas om 
 
 Avståndet till andra element ska vara minst en fjärdedel av den egna bredden, på alla sidor.
 
-Sektionens namn, "Sektionen för Informationsteknik", på engelska "The Chapter for Information- and Nanotechnology" samt förkortningarna "IT-Sektionen" och "IT-Chapter" får vara närmare logotypen, men bör vara med avståndet av b1 (bredden av den övre triangeln eller en åttondel av hela logotypens bredd).
+Sektionens namn, "Sektionen för Informationsteknik", på engelska "The Chapter for Information Technology" samt förkortningarna "IT-Sektionen" och "IT-Chapter" får vara närmare logotypen, men bör vara med avståndet av b1 (bredden av den övre triangeln eller en åttondel av hela logotypens bredd).
 
 ![Hur sektionens logotyp skall placeras i förhållande till andra sidelement](./img/logospacing.png)
 
@@ -70,10 +70,11 @@ Inter Regular är rekommenderat att använda för brödtext.
 
 ### 4.1 Sektionsfärg
 
-IT-Sektionens sektionsfärg är Kiselblå, färgen definieras:  
+Sektionens sektionsfärg är Laserviolett, färgen definieras:  
 Laserviolett
 HEX: `#CC99FF`
 
+Sektionsfärgen komplementeras med färgen Mörk Kiselblå, färgen definieras:
 Mörk Kiselblå
 HEX: `#1C2A33`
 

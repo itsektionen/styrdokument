@@ -6,7 +6,7 @@ Det är knappast en nyhet att intresset för teknik har gått ner bland studente
 För att råda bot på detta krävs en relevant och fungerande rekryteringsfilosofi samt fungerande rekrytering.  
 Samtidigt är det viktigt att se att olika utbildningar har olika behov av insatser för att stärka rekryteringen och öka intresset.
 
-**Sektionen för infromationsteknik anser att:**
+**Sektionen för Infromationsteknik anser att:**
 
 - program på KTH skall namnges på ett sådant sätt att det framgår vad utbildningen syftar till.
 - det bör vara möjligt att göra reklam för enskilda utbildningar där efterfrågan idag är låg.
@@ -29,7 +29,7 @@ För utbildningens relevans är det viktigt att undervisningen som sker på KTH 
 Kopplingen till både forskning och näringslivet måste vara stark för att utbildningen skall fortsätta hålla en hög kvalité och relevans.  
 Därtill är det viktigt att studenten har en stor förmåga att forma innehållet i sin utbildning själv.
 
-**Sektionen för infromationsteknik anser att:**
+**Sektionen för Infromationsteknik anser att:**
 
 - utbildningen på KTH bör ha en hög pedagogisk nivå.
 - för anställning eller befordran till ordinarie lärartjänst vid KTH skall krävas pedagogisk kompetens motsvarande 15 högskolepoäng högskolepedagogik.
@@ -63,7 +63,7 @@ En fördel med detta är också att dessa moment i utbildningen även kan
 användas i examinerande syfte.  
 Flertalet kurser är redan anpassats till detta men fortfarande finns många kurser som ännu inte börjat tillämpa detta tänkande.
 
-**Sektionen för infromationsteknik anser att:**
+**Sektionen för Infromationsteknik anser att:**
 
 - betygssättning på KTH skall vara målrelaterad.  
 - examination av kurser skall utformas så att dessa kan mäta de mål som är uppställda för kursen.

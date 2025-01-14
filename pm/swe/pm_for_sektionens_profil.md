@@ -33,7 +33,7 @@ Mästerister i klubbmästeriet Qmisk får bära ockraröd overall.
 
 Sektionens medlemmar får bära overaller i tidigare sektionsfärger.
 
-Erkända färger är laserviolett, limegrön och ockraröd.
+Erkända färger är limegrön, kiselblå och ockraröd.
 
 ### 2.2 Revärer
 
