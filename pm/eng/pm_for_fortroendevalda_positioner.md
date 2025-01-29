@@ -9,7 +9,7 @@ The purpose of this Memo is to list all of the chapter's trustee elected positio
 ### 1.2 History
 
 Created: 2021-11-29  
-Last revision: 2024-11-11
+Last revision: 2025-01-29
 
 ### 1.3 Revising this Memo
 
@@ -105,6 +105,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
   
 #### 2.2.13 JML
 
+- vice President
 - International Coordinator
 
 #### 2.2.14 Andra Positioner

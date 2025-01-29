@@ -9,7 +9,7 @@ Denna PM är avsedd till att lista alla sektionens förtroendevalda positioner.
 ### 1.2 Historik
 
 Upprättat: 2021-11-29  
-Senast ändrat: 2024-11-11
+Senast ändrat: 2025-01-29
 
 ### 1.3 Ändrande av PM
 
@@ -105,6 +105,7 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 #### 2.2.13 JML
 
+- vice Ordförande
 - Internationell-koordinator
 
 #### 2.2.14 Andra Positioner
