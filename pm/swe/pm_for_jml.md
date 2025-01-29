@@ -11,7 +11,7 @@ JML nämnden ansvarar även för att främja integration och engagemang av inter
 ### 1.2 Historik
 
 Upprättat: 2022-11-28  
-Senast ändrat: 2024-11-11
+Senast ändrat: 2025-01-29
 
 ### 1.3 Ändrande av PM
 
@@ -23,6 +23,7 @@ För ändrande av denna PM krävs ett beslut taget med kvalificerad majoritet p�
 
 JML nämndens styrelse består av:
 - Styrelseledamot med ansvar för JML-verksamhet
+- Vice ordförande
 - Internationell-koordinator
 
 JML nämnden innehåller:
@@ -33,8 +34,7 @@ JML nämnden innehåller:
 
 Samtliga av JML Nämndens styrelserepresentanter väljs av SM.
 
-JML-arbetsgruppen tillsätts av JML Nämndens styrelse.
-
+JML-arbetsgruppen tillsätts av JMLs ordförande och vice ordförande.
 Internationell-arbetsgruppen tillsätts av JML Nämndens styrelse.
 
 ## 3 Verksamhet
@@ -55,12 +55,15 @@ I dessa uppgifter ingår:
 - Att leda det preventiva arbetet enligt PM för Uppförande.
 - Att informera sektionens medlemmar om PM för Uppförande.
 
-### 3.2 JML-Arbetsgrupp
+### 3.2 Vice ordförande
+
+Vice ordförande ska, i ordförandens frånvaro, fullgöra deras uppgifter och ansvarsområden samt utföra de uppgifter som JMLs ordförande delegerat till dem enligt överenskommelse.
+
+### 3.3 JML-Arbetsgrupp
 
 Arbetar med JML-frågor inom sektionen under Styrelseledamot med ansvar för JML-verksamhets ledning och hjälper Styrelseledamot med ansvar för JML-verksamhet att uppfylla sina uppgifter.  
 
-### 3.3 Internationell-kooordinator (Int)
-
+### 3.4 Internationell-kooordinator
 Ansvarar för att främja internationella studenters plats i sektionen samt sammankallande- och styrande för Internationell-arbetsgruppen.
 
 I dessa uppgifter ingår:
@@ -70,11 +73,8 @@ I dessa uppgifter ingår:
 - Att samordna med den Internationella-arbetsgruppen och Mottagningsnämnden för att säkerställa att evenemang utarbetas, planeras och genomföras för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH.
 - Att arbeta för att all information finns tillgänglig på engelska.
 
-### 3.4 Internationell-Arbetsgrupp
-
-Arbetar med att främja internationella studenters ställning, integration och engagemang i sektionen under Internationell-koordinators ledning.  
-De arbetar också tillsammans med den Internationella-koordinatorn och Mottagningsnämnden för att säkerställa att evenemang planeras och genomförs för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH.  
-Medlemmar i den Internationella arbetsgruppen som aktivt har bidragit med totalt 25 arbetstimmar under en 4-månadersperiod är berättigade till en GPA-boost på 0,2 för utbytesstudier enligt beslut av THS Head of International och den Internationella-koordinatorn.
+### 3.5 Internationell=Arbetsgrupp
+Arbetar med att främja internationella studenters ställning, integration och engagemang i sektionen under Internationell-koordinators ledning. De arbetar också tillsammans med den Internationella-koordinatorn och Mottagningsnämnden för att säkerställa att evenemang planeras och genomförs för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH. Medlemmar i den Internationella arbetsgruppen som aktivt har bidragit med totalt 25 arbetstimmar under en 4-månadersperiod är berättigade till en GPA-boost på 0,2 för utbytesstudier enligt beslut av THS Head of International och den Internationella-koordinatorn.
 
 ## 4 Logotyp
 
