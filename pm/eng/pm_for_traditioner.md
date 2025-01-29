@@ -9,7 +9,7 @@ This document regulates the traditions that promotes fellowship and continuity w
 ### 1.2 History
 
 Established: 2014-12-08  
-Last revision: 2022-09-27
+Last revision: 2025-01-29
 
 ### 1.3 Revising this Memo
 
@@ -66,3 +66,9 @@ Usually involves team buidling and a gasque.
 
 The grand closing of the reception.  
 Aimed at all persons related to the Reception, but mainly n0llan.
+
+## 7 ITK
+
+### 7.1 ITK LAN
+
+A LAN party at the beginning of every period, hosted by ITK.

@@ -9,7 +9,7 @@ Detta dokument reglerar traditioner som är bra för sektionens sammanhållning 
 ### 1.2 Historik
 
 Upprättat: 2014-12-08  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2025-01-29
 
 ### 1.3 Ändrande av PM
 
@@ -65,3 +65,9 @@ Brukar involvera teambuildning och en gasque.
 ### 6.2 N0llegasque
 
 Den storslagna avslutningen för alla relaterade till Mottagningen, men främst för n0llan.
+
+## 7 ITK
+
+### 7.1 ITK LAN
+
+En LAN-fest vid början av varje period, organiserad av ITK.
