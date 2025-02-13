@@ -11,7 +11,7 @@ The JML committee is also responsible for furthering the integration and engagem
 ### 1.2 History
 
 Created: 2022-11-28  
-Last revision: 2024-11-11
+Last revision: 2025-01-20
 
 ### 1.3 Revising this Memo
 

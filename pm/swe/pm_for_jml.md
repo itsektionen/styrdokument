@@ -11,7 +11,7 @@ JML nämnden ansvarar även för att främja integration och engagemang av inter
 ### 1.2 Historik
 
 Upprättat: 2022-11-28  
-Senast ändrat: 2025-01-29
+Senast ändrat: 2025-01-20
 
 ### 1.3 Ändrande av PM
 
