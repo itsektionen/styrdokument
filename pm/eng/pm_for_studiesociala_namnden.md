@@ -40,17 +40,3 @@ Convener and president of the Study social committee is the board member respons
 The board member is responsible for ensuring that meetings with the entire committee are held prior to each board meeting.
 
 Their responsibilities and duties are further regulated in the "Memo for the Chapters Board".
-
-### JML-coordinator
-
-Is responsible for running the chapter's JML work and to be the convening responsible and leader of the JML team.
-
-The tasks of the JML-coordinator includes:
-
-- To spread the knowledge and understanding of JML to the chapter members.
-- To inform about the chapter’s JML work to all chapter members.
-- To help chapter members with JML issues according to the chapter's action plan called "Planned course of action in JML matters".
-- To take part in the Train-the-Trainer education given by the KTH equality office with one or more members from the Study Social Committee.
-- To organize and hold a JML-workshop for new students during the reception.
-- To organize and hold a JML-workshop for those who participate in the reception of new students during the reception.
-- To arrange and hold a JML-workshop so that the chapter's board and those who hold a position of trust within the chapter have the opportunity to participate at least once during their term of office.
