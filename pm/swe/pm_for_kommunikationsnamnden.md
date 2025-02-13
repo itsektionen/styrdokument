@@ -82,16 +82,6 @@ I dessa uppgifter ingår:
 - att informera alumnimedlemmarna om de av sektionens event som kan vara intressanta för dessa  
 - att anordna event där sektionens medlemmar kan träffa och knyta kontakter med alumnimedlemmar, som t.ex. alumnipub
 
-### 3.4 Internationella studenter
-
-Kommunikationsnämnden har ett övergripande ansvar för kommunikationen med de internationella studenterna på EECS-skolan på campus KTH Kista.
-
-I dessa uppgifter ingår:
-
-- att hjälpa de nya studenterna vid start, genom att exempelvis anordna rundvandring och ge ut nyttig information  
-- att bjuda in de internationella studenterna till sektionens olika event, som pubar, LAN, sittningar och sektionsmöten  
-- att arbeta för att information från sektionen finns tillgänglig på engelska
-
 ## 4 Ekonomi
 
 Nämnden har ej egen ekonomi.
