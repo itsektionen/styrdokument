@@ -81,16 +81,6 @@ The responsibilities include:
 - to inform the alumni members about those events in the chapter that may be of interest in them  
 - to arrange events where the chapter's members can meet and network with alumni members, such as alumni pubs
 
-### 3.4 International students
-
-The committee for communications has a general responsibility for the communication with the international students of the school of EECS at campus KTH Kista.  
-
-These responsibilities include:
-
-- to help the new students when they start, for example by arranging tours of the campus and providing them with important and helpful information  
-- to invite the international students to the chapter's different events, such as pubs, LAN parties, gasques and chapter meetings  
-- to ensure that information from the chapter is available in english
-
 ## 4 Economy
 
 The committee has no economy of its own.
