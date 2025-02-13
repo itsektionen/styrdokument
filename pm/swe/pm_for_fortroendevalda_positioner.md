@@ -9,7 +9,7 @@ Denna PM är avsedd till att lista alla sektionens förtroendevalda positioner.
 ### 1.2 Historik
 
 Upprättat: 2021-11-29  
-Senast ändrat: 2025-01-29
+Senast ändrat: 2025-01-20
 
 ### 1.3 Ändrande av PM
 

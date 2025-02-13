@@ -9,7 +9,7 @@ Detta dokument reglerar traditioner som är bra för sektionens sammanhållning 
 ### 1.2 Historik
 
 Upprättat: 2014-12-08  
-Senast ändrat: 2025-01-29
+Senast ändrat: 2025-01-20
 
 ### 1.3 Ändrande av PM
 

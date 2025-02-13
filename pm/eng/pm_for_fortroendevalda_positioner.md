@@ -9,7 +9,7 @@ The purpose of this Memo is to list all of the chapter's trustee elected positio
 ### 1.2 History
 
 Created: 2021-11-29  
-Last revision: 2025-01-29
+Last revision: 2025-01-20
 
 ### 1.3 Revising this Memo
 
@@ -39,12 +39,12 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Board member
 - Chapter vice Cashier
 
-#### 2.2.2 Studiemiljönämnden
+#### 2.2.2 Study Enviroment Committee
 
 - StURe
 - Lill-StURe
 
-#### 2.2.3 Studienämnden
+#### 2.2.3 Education Committee
 
 - PAS CINTE
 - PAS TCOMK
@@ -52,29 +52,29 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - PAS TIEDB
 - PAS Master
 
-#### 2.2.4 Näringslivsnämnden
+#### 2.2.4 Business Relations Committee
 
 - vice President
 - Responsible for Kista Arbetsmarknadsdag (KAM)
-
-#### 2.2.5 Kommunikationsnämnden
+ 
+#### 2.2.5 Communications Committee
 
 - vice President
 - History Responsible
 
-#### 2.2.6 Idrottsnämnden
+#### 2.2.6 Sports Committee
 
 - President
 - vice President
 
-#### 2.2.7 Mottagningen
+#### 2.2.7 Reception
 
 - INGEN
 - NÅGON
 - Member responsible for Budget
 - Member - two
 
-#### 2.2.8 PIFF och PUFF
+#### 2.2.8 PIFF and PUFF
 
 - First P
 - First I
@@ -98,7 +98,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - Sudo
 - Bureaucracy Senator
 
-#### 2.2.12 The Elections Committee
+#### 2.2.12 Elections Committee
 
 - Convener
 - Member - at least 4
@@ -108,7 +108,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 - vice President
 - International Coordinator
 
-#### 2.2.14 Andra Positioner
+#### 2.2.14 Other Positions
 
 - Auditor - two
 - Safety officer

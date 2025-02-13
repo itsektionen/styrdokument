@@ -9,7 +9,7 @@ This document regulates the traditions that promotes fellowship and continuity w
 ### 1.2 History
 
 Established: 2014-12-08  
-Last revision: 2025-01-29
+Last revision: 2025-01-20
 
 ### 1.3 Revising this Memo
 
