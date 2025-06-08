@@ -4,7 +4,7 @@
 # Sektionen för Informationstekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
-Senast ändrade vid Sektionsmötet 2025-01-20
+Senast ändrade vid Sektionsmötet 2025-06-08
 
 <!-- markdownlint-disable MD056 MD058 -->
 \pagebreak
@@ -259,7 +259,9 @@ Förslaget från sektionsstyrelsen läggs fram som en proposition.
 
 §4.3.1 Som stödmedlem betraktas THS-medlem som valt att stödja sektionen.
 
-§4.3.2 Stödmedlem har samma rättigheter som ordinarie medlem, undantaget valbarhet samt rösträtt till THS kårfullmäktige
+§4.3.2 En stödmedlem har samma rättigheter
+som en ordinarie medlem, förutom rätten att rösta på sektionsmöten och i
+THS kårfullmäktigeval, samt valbarhet till kårfullmäktige och styrelsen.
 
 §4.3.3 Stödmedlem har samma skyldigheter som ordinarie medlem
 
@@ -279,6 +281,21 @@ Beslut fattas efter nominering på sektionsmöte och beslut kan fattas utan för
 - att att erhålla en inbjudan till större evenemang anordnade av sektionen.
 
 §4.4.5 Hedersmedlem som misskött sig eller åsamkat sektionen skada kan efter beslut av sektionsmötet med kvalificerad majoritet uteslutas.
+
+### §4.5 Gästmedlem
+
+§4.5.1 En gästmedlem är medlem i THS men behöver inte
+studera ett program som är mappat till sektionen.
+
+§4.5.2 En gästmedlem utses för tiden av ett år av ett styrelsemöte med kvalificerad majoritet. En begäran om att bli utsedd till
+gästmedlem ska skickas till styrelsen av personen själv senast 4 (fyra) dagar
+före styrelsemötet.
+
+§4.5.3 En gästmedlem har samma rättigheter
+som en ordinarie medlem, förutom rätten att rösta på sektionsmöten och i
+THS kårfullmäktigeval, samt valbarhet till kårfullmäktige och styrelsen.
+
+§4.5.4 En gästmedlem har samma ansvar som en vanligmedlem.
 
 ## §5 Sektionsmöte, SM
 
