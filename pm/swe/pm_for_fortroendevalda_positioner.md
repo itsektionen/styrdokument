@@ -56,7 +56,7 @@ Listan får ändras utan att beslut behöver fattas på SM, var efter SM besluta
 
 - vice Ordförande
 - Ansvarig för Kista Arbetsmarknadsdag (KAM)
- 
+
 #### 2.2.5 Kommunikationsnämnden
 
 - vice Ordförande

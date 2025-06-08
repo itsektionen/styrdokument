@@ -6,6 +6,7 @@
 Adopted at the chapter meeting on 2008-12-11  
 Last edit made at the chapter meeting on 2025-01-20
 
+<!-- markdownlint-disable MD056 MD058 -->
 \pagebreak
 
 | Table of contents
@@ -72,6 +73,7 @@ Last edit made at the chapter meeting on 2025-01-20
 | §13 Closing words |
 
 \pagebreak
+<!-- markdownlint-enable MD056 MD058 -->
 
 ## §1 General Information
 

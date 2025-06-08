@@ -6,6 +6,7 @@
 Antagna vid Sektionsmötet 2008-12-11  
 Senast ändrade vid Sektionsmötet 2025-01-20
 
+<!-- markdownlint-disable MD056 MD058 -->
 \pagebreak
 
 | Innehållsförteckning
@@ -72,6 +73,7 @@ Senast ändrade vid Sektionsmötet 2025-01-20
 | §13 Slutord |
 
 \pagebreak
+<!-- markdownlint-enable MD056 MD058 -->
 
 ## §1 Allmänt
 

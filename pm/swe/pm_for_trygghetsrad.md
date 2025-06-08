@@ -12,6 +12,7 @@ Upprättat: 2014-09-22
 Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
+
 För ändrande av denna PM krävs ett beslut taget med kvalificerad majoritet på ett SM.
 
 ## 2 Organisation

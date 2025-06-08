@@ -65,4 +65,5 @@ I dess uppgifter ingår:
 - Att kommunicera på engelska då studenter som ej talar svenska är involverade.
 
 ## 4 Logotyp
+
 ![Studienämnden Logotyp](./img/logo-studie-1500px.png)

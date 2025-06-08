@@ -22,11 +22,13 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 ### 2.1 Composition
 
 The JML board is composed of:
+
 - Board Member responsible for JML
 - Vice chairperson
 - International Coordinator
 
 The JML committee includes:
+
 - JML-workgroup
 - International workgroup
 
@@ -37,6 +39,7 @@ All board representatives of the chapter's JML committee are elected by the Chap
 The members of the JML-workgroup can be appointed by the Board Member responsible for JML and the Vice chairperson of the Board of the JML Committee.
 
 The members of the International workgroup can be appointed by the Board of the JML Committee.
+
 ## 3 Individual responsibility
 
 ### 3.1 Board Member responsible for JML
@@ -61,7 +64,7 @@ The vice chairperson shall in the absence of the chairperson then carry out thei
 
 ### 3.3 JML-Workgroup
 
-Tasked to work with JML questions in the chapter under the Board Member responsible for JML, leadership and with helping the Board Member responsible for JML to fulfill its responsibilities. 
+Tasked to work with JML questions in the chapter under the Board Member responsible for JML, leadership and with helping the Board Member responsible for JML to fulfill its responsibilities.
 
 ### 3.4 International Coordinator (Int)
 
@@ -69,12 +72,13 @@ Is responsible for promoting the position of international students in the chapt
 
 The tasks of the International-coordinator includes:
 
-- To coordinate events with the chapter's various bodies that promote the integration and engagement of international students. 
+- To coordinate events with the chapter's various bodies that promote the integration and engagement of international students.
 - To maintain a dialogue with THS International and attend their International Councils, or equivalent international related meetings concerning the chapter.
 - To coordinate with the International workgroup and the reception committee in order to plan, formulate and execute events during the reception period for all new masters and exchange students which will belong to the chapter during their studies at KTH.
 - To ensure that all information in the chapter is available in English.
 
 ### 3.5 International workgroup
+
 Tasked to work with promoting the position, integration, and engagement of international students in the chapter under the International Coordinator. Members of the group that have actively contributed for a total of 25 working hours within a 4 month period, are eligible for a 0.2 GPA boost for exchange studies up to the discretion of the THS Head of International and the International Coordinator.
 
 ## 4 Logo

@@ -65,4 +65,5 @@ Their tasks include:
 - Communicating in english since students that do not speak swedish are involved.
 
 ## 4 Logo
+
 ![Education Committee Logo](./img/logo-studie-1500px.png)

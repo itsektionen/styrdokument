@@ -12,6 +12,7 @@ Established: 2014-09-22
 Last revision: 2023-12-05
 
 ### 1.3 Revising this Memo
+
 In order to pass a revision of this Memo, a decision has to be made with a qualified majority on a chapter meeting.
 
 ## 2 Organisation

@@ -14,7 +14,7 @@ Senast ändrat: 2024-11-11
 
 ### 1.3 Ändrande av PM
 
-För ändrande av detta PM krävs ett beslut med kvalificerad majoritet på ett SM. 
+För ändrande av detta PM krävs ett beslut med kvalificerad majoritet på ett SM.
 
 ## 2 Organisation
 
@@ -22,7 +22,7 @@ För ändrande av detta PM krävs ett beslut med kvalificerad majoritet på ett 
 
 Studiesociala nämndens styrelse består av:  
 
-- Ordförande samt styrelseledamot med ansvar för Studiesocial verksamhet.    
+- Ordförande samt styrelseledamot med ansvar för Studiesocial verksamhet.
 
 Studiesociala nämnden kan välja in fler styrelseledamöter.
 Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.  

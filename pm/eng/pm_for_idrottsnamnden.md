@@ -28,4 +28,5 @@ Chairperson and vice chairperson are elected by the Chapter Meeting.
 The committee has no economy of it's own.
 
 ## 4 Logo
+
 ![Sports Committee Logo](./img/logo-idrott-1500px.png)

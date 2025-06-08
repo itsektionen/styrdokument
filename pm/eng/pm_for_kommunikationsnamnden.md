@@ -42,6 +42,7 @@ The vice chairperson shall in the absence of the chairperson carry out their dut
 The vice chairperson is also responsible for the work delegated to them by the chairperson by mutual agreement.
 
 ### 2.3 History Responsible
+
 The History Responsible shall document and bring the Chapter’s history to life in such a way that all future chapter activities can make use of it, and all chapter members can take part of it.
 
 The History Responsible person is headresponsible for keeping in contact with the Chapter's alumni.  

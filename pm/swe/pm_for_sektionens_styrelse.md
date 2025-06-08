@@ -132,6 +132,7 @@ Ledamoten ansvarar för att kalla till möte med Kommunikationsnämnden innan va
 Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Kommunikationsråd.
 
 #### 3.2.9 Ledamot med ansvar för JML-verksamhet
+
 Styrelseledamot med ansvar för JML-verksamhet ska arbeta långsiktigt med att utveckla jämställdhet, mångfald och lika villkor inom sektionen och samarbeta med de operativa organ inom sektionen som utför arbetet.
 
 Ledamoten är sammankallande för JML-arbetsgruppen, och leder det operativa arbetet de andra medlemmarna inom gruppen utför.  

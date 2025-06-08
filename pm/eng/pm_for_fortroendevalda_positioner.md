@@ -56,7 +56,7 @@ The list may be changed without decisions at SM, where after SM decides on chang
 
 - vice President
 - Responsible for Kista Arbetsmarknadsdag (KAM)
- 
+
 #### 2.2.5 Kommunikationsnämnden
 
 - vice President

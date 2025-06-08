@@ -1,6 +1,6 @@
 # Memo for the Study Social Committee
 
-# Formalia
+## 1 Formalities
 
 ### 1.1 Purpose
 
