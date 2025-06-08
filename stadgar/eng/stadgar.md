@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line -->
-![The chapter's logo](./img/logo-in-1500px.png)
+![The chapter's logo](./img/logo-it-1500px.png)
 
 # Statutes of the Information Technology Chapter
 
