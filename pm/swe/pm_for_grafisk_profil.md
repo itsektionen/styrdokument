@@ -11,7 +11,7 @@ Det skall finnas en enhetlighet i allt material som ges ut, och sektionens känn
 ### 1.2 Historik
 
 Upprättat: 2017-05-23  
-Senast ändrat: 2024-12-03
+Senast ändrat: 2025-06-08
 
 ### 1.3 Ändrande av PM
 
@@ -32,7 +32,7 @@ Sektionens logotyp definieras utförligt i PM för Sektionens Insignia.
 
 ### 2.1 Färgsättning
 
-Mikrochipets ben har färgen kiselblå (`#44687D`), och centrum har en mörkare ton av samma färg (`#262D33`).  
+Mikrochipets ben har färgen laserviolett (`#CC99FF`), och centrum har en mörkare ton av samma färg (`#403050`).  
 Blixten är vit (`#FFFFFF`).
 
 I de fall där den officiella logotypen inte kan återges med korrekta färger finns två enfärgade varianter att tillgå, en vit och en svart.  
