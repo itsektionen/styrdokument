@@ -86,3 +86,4 @@ Memo for the Chapter Standard, 2011-12-08
 Memo for the Chapter's Locals, 2008-12-11  
 Memo for the Chapter's Profile, 2014-02-10  
 Memo for the Elections Committee, 2014-02-10  
+Memo for init, 2025-11-XX  
