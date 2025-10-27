@@ -50,9 +50,9 @@ Utöver detta innehar Kernel det ansvar som fördelas mellan denne och Bootloade
 
 init ansvarar för:
 
-- Utveckling av digitala system
-- Underhåll av digitala system
-- Drift av digitala system
+- Underhåll av sektionens digitala system
+- Utveckling av sektionens digitala system
+- Drift av sektionens digitala system
 
 ### 3.2 Programmeringsaktiviter
 

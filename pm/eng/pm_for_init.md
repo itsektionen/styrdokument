@@ -52,9 +52,9 @@ The Kernel is also responsible for the work delegated to them by the Bootloader 
 
 init is responsible for:
 
-- Development of digital systems
-- Maintenance of digital systems
-- Operation of digital systems
+- Maintenance of the chapters digital systems
+- Development of the chapters digital systems
+- Operation of the chapters digital systems
 
 ### 3.2 Programming activities
 
