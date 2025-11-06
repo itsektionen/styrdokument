@@ -426,7 +426,7 @@ Sektionsstyrelsen är inför sektionsmötet ansvarig för sektionens verksamhet 
 
 ### §7.2 Sammansättning
 
-§7.2.1 Sektionsstyrelsen utgörs av sektionspresidiet samt två till sex ledamöter.  
+§7.2.1 Sektionsstyrelsen utgörs av sektionspresidiet samt två till sju ledamöter.  
 Dessa regleras närmare i PM för sektionens styrelse.
 
 §7.2.2 Sektionsstyrelsens ledamöter skall vara utan ekonomiska anmärkningar och inte finnas i något belastningsregister.

@@ -30,6 +30,7 @@ Sektionens styrelse består av:
 - Ledamot med ansvar för Näringslivssamverkan
 - Ledamot med ansvar för Kommunikation
 - Ledamot med ansvar för JML-verksamhet
+- Ledamot med ansvar för Inköp
 - Ledamot
 
 ### 2.2 Suppleanter
@@ -96,6 +97,8 @@ Vice kassör delar kassörens förpliktelser och ansvar, och skall på samma sä
 
 Kassören ska aktivt samarbeta med och delta i möten anordnat av THS Ekonomiråd.
 
+Kassören skall aktivt samarbeta med sektionens inköpssamordnare och hålla den uppdaterad med sektionens ekonomi samt ha tillsyn på prissättningen och se till att den följer sektionens budget.
+
 #### 3.2.5 Ledamot med ansvar för utbildningspåverkan
 
 Styrelseledamot med ansvar för utbildningspåverkan ska arbeta långsiktigt och strategiskt med utbildnings-, jämlikhets- och mångfaldsfrågor inom de program som finns inom sektionen och verka för att de ständigt förbättras intill det bästa är uppnått.  
@@ -140,7 +143,15 @@ Ledamoten fungerar även som stöd för dessa, samt som en länk mellan JML-arbe
 Ledamoten ansvarar för att kalla till möte med JML-arbetsgruppen innan varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
 Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS, EECS-skolan och JML Rådet.
 
-#### 3.2.10 Övriga ledamöter och suppleanter
+#### 3.2.10 Ledamot med ansvar för Inköp
+
+Styrelseledamot med ansvar för inköp ska arbeta med inköp av förbrukningsvaror och nämndgemensam verksamhets materiel till sektionen och tillse att inköp av sådan karaktär sker på ett korrekt och sektionsfrämjande sätt. Ledamoten skall även tillse att sektionen har ett brett och varierat basutbud av dryck.
+
+Ledamoten ska ha ett nära samarbete med nämnders eventuella inköpsansvariga.
+Ledamoten ska även ha ett nära samarbete med sektionens kassör som bör vara involverad i och ha tillsyn över prissättningen av varor inom sektionen. Ledamoten förväntas att vara insatt i vilka regler och lagar som skall följas vid prissättning och bör utföra prissättning under tillsyn av sektionens kassör.
+Ledamoten bör med fördel ha gått STAD-utbildningen. För att bli vald till positionen behöver ledamoten inte ha gått STAD-utbildningen, men bör gå utbildningen vid nästkommande tillfälle, där denne bör ha företräde.
+
+#### 3.2.11 Övriga ledamöter och suppleanter
 
 Resterande styrelseledamöter ansvarar för att jobba med styrelsens strategiska frågor samt de områden som styrelsen anser vara lämpliga.  
 Vice kassörs ansvar regleras av punkt 3.2.4.
