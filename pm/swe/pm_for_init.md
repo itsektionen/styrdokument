@@ -29,6 +29,7 @@ Inits styrelse består av:
 
 Dessa väljs på ett SM. 
 
+Inits styrelse kallas 'Mainframe'.
 Inits styrelse kan välja in fler styrelseledamöter. 
 En enskild sektionsmedlem får endast inneha en styrelsepost åt gången.
 

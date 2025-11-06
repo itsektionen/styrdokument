@@ -30,6 +30,7 @@ init's board is made up by:
 
 These are elected at a chapter meeting.
 
+Inits board is called 'the mainframe'.
 Inits board may elect more board members. 
 A chapter member may only be part of one board at a time.
 
