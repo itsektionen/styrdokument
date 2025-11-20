@@ -9,7 +9,7 @@ The purpose of this memo is to regulate the chapter's official channels for info
 ### 1.2 History
 
 Created: 2008-12-11  
-Last revision: 2024-12-03
+Last revision: 2025-04-22
 
 ### 1.3 Revising this Memo
 

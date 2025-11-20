@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera sektionens officiella informationskanaler samt s
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2024-12-03
+Senast ändrat: 2025-04-22
 
 ### 1.3 Ändrande av PM
 
