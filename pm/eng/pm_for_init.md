@@ -7,7 +7,8 @@
 
 The purpose of this memo is to regulate the committee "init".
 
-The purpose of init is to organize and carry out programming activities with a focus on developing software systems to streamline the chapter's work or help the chapters members, as well to be responsible for the operation, maintenance, and further development of these systems. The committee may also conduct activities with the purpose of educating. 
+The purpose of init is to organize and carry out programming activities with a focus on developing software systems to streamline the chapter's work or help the chapters members, as well to be responsible for the operation, maintenance, and further development of these systems. 
+The committee may also conduct activities with the purpose of educating. 
 
 ### 1.2 History
 

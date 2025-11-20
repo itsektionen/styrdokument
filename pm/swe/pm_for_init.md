@@ -6,7 +6,8 @@
 
 Syftet med denna PM är att reglera nämnden "init".
 
-Inits syfte är att organisera och genomföra programmeringsaktiviteter med fokus på att utveckla mjukvarusystem för effektivisera sektionensarbete eller hjälpa sektionsmedlemmar, samt att ansvara för drift, underhåll och vidareutveckling av dessa system. Nämnden kan också driva aktiviter med syfte att utbilda. 
+Inits syfte är att organisera och genomföra programmeringsaktiviteter med fokus på att utveckla mjukvarusystem för effektivisera sektionensarbete eller hjälpa sektionsmedlemmar, samt att ansvara för drift, underhåll och vidareutveckling av dessa system. 
+Nämnden kan också driva aktiviter med syfte att utbilda. 
 
 ### 1.2 Historik
 
