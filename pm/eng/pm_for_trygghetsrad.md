@@ -9,7 +9,7 @@ This memo regulates the chapter's Council of Safety.
 ### 1.2 Historik
 
 Established: 2014-09-22  
-Last revision: 2023-12-05
+Last revision: 2025-04-22
 
 ### 1.3 Revising this Memo
 
@@ -35,4 +35,5 @@ The chapters Council of Safety is responsible for
 
 ## 4 Regulations
 
-The chapter's safety officer may not be an elected members of the board.
+The chapter's safety officer may not be an elected members of the board.  
+At least one safety officer must not be an active member of PIFF and PUFF
