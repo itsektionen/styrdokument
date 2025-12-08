@@ -36,4 +36,4 @@ The chapters Council of Safety is responsible for
 ## 4 Regulations
 
 The chapter's safety officer may not be an elected members of the board.  
-At least one safety officer must not be an active member of PIFF and PUFF
+At least one safety officer must not be an active member of PIFF and PUFF.
