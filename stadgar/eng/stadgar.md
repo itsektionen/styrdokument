@@ -4,7 +4,7 @@
 # Statutes of the Information Technology Chapter
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2025-01-20
+Last edit made at the chapter meeting on 2025-09-30
 
 <!-- markdownlint-disable MD056 MD058 -->
 \pagebreak

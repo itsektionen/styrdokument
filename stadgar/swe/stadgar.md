@@ -4,7 +4,7 @@
 # Sektionen för Informationstekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
-Senast ändrade vid Sektionsmötet 2025-01-20
+Senast ändrade vid Sektionsmötet 2025-09-30
 
 <!-- markdownlint-disable MD056 MD058 -->
 \pagebreak
