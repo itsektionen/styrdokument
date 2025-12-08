@@ -259,11 +259,11 @@ required.
 
 §4.3.1 A supporting member is a member of THS that has chosen to support the chapter.
 
-§4.3.2 A supporting member has the same rights as a regular member except for eligibility and the right to vote in the elections for the union council.
+§4.3.2 A supporting member has the same rights as a regular member, except for the right to vote at chapter meetings and in the THS union council elections, as well as eligibility for positions in the union council and the board.
 
 §4.3.3 A supporting member have the same responsibilities as a regular member.
 
-## §4.4 Honorary member
+### §4.4 Honorary member
 
 §4.4.1 The decoration of honorary member is appointed by the chapter meeting and requires a qualified majority.  
 A decision is based on a nomination on a chapter meeting and does not require a formal motion.
@@ -279,6 +279,16 @@ A decision is based on a nomination on a chapter meeting and does not require a 
 - to receive an invitation to all major events held by the chapter.
 
 §4.4.5 An honorary member that has inflicted harm upon the chapter may be expulsed after a decision has been made with a qualified majority on a chapter meeting.
+
+### §4.5 Guest Member
+
+§4.5.1 A guest member is a member of THS but does not need to study a program mapped to the chapter.
+
+§4.5.2 A guest member is appointed for the period of one year by a board meeting with a qualified majority. A request to be appointed as a guest member should be sent to the board by the person itself at least 4 days before the board meeting.
+
+§4.5.3 A guest member has the same rights as a regular member, except for the right to vote at chapter meetings and in the THS union council elections, as well as eligibility for positions in the union council and the board.
+
+§4.5.4 A guest member has the same responsibilities as a regular member.
 
 ## §5 Chapter meeting
 
