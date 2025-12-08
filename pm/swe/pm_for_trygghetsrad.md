@@ -36,4 +36,4 @@ Sektionens trygghetsråd ansvarar för
 ## 4 Regleringar
 
 Sektionens skyddsombud får inte vara förtroendevalda styrelsemedlemmar.  
-Minst ett skyddsombud ska inte vara aktiv medlem inom PIFF och PUFF
+Minst ett skyddsombud ska inte vara aktiv medlem inom PIFF och PUFF.
