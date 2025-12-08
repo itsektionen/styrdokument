@@ -259,7 +259,7 @@ Förslaget från sektionsstyrelsen läggs fram som en proposition.
 
 §4.3.1 Som stödmedlem betraktas THS-medlem som valt att stödja sektionen.
 
-§4.3.2 Stödmedlem har samma rättigheter som ordinarie medlem, undantaget valbarhet samt rösträtt till THS kårfullmäktige
+§4.3.2 Stödmedlem har samma rättigheter som ordinarie medlem, med undantag för rösträtt vid sektionsmöten och THS kårfullmäktige, samt valbarhet till THS kårfullmäktige och styrelsen.
 
 §4.3.3 Stödmedlem har samma skyldigheter som ordinarie medlem
 
@@ -279,6 +279,17 @@ Beslut fattas efter nominering på sektionsmöte och beslut kan fattas utan för
 - att att erhålla en inbjudan till större evenemang anordnade av sektionen.
 
 §4.4.5 Hedersmedlem som misskött sig eller åsamkat sektionen skada kan efter beslut av sektionsmötet med kvalificerad majoritet uteslutas.
+
+### §4.5 Gästmedlem
+
+§4.5.1 En gästmedlem är medlem i THS men behöver inte studera ett program som är mappat till sektionen.
+
+§4.5.2 En gästmedlem utses för tiden av ett år av ett styrelsemöte med kvalificerad majoritet. 
+En begäran om att bli utsedd till gästmedlem ska skickas till styrelsen av personen själv senast 4 dagar före styrelsemötet.
+
+§4.5.3 Gästmedlem har samma rättigheter som ordinarie medlem, med undantag för rösträtt vid sektionsmöten och THS kårfullmäktige, samt valbarhet till THS kårfullmäktige och styrelsen.
+
+§4.5.4 En gästmedlem har samma ansvar som en vanlig medlem.
 
 ## §5 Sektionsmöte, SM
 
