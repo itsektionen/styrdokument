@@ -21,11 +21,13 @@ För ändring av ändring av denna PM krävs beslut taget med kvalificerad major
 
 Sektionens logotyp kännetecknas av bokstäverna I och T utförda som två delar av en vertikal blixt, där I vilar uppe på T.
 
-Den ensamma blixten skall ha färgen laserviolett (`#CC99FF`, se §1.2 i sektionens stadga). Alternativt kan den undre delen ha en mörkare ton av samma färg (`#443355`).
+Den ensamma blixten skall ha färgen laserviolett (`#CC99FF`, se §1.2 i sektionens stadga).
+Alternativt kan den undre delen ha en mörkare ton av samma färg (`#443355`).
 
 I fall där blixten inte utan svårigheter kan användas skall den inneslutas i en 45 grader vinklad kvadrat som föreställer ett stiliserat mikrochip.
 
-Mikrochipets ben skall ha färgen laserviolett (`#CC99FF`, se §1.2 i sektionens stadga) och centrum skall ha en mörkare ton av samma färg (`#443355`). Blixten skall vara vit (`#FFFFFF`).
+Mikrochipets ben skall ha färgen laserviolett (`#CC99FF`, se §1.2 i sektionens stadga) och centrum skall ha en mörkare ton av samma färg (`#443355`).
+Blixten skall vara vit (`#FFFFFF`).
 
 ![Sektionens logotyp, i färg](./img/logo-it.svg){width=50%}
 
