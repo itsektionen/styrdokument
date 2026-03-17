@@ -11,9 +11,9 @@ Nämnden kan också driva aktiviter med syfte att utbilda.
 
 ### 1.2 Historik
 
-Upprättat: 2025-11-XX
+Upprättat: 2025-11-18
 
-Senast ändrat: 2025-11-XX
+Senast ändrat: 2025-11-18
 
 ### 1.3 Ändrande av PM
 

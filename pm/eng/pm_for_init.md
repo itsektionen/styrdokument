@@ -12,9 +12,9 @@ The committee may also conduct activities with the purpose of educating.
 
 ### 1.2 History
 
-Created: 2025-11-XX
+Created: 2025-11-18
 
-Last revision: 2025-11-XX 
+Last revision: 2025-11-18 
 
 ### 1.3 Revising this Memo
 
