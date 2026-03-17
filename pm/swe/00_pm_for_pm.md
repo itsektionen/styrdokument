@@ -42,7 +42,7 @@ Första punkten i en PM skall heta "Formalia" och innehålla följande punkter:
 I punkten "Syfte" skall det framgå vad PM:n reglerar.  
 En PM får aldrig reglera något som inte har relevans till det syfte som PM:n har.
 
-I punkten "historik" skall datumet för upprättande samt datum för senaste ändring av PM finnas.
+I punkten "Historik" skall datumet för upprättande samt datum för senaste ändring av PM finnas.
 
 PM ändras med kvalificerad majoritet eller i enlighet med regler angivna i PM:et.
 
