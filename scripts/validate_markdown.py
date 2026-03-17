@@ -18,7 +18,6 @@ ENG_CHANGE = "Last revision:"
 
 class ValidationError(NamedTuple):
 	"""Represents a single validation error."""
-
 	file_path: Path
 	message: str
 	line_number: Optional[int] = None
@@ -103,10 +102,9 @@ def check_weird_quotes(lines: List[str], file_path: Path) -> List[ValidationErro
     """
     Checks for non-standard quote characters.
     """
-    pattern = re.compile(r'[“”„‟«»‘’‚‛′″]')
     errors: List[ValidationError] = []
     for i, line in enumerate(lines):
-        found = pattern.findall(line)
+        found = re.compile(r'[“”„‟«»‘’‚‛′″]').findall(line)
         if found:
             chars = ', '.join(sorted(set(found)))
             errors.append(ValidationError(file_path, f"Line has non-standard quote character: {chars}", i + 1))
