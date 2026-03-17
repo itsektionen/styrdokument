@@ -48,7 +48,7 @@ Benämnd Neurotisk Åskådare till Generalens Ounvikliga Nederlag (NÅGON).
 ### 2.3 Ledamot med ansvar för Budget
 
 Är ekonomisk samordnare och fungerar som kontaktperson med sektionens kassör.
-Dennes uppgift är att disponera Mottagningens budget.  
+Dennes uppgift är att disponera Mottagningens budget.
 
 ### 2.4 Ledamöter
 

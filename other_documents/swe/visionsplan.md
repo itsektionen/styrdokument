@@ -10,7 +10,8 @@ Målen ska användas som vägledning i sektionens arbete.
 - Alla studenter i KTH Kista känner sig personligen välkomna och uppskattade i IT-Sektionen.
 - Alla studenter i KTH Kista har nytta av sektionen.
 - Alla studenter i KTH Kista känner tillhörighet till IT-Sektionen, THS och KTH.
-- Alla sektionsmedlemmar har kul på sin fritid när de inte studerar. Ingen ska sitta hemma och ha ofrivilligt tråkigt, utan det finns alltid ett roligt event hen kan gå på!
+- Alla sektionsmedlemmar har kul på sin fritid när de inte studerar.
+  Ingen ska sitta hemma och ha ofrivilligt tråkigt, utan det finns alltid ett roligt event hen kan gå på!
 - Alla medlemmar i IT-Sektionen vet vad sektionen gör och verkar för
 
 ## Aktiva medlemmar

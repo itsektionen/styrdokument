@@ -10,7 +10,7 @@ The purpose of the Sports Committee is to encourage physical activities in the c
 
 ### 1.2 History
 
-Created: 2008-12-11  
+Established: 2008-12-11  
 Last revision: 2022-09-27
 
 ### 1.3 Revising this Memo

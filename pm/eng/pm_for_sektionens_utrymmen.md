@@ -35,8 +35,7 @@ The chapter board is responsible for communicating the authorization changes to 
 
 #### 2.1.3 Sharing
 
-In the event that several parts of the chapter shares the same space no one part may take up a disproportionally large portion of said space.  
-This also applies to temporary storage since temporary storage situations has a tendency to becomes permanent.
+In the event that several parts of the chapter shares the same space, no part may take up a disproportionally large portion of said space; not even for temporary storage (as temporary storage has a tendency to become permanent).
 
 #### 2.1.4 Connection to activities
 
@@ -49,7 +48,7 @@ Equipment and materials that is stored in any space may never be placed in such 
 #### 2.1.6 Storage containers
 
 All equipment and materials shall to the utmost extent be packaged, for example in boxes, nets or sacks.  
-"Borrowed" storage vessels that the part of the chapter does not own(e.g. Shopping carts) should not be used.
+"Borrowed" storage vessels that the part of the chapter does not own (e.g. shopping carts) should not be used.
 
 #### 2.1.7 Compliance
 
@@ -78,6 +77,6 @@ Studiemiljönämnden are responsible for maintaining the chapter hall's public s
 
 The chapters klubbmästerier are responsible for maintaining the bar, kitchen, and connected storage spaces.
 
-#### 3.2 Restoring spaces after use
+### 3.2 Restoring spaces after use
 
 The committee or person that have borrowed the chapter hall are responsible for restoring the chapter hall and all connected spaces in accordance with the current cleaning list.

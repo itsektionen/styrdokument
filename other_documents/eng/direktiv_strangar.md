@@ -1,25 +1,25 @@
-# Direktiv för Strängteoretiquerna
+# Directive for Strängteoretiquerna
 
-## 1 Formalia
+## 1 Formalities
 
-### 1.1 Syfte
+### 1.1 Purpose
 
-Detta direktiv är avsett att reglera klubben Strängteoretiquerna.
+This directive is intended to regulate the club Strängteoretiquerna.
 
-Strängteoretiquerna är en klubb tillhörande Sektionen för Informationsteknik som syftar till att främja bevarande och skapande av studentqultur.
+Strängteoretiquerna is a club belonging to the Chapter for Information Technology that aims to promote the preservation and creation of student culture.
 
-### 1.2 Historik
+### 1.2 History
 
-Upprättat: 2014-06-06  
-Senast ändrat: 2024-12-03
+Established: 2014-06-06
+Last revision: 2024-12-03
 
-## 2 Organisation
+## 2 Organization
 
-Strängteoretiquerna leds av de två språkrören Bellman och Fredman.  
-Dessa två godkänns av sektionsmötet.
+Strängteoretiquerna are led by the two spokesmen Bellman and Fredman.
+These two are approved by the chapter meeting.
 
-## 3 Verksamhet
+## 3 Activities
 
-Strängteoretiquernas verksamhet regleras under eget reglemente vilket är en del av denna PM.
+Strängteoretiquerna activities are regulated under their own regulations, which are part of this PM.
 
-Detta reglemente ändras i enlighet med bestämmelser i nämnda reglemente.
+These regulations are amended in accordance with the provisions of the aforementioned regulations.

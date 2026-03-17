@@ -44,7 +44,7 @@ Den monokroma logotypen får färgsättas i andra färger än de ovan angivna, f
 
 ### 2.2 Användning
 
-För affischer och dylikt skall logotypen vara placerad i ett av affischens hörn, i enlighet med de framtagna mallarna och rådande proportioner.  
+För affischer och dylikt skall logotypen vara placerad i ett av affischens hörn, i enlighet med de framtagna mallarna och rådande proportioner.
 
 Om logotypen används tillsammans med THS logotyp placeras den i det motsatta hörnet.
 

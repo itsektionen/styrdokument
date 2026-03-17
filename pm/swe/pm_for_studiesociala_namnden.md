@@ -20,23 +20,23 @@ För ändrande av detta PM krävs ett beslut med kvalificerad majoritet på ett 
 
 ### 2.1 Sammanställning
 
-Studiesociala nämndens styrelse består av:  
+Studiesociala nämndens styrelse består av:
 
 - Ordförande samt styrelseledamot med ansvar för Studiesocial verksamhet.
 
 Studiesociala nämnden kan välja in fler styrelseledamöter.
-Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.  
+Enskild sektionsmedlem får endast inneha en styrelsepost åt gången.
 
 ### 2.2 Tillsättning
 
-Samtliga av Studiesociala Nämndens styrelserepresentanter väljs av SM.  
+Samtliga av Studiesociala Nämndens styrelserepresentanter väljs av SM.
 
 ## 3 Verksamhet
 
 ### 3.1 Styrelseledamot med ansvar för Studiesocial verksamhet
 
-Sammankallande och ordförande för studiesociala nämnden är styrelseledamot med ansvar för studiesocial verksamhet.  
+Sammankallande och ordförande för studiesociala nämnden är styrelseledamot med ansvar för studiesocial verksamhet.
 
-Styrelseledamoten ansvarar för att möten med hela nämnden hålls inför varje styrelsemöte.  
+Styrelseledamoten ansvarar för att möten med hela nämnden hålls inför varje styrelsemöte.
 
-Dennes ansvar och plikter regleras i "PM för Sektionens Styrelse".  
+Dennes ansvar och plikter regleras i "PM för Sektionens Styrelse".

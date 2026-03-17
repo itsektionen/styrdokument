@@ -12,7 +12,7 @@ Detta PM är en del av det förebyggande arbetet för att undvika oacceptabelt b
 ### 1.2 Historik
 
 Upprättat: 2023-12-05  
-Senast ändrat: 2023-12-05  
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 

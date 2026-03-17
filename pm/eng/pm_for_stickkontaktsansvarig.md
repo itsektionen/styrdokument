@@ -8,10 +8,10 @@ This memo formalises and regulates the honorary position of Stickkontaktsansvari
 
 ### 1.2 History
 
-Created: 2019-02-13  
+Established: 2019-02-13  
 Last revision: 2019-02-13
 
-### 1.3 Revising this memo
+### 1.3 Revising this Memo
 
 In order to pass a revision of this memo, a decision has to be made with a qualified majority at two subsequent chapter meetings.
 

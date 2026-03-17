@@ -10,7 +10,7 @@ The goals shall act as a guide for the chapter's work.
 - All students at KTH Kista feles personally welcome and appriciated in the chapter.
 - All students at KTH Kista benefit from the chapter.
 - All students at KTH Kista have a sense of belonging to the chapter, THS, and KTH.
-- All chapter members has a good time during their spare time when they are not studying.  
+- All chapter members has a good time during their spare time when they are not studying.
   Nobody should sit at home and be involontarily bored but there should always be a fun event they can attend.
 - All chapter members know what the chapter does and is working towards.
 
