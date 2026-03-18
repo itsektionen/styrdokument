@@ -1,0 +1,27 @@
+name: PR Reminder comment
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  remind-common-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Post comment
+        uses: actions/github-script@v8
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `### PR Reminders
+              Please ensure the following:
+              - Link the signed protocol and relevant files.
+              - Update the revision dates.
+              - Only have one sentence per line.
+              - Do not break single sentences onto multiple lines.`
+            })
