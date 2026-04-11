@@ -1,27 +1,72 @@
-name: PR Reminder comment
+name: PR Reminder
 
 on:
   pull_request:
-    types: [opened]
+    types: [opened, edited]
 
 jobs:
-  remind-common-issues:
+  comment:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
     steps:
       - name: Post comment
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9.0.0
         with:
           script: |
-            github.rest.issues.createComment({
+            const prTitle = context.payload.pull_request.title;
+            const action = context.payload.action;
+            const titleChanged = context.payload.changes?.title;
+
+            // Unique identifier for the bot's comment
+            const COMMENT_IDENTIFIER = '<!-- pr-reminder-bot -->';
+
+            if (action === "edited" && !titleChanged) {
+              return;
+            }
+
+            const suffixPattern = /\s-\s(SM#\d+\s\d{4}(?:\/SM#\d+\s\d{4})*)\s-\s(\d{4}-\d{2}-\d{2}(?:\/\d{4}-\d{2}-\d{2})*)$/;
+            const match = prTitle.match(suffixPattern);
+
+            let body = `### PR Reminders
+            Please ensure the following:
+            - Link the signed protocol and relevant files.
+            - Update the revision dates.
+            - Only have one sentence per line.
+            - Do not break single sentences onto multiple lines.`;
+
+            if (!match) {
+              body += `\n\n### ⚠️ Invalid PR Title Suffix
+            Expected title suffix:
+            - Single: \` - SM#X 20YY - 20YY-MM-DD\`
+            - Multiple: \` - SM#X 20YY/SM#X 20YY - 20YY-MM-DD/20YY-MM-DD\`
+
+            _This is not needed for editorial or non memo/statutes changes._`;
+            }
+
+            body += `\n\n${COMMENT_IDENTIFIER}`;
+
+            const { data: comments } = await github.rest.issues.listComments({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `### PR Reminders
-              Please ensure the following:
-              - Link the signed protocol and relevant files.
-              - Update the revision dates.
-              - Only have one sentence per line.
-              - Do not break single sentences onto multiple lines.`
-            })
+            });
+            const existingComment = comments.find(comment =>
+              comment.user.login === 'github-actions[bot]' && comment.body.includes(COMMENT_IDENTIFIER)
+            );
+
+            if (existingComment) {
+              await github.rest.issues.updateComment({
+                comment_id: existingComment.id,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: body,
+              });
+            }
