@@ -8,7 +8,7 @@ This is compared to a fork, which relies on that single person to fix.
 
 1. Branch/Fork this repository
 2. Perform the changes that are part of the motion _in your own branch/fork_, **not** in the main branch of this repository.
-   (It should be locked for all non-PR merges).
+   (It should be locked for all non-pull request merges).
 3. Create a pull request in this repository, link to and briefly describe your motion in the pull request.
 4. Link to the pull request in your motion.
 5. Any additions or changes to the proposed changes should be done as suggested changes in the pull request on GitHub.
@@ -32,19 +32,25 @@ For example:
 - `Add vice JML president role - SM#1 2025 - 2025-01-20`
 - `Update §5.3.3 discharge to 6 months - SM#5 2023/SM#1 2024 - 2023-12-05/2024-01-23` if it has been voted on twice.
 
+### Description
+
+In the pull request rescription, add a short explaination of what is changed.
+Together with a link to the propositin/motion as well as the signed chapter meeting protocol.
+
 ### Labeling
 
-Always assign the related labels to the PR.
+Always assign the related labels to the pull request.
 This includes if the statutes, memos or if it includes editorial changes.
-This is to more easily see which PR has changed what types of files.
+This is to more easily see which pull request has changed what types of files.
 
-To be able to label the PR, you might need specific access to the repository.
+To be able to label the pull request, you might need specific access to the repository.
 Therefore, those who have it need to add these labels if they are missing.
 
 ### Reviewing
 
-It's highly recommended that someone reviews your PR before it gets merged.
+It's highly recommended that someone reviews your pull request before it gets merged.
 Small errors might not be found for years and can be hard to track down whether they were intended or not.
+Double check the points in the PR reminder comment if all things are correct.
 
 Every time something has been voted to be changed with a proposition or a motion at a chapter meeting, the revision date of the affected documents needs to be changed.
 This is often missed, so always double-check this before merging.
@@ -54,9 +60,9 @@ This is often missed, so always double-check this before merging.
 All pull requests **must** be merged _in chronological order_ of the dates they got approved by a chapter meeting.
 If multiple pull requests were voted on at the same chapter meeting, the internal order is not important.
 
-In order for a PR to be merged, it needs to be approved by the chapter meeting.
+In order for a pull request to be merged, it needs to be approved by the chapter meeting.
 
-There are formatting rules to follow for this repository that will be checked on every PR automatically.
+There are formatting rules to follow for this repository that will be checked on every pull request automatically.
 These are in place to find blatant errors.
 However, some things might slip through and they are not super strict, so you always need to double-check your work.
 
@@ -77,7 +83,7 @@ However, some things might slip through and they are not super strict, so you al
 
 As mentioned in the [README](../README.md) repository rules, all changes will be automatically built to the repository's releases.
 As a secretary, you should manage these releases.
-If multiple PRs have been merged, only keep the last one for each SM.
+If multiple pull requests have been merged, only keep the last one for each SM.
 Label the release with the SM and year the changes originate from.
 Update the text, explaining what has changed.
 
