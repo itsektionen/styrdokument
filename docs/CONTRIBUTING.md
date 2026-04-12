@@ -32,6 +32,12 @@ For example:
 - `Add vice JML president role - SM#1 2025 - 2025-01-20`
 - `Update §5.3.3 discharge to 6 months - SM#5 2023/SM#1 2024 - 2023-12-05/2024-01-23` if it has been voted on twice.
 
+### Scope
+
+Each pull request must address only **one proposition/motion**.
+If multiple changes were voted on, create separate pull requests for each.
+This keeps the merge history clear and makes it easier to track and revert individual changes if needed.
+
 ### Description
 
 In the pull request rescription, add a short explaination of what is changed.
@@ -78,6 +84,10 @@ However, some things might slip through and they are not super strict, so you al
    - Same dates in both files.
    - Same number of lines.
    - Same header numbering.
+
+Always merge using _squash and merge_, to keep the commit history clean and linear.
+Prefix the commit message with `SMX 20YY-` if it's a change voted on at a chapter meeting.
+This makes the history easier to navigate and to catch if things have been merged out of order.
 
 ## Releases
 
