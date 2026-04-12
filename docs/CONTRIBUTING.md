@@ -106,3 +106,7 @@ Update the text, explaining what has changed.
 As a secretary, you can also create a custom named tag for the release.
 This allows everyone to easily find a previous state of the repository.
 These tags should be named `20XX-SMX`, like `2025-SM3`.
+
+## Tips and tricks
+
+- If you are using VS Code, the plugins [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) and [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) greatly helps the editing process.

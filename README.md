@@ -36,11 +36,7 @@ Before writing a motion or proposition that changes some regulatory document, re
     └── swe
 ```
 
-## Tips and tricks
-
-- If you are using VS Code, the plugin [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) greatly helps the editing process.
-
-### And lastly
+## And lastly
 
 §2.1.3 of the chapter's statutes clearly state that _all_ of the chapter's regulatory documents must be published on _the chapter's website_.
 
