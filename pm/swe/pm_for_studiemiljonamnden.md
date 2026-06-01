@@ -27,7 +27,7 @@ Nämnden har ej egen ekonomi.
 
 ## 4 Verksamhet
 
-Det är Studiemiljönämndens uppgift att ta hand om lokaler som tillhör sektionen, genom att se till att anmälningar görs till Akademiska Hus eller KTH och att underhålla de saker sektionen ansvarar för i lokalerna.
+Det är Studiemiljönämndens uppgift att ta hand om lokaler som tillhör sektionen, genom att se till att anmälningar görs till Akademiska Hus eller KTH och att underhålla de saker sektionen ansvarar för i lokalerna.  
 Studiemiljönämnden ansvarar däremot inte för egendom som nämnder äger och underhåller själva.
 
 Deras långsiktiga mål bör vara att förbättra lokalerna i syfte för studiemiljö och studiesocialmiljö.

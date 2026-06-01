@@ -27,7 +27,7 @@ The committee does not have its own economy.
 
 ## 4 Activities
 
-It is Studiemiljönämnden's task to take care of the locales belonging to the chapter, by ensuring that reports are made to Akademiska Hus or KTH and maintaining the things the chapter is responsible for in the locales.
+It is Studiemiljönämnden's task to take care of the locales belonging to the chapter, by ensuring that reports are made to Akademiska Hus or KTH and maintaining the things the chapter is responsible for in the locales.  
 Studiemiljönämnden is however not responsible for property that committees own and maintain themselves.
 
 Their long-term goal should be to improve the locales for the purpose of the study environment and the study social environment.
