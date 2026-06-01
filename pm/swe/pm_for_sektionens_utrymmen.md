@@ -9,7 +9,7 @@ Denna PM är avsett att reglera hanteringen av sektionens gemensamma resurser, s
 ### 1.2 Historik
 
 Upprättat: 2008-12-11  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2026-03-24
 
 ### 1.3 Ändrande av PM
 
@@ -72,9 +72,9 @@ Organ som disponerar egna förvaringsutrymmen ansvarar själva för eventuella r
 
 ### 3.1 Ansvarsfördelning
 
-Ansvaret för sektionslokalens allmänna utrymmen åligger studiemiljönämnden.
+Ansvaret för sektionslokalens utrymmen åligger studiemiljönämnden.
 
-Ansvaret för bar, kök och tillhörande lagerutrymmen åligger sektionens klubbmästerier.
+Ansvaret för barutrustning, köksutrustning och förvaring i tillhörande lagerutrymmen åligger sektionsorgan som använder dessa
 
 ### 3.2 Återställande av lokal efter användande
 

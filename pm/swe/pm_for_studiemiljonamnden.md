@@ -4,14 +4,14 @@
 
 ### 1.1 Syfte
 
-Denna PM är avsedd att reglera nämnden Studiemiljönämnden.
+Detta PM är avsedd att reglera nämnden Studiemiljönämnden.
 
-Studiemiljönämnden ansvarar för att sektionens medlemmar vistas i en god studiemiljö.
+Studiemiljönämnden ansvarar för lokaler som tillhör sektionen.
 
 ### 1.2 Historik
 
 Upprättat: 2008-02-05  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2026-03-24
 
 ### 1.3 Ändrande av PM
 
@@ -27,8 +27,11 @@ Nämnden har ej egen ekonomi.
 
 ## 4 Verksamhet
 
-StURe tillsammans med Lill-StURe genomför skyddsrond varje termin.  
-Det är även Studiemiljönämndens uppgift att se till att felanmälningar av lokalerna når akademiska hus samt att Sektionslokalen (Kistan 2.0) hålls trevlig.
+Det är Studiemiljönämndens uppgift att ta hand om lokaler som tillhör sektionen, genom att se till att anmälningar görs till Akademiska Hus eller KTH och att underhålla de saker sektionen ansvarar för i lokalerna.
+
+Studiemiljönämnden ansvarar däremot inte för egendom som nämnder äger och underhåller själva.
+
+Deras långsiktiga mål bör vara att förbättra lokalerna i syfte för studiemiljö och studiesocial miljö.
 
 ## 5 Logotyp
 

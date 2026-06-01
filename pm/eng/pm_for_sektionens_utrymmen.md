@@ -9,7 +9,7 @@ The purpose of this Memo is to regulate the chapter's shared resources, e.g. sto
 ### 1.2 History
 
 Established: 2008-12-11  
-Last revision: 2022-09-27
+Last revision: 2026-03-24
 
 ### 1.3 Revising this Memo
 
@@ -74,9 +74,9 @@ Parts of the chapter that dispose of their own storage spaces are responsible fo
 
 ### 3.1 Division of responsibilities
 
-Studiemiljönämnden are responsible for maintaining the chapter hall's public spaces.
+Studiemiljönämnden are responsible for the chapter hall's spaces.
 
-The chapters klubbmästerier are responsible for maintaining the bar, kitchen, and connected storage spaces.
+Responsibility for bar equipment, kitchen equipment and storage in connected storage spaces belongs to chapter organizations that use these.
 
 #### 3.2 Restoring spaces after use
 
