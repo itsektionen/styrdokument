@@ -32,7 +32,7 @@ Sektionens trygghetsråd ansvarar för
 - att företräda sektionens medlemmar i arbetsmiljöfrågor samt att se till att de förtroendevaldas tilldelade arbete går i linje med arbetsmiljölagstiftningen.
 - att hålla kontinuerlig kontakt med THS huvudskyddsombud.  
 - att hålla kontinuerlig kontakt med sektionens representant i THS.
-- att närvara vid, alternativt utföra, skyddsronder varje termin
+- att närvara vid, alternativt utföra, skyddsronder varje termin.
 
 ## 4 Regleringar
 

@@ -74,7 +74,7 @@ Organ som disponerar egna förvaringsutrymmen ansvarar själva för eventuella r
 
 Ansvaret för sektionslokalens utrymmen åligger studiemiljönämnden.
 
-Ansvaret för barutrustning, köksutrustning och förvaring i tillhörande lagerutrymmen åligger sektionsorgan som använder dessa
+Ansvaret för barutrustning, köksutrustning och förvaring i tillhörande lagerutrymmen åligger sektionsorgan som använder dessa.
 
 ### 3.2 Återställande av lokal efter användande
 

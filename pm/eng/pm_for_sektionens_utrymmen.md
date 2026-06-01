@@ -74,9 +74,9 @@ Parts of the chapter that dispose of their own storage spaces are responsible fo
 
 ### 3.1 Division of responsibilities
 
-Studiemiljönämnden are responsible for the chapter hall's spaces.
+Studiemiljönämnden is responsible for the chapter hall's spaces.
 
-Responsibility for bar equipment, kitchen equipment and storage in connected storage spaces belongs to chapter organizations that use these.
+Responsibility for bar equipment, kitchen equipment and storage in accompanying storage spaces belongs to chapter bodies that use these.
 
 #### 3.2 Restoring spaces after use
 

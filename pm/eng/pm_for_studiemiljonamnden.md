@@ -6,7 +6,7 @@
 
 This Memo is meant to regulate the committee Studiemiljönämnden.
 
-Studiemiljönämnden is responsible for the premises belonging to the chapter.
+Studiemiljönämnden is responsible for the locales belonging to the chapter.
 
 ### 1.2 History
 
@@ -27,11 +27,10 @@ The committee does not have its own economy.
 
 ## 4 Activities
 
-It is Studiemiljönämnden's task to take care of the premises belonging to the chapter, by ensuring that reports are made to Akademiska Hus or KTH and maintaining the things the chapter is responsible for in the premises.
-
+It is Studiemiljönämnden's task to take care of the locales belonging to the chapter, by ensuring that reports are made to Akademiska Hus or KTH and maintaining the things the chapter is responsible for in the locales.
 Studiemiljönämnden is however not responsible for property that committees own and maintain themselves.
 
-Their long-term goal should be to improve the premises for the purpose of study environment and study social environment.
+Their long-term goal should be to improve the locales for the purpose of the study environment and the study social environment.
 
 ## 5 Logo
 
