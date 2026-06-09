@@ -282,7 +282,7 @@ A decision is based on a nomination on a chapter meeting and does not require a 
 
 ### §4.5 Guest Member
 
-§4.5.1 A guest member is a member of THS but does not need to study a program mapped to the chapter.
+§4.5.1 A guest member is a member of THS who does not study a program mapped to the chapter.
 
 §4.5.2 A guest member is appointed by a board meeting with a qualified majority for a period of one year.
 A request to be appointed as a guest member must be sent to the board by the person themselves no later than four (4) days before the board meeting.
