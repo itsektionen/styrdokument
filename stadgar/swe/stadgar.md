@@ -261,7 +261,7 @@ Förslaget från sektionsstyrelsen läggs fram som en proposition.
 
 §4.3.2 Stödmedlem har samma rättigheter som ordinarie medlem, med undantag för rösträtt vid sektionsmöten och THS kårfullmäktige, samt valbarhet till THS kårfullmäktige och styrelsen.
 
-§4.3.3 Stödmedlem har samma skyldigheter som ordinarie medlem
+§4.3.3 Stödmedlem har samma skyldigheter som ordinarie medlem.
 
 ### §4.4 Hedersmedlem
 
