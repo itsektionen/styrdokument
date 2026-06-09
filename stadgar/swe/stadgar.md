@@ -284,8 +284,8 @@ Beslut fattas efter nominering på sektionsmöte och beslut kan fattas utan för
 
 §4.5.1 En gästmedlem är medlem i THS men behöver inte studera ett program som är mappat till sektionen.
 
-§4.5.2 En gästmedlem utses för tiden av ett år av ett styrelsemöte med kvalificerad majoritet. 
-En begäran om att bli utsedd till gästmedlem ska skickas till styrelsen av personen själv senast 4 dagar före styrelsemötet.
+§4.5.2 En gästmedlem utses av ett styrelsemöte med kvalificerad majoritet för tiden av ett år.
+En begäran om att bli utsedd till gästmedlem skall skickas till styrelsen av personen själv senast fyra (4) dagar före styrelsemötet.
 
 §4.5.3 Gästmedlem har samma rättigheter som ordinarie medlem, med undantag för rösträtt vid sektionsmöten och THS kårfullmäktige, samt valbarhet till THS kårfullmäktige och styrelsen.
 
