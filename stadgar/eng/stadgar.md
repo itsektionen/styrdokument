@@ -284,8 +284,8 @@ A decision is based on a nomination on a chapter meeting and does not require a 
 
 §4.5.1 A guest member is a member of THS but does not need to study a program mapped to the chapter.
 
-§4.5.2 A guest member is appointed for the period of one year by a board meeting with a qualified majority.
-A request to be appointed as a guest member should be sent to the board by the person itself at least 4 days before the board meeting.
+§4.5.2 A guest member is appointed by a board meeting with a qualified majority for a period of one year.
+A request to be appointed as a guest member must be sent to the board by the person themselves no later than four (4) days before the board meeting.
 
 §4.5.3 A guest member has the same rights as a regular member, except for the right to vote at chapter meetings and in the THS union council elections, as well as eligibility for positions in the union council and the board.
 
