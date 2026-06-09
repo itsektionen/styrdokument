@@ -289,7 +289,7 @@ En begäran om att bli utsedd till gästmedlem ska skickas till styrelsen av per
 
 §4.5.3 Gästmedlem har samma rättigheter som ordinarie medlem, med undantag för rösträtt vid sektionsmöten och THS kårfullmäktige, samt valbarhet till THS kårfullmäktige och styrelsen.
 
-§4.5.4 En gästmedlem har samma ansvar som en vanlig medlem.
+§4.5.4 En gästmedlem har samma skyldigheter som ordinarie medlem.
 
 ## §5 Sektionsmöte, SM
 
