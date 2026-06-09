@@ -261,7 +261,7 @@ required.
 
 §4.3.2 A supporting member has the same rights as a regular member, except for the right to vote at chapter meetings and in the THS union council elections, as well as eligibility for positions in the union council and the board.
 
-§4.3.3 A supporting member have the same responsibilities as a regular member.
+§4.3.3 A supporting member has the same responsibilities as a regular member.
 
 ### §4.4 Honorary member
 
