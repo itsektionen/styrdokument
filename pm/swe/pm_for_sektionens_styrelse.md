@@ -19,7 +19,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 
 ### 2.1 Sammansättning
 
-Sektionens styrelse består av:  
+Sektionens styrelse består av:
 
 - Sektionens Ordförande
 - Sektionens vice Ordförande
@@ -34,7 +34,7 @@ Sektionens styrelse består av:
 
 ### 2.2 Suppleanter
 
-Styrelsens suppleanter är:  
+Styrelsens suppleanter är:
 
 - Vice kassör som suppleant för sektionens kassör.
 
@@ -50,18 +50,18 @@ Enskild sektionsmedlem får endast inneha en styrelse- eller styrelsesuppleantpo
 Styrelsen ansvarar för att samordna sektionens verksamhetsområden och förankra övergripande frågor gällande sektionens verksamhet samt sektionens strategiska och långsiktiga arbete.  
 Det operativa arbetet inom sektionen sköts av övriga nämnder och förtroendevalda, men styrelsen ska alltid finnas till som stöd för dessa, och ge riktlinjer för det operativa arbetet.
 
-Styrelsens specifika uppgifter är  
+Styrelsens specifika uppgifter är
 
-- att sköta sektionens löpande ärenden  
-- att förvalta budgeterade medel  
-- att samordna nämndernas verksamhet  
-- att efter skriftlig begäran från av sektionsmötet vald förtroendevald entlediga denne  
-- att vid behov utöva ordförandeskap för nämnd i dess ordförandes ställe  
-- att kalla till sektionsmöte  
-- att inför varje verksamhetsår utarbeta och föreslå en verksamhetsplan samt en budget för sektionsmötets godkännande  
-- att vid avgång gå igenom sektionens styrande dokument med tillträdande styrelse  
-- att se till att sektionens styrdokument inte strider mot THS stadga eller reglementen, varandra, eller är svårtolkade  
-- att äska pengar för sektionsavgift från THS  
+- att sköta sektionens löpande ärenden
+- att förvalta budgeterade medel
+- att samordna nämndernas verksamhet
+- att efter skriftlig begäran från av sektionsmötet vald förtroendevald entlediga denne
+- att vid behov utöva ordförandeskap för nämnd i dess ordförandes ställe
+- att kalla till sektionsmöte
+- att inför varje verksamhetsår utarbeta och föreslå en verksamhetsplan samt en budget för sektionsmötets godkännande
+- att vid avgång gå igenom sektionens styrande dokument med tillträdande styrelse
+- att se till att sektionens styrdokument inte strider mot THS stadga eller reglementen, varandra, eller är svårtolkade
+- att äska pengar för sektionsavgift från THS
 - att arbeta strategiskt mot en visionsplan för att utveckla sektionens långsiktiga verksamhet.
 
 ### 3.2 Individuellt ansvar
@@ -98,7 +98,7 @@ Kassören ska aktivt samarbeta med och delta i möten anordnat av THS Ekonomirå
 
 #### 3.2.5 Ledamot med ansvar för utbildningspåverkan
 
-Styrelseledamot med ansvar för utbildningspåverkan ska arbeta långsiktigt och strategiskt med utbildnings-, jämlikhets- och mångfaldsfrågor inom de program som finns inom sektionen och verka för att de ständigt förbättras intill det bästa är uppnått.  
+Styrelseledamot med ansvar för utbildningspåverkan ska arbeta långsiktigt och strategiskt med utbildnings-, jämlikhets- och mångfaldsfrågor inom de program som finns inom sektionen och verka för att de ständigt förbättras intill det bästa är uppnått.
 
 Ledamoten är sammankallande för Studienämnden, och leder det operativa arbetet de förtroendevalda inom nämnden utför.  
 Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Studienämnden och styrelsen.  
@@ -107,15 +107,15 @@ Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Utbildning
 
 #### 3.2.6 Ledamot med ansvar för studiesocial verksamhet
 
-Styrelseledamot med ansvar för studiesocial verksamhet ska arbeta långsiktigt med att utveckla studentlivet inom sektionen, och samarbeta med de operativa organ inom sektionen som utför arbetet.  
+Styrelseledamot med ansvar för studiesocial verksamhet ska arbeta långsiktigt med att utveckla studentlivet inom sektionen, och samarbeta med de operativa organ inom sektionen som utför arbetet.
 
 Ledamoten samordnar de nämnder inom sektionen som arbetar operativt med sektionens studiesociala verksamhet.  
-Ledamoten fungerar som en länk mellan dessa nämnder och styrelsen, och ansvarar därför för att träffa nämndernas ordförande inför varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara  och driva deras frågor till styrelsen och vice versa.  
-Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS Lokalråd.  
+Ledamoten fungerar som en länk mellan dessa nämnder och styrelsen, och ansvarar därför för att träffa nämndernas ordförande inför varje styrelsemöte, för att säkra en bra insyn i deras arbete samt möjligheten att besvara och driva deras frågor till styrelsen och vice versa.  
+Ledamoten ska i brist på bättre lämpad kandidat aktivt samarbeta med och delta i möten ordnade av THS Lokalråd.
 
 #### 3.2.7 Ledamot med ansvar för näringslivssamverkan
 
-Styrelseledamot med ansvar för näringslivssamverkan ska arbeta långsiktigt med att förbättra samarbetet mellan sektionen och näringslivet, samt stärka sektionens varumärke på arbetsmarknaden.  
+Styrelseledamot med ansvar för näringslivssamverkan ska arbeta långsiktigt med att förbättra samarbetet mellan sektionen och näringslivet, samt stärka sektionens varumärke på arbetsmarknaden.
 
 Ledamoten är sammankallande för Näringslivsnämnden, och leder det operativa arbetet de förtroendevalda inom nämnden utför.  
 Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Näringslivsnämnden och styrelsen.  
@@ -124,7 +124,7 @@ Ledamoten ska aktivt samarbeta med och delta i möten anordnat av THS Näringsli
 
 #### 3.2.8 Ledamot med ansvar för kommunikation
 
-Styrelseledamot med ansvar för kommunikation ska arbeta långsiktigt och strategiskt med att stärka sektionens varumärke och dess koppling till THS, förbättra kommunikationen från sektionens organ till dess medlemmar och vice versa samt kartlägga studenternas åsikter och önskemål om sektionen.  
+Styrelseledamot med ansvar för kommunikation ska arbeta långsiktigt och strategiskt med att stärka sektionens varumärke och dess koppling till THS, förbättra kommunikationen från sektionens organ till dess medlemmar och vice versa samt kartlägga studenternas åsikter och önskemål om sektionen.
 
 Ledamoten är sammankallande för Kommunikationsnämnden, och leder det operativa arbetet de förtroendevalda inom nämnden utför.  
 Ledamoten fungerar även som stöd för dessa, samt som en länk mellan Kommunikationsnämnden och styrelsen.  
@@ -152,4 +152,4 @@ Vid frånvaro från styrelsemöte ska skriftlig rapportering insändas senast da
 
 ## 4 Motto
 
-Styrelsens motto är och skall förbli ”*Try my best to do always!*”.
+Styrelsens motto är och skall förbli "*Try my best to do always!*".

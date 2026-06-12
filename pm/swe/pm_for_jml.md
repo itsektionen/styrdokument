@@ -63,7 +63,7 @@ Vice ordförande ska, i ordförandens frånvaro, fullgöra deras uppgifter och a
 
 ### 3.3 JML-Arbetsgrupp
 
-Arbetar med JML-frågor inom sektionen under Styrelseledamot med ansvar för JML-verksamhets ledning och hjälper Styrelseledamot med ansvar för JML-verksamhet att uppfylla sina uppgifter.  
+Arbetar med JML-frågor inom sektionen under Styrelseledamot med ansvar för JML-verksamhets ledning och hjälper Styrelseledamot med ansvar för JML-verksamhet att uppfylla sina uppgifter.
 
 ### 3.4 Internationell-kooordinator
 
@@ -76,9 +76,11 @@ I dessa uppgifter ingår:
 - Att samordna med den Internationella-arbetsgruppen och Mottagningsnämnden för att säkerställa att evenemang utarbetas, planeras och genomföras för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH.
 - Att arbeta för att all information finns tillgänglig på engelska.
 
-### 3.5 Internationell=Arbetsgrupp
+### 3.5 Internationell-Arbetsgrupp
 
-Arbetar med att främja internationella studenters ställning, integration och engagemang i sektionen under Internationell-koordinators ledning. De arbetar också tillsammans med den Internationella-koordinatorn och Mottagningsnämnden för att säkerställa att evenemang planeras och genomförs för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH. Medlemmar i den Internationella arbetsgruppen som aktivt har bidragit med totalt 25 arbetstimmar under en 4-månadersperiod är berättigade till en GPA-boost på 0,2 för utbytesstudier enligt beslut av THS Head of International och den Internationella-koordinatorn.
+Arbetar med att främja internationella studenters ställning, integration och engagemang i sektionen under Internationell-koordinators ledning.
+De arbetar också tillsammans med den Internationella-koordinatorn och Mottagningsnämnden för att säkerställa att evenemang planeras och genomförs för alla nya masterstudenter och utbytesstudenter som påbörjar sina studier och som kommer att tillhöra sektionen under sina studier vid KTH.
+Medlemmar i den Internationella arbetsgruppen som aktivt har bidragit med totalt 25 arbetstimmar under en 4-månadersperiod är berättigade till en GPA-boost på 0,2 för utbytesstudier enligt beslut av THS Head of International och den Internationella-koordinatorn.
 
 ## 4 Logotyp
 

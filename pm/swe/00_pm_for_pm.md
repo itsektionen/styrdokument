@@ -34,15 +34,15 @@ Denna PM skall namnges så att det framgår vad som regleras.
 
 ### 2.3 Struktur
 
-Första punkten i en PM skall heta ”Formalia” och innehålla följande punkter:  
+Första punkten i en PM skall heta "Formalia" och innehålla följande punkter:  
 1.1 Syfte  
 1.2 Historik  
 1.3 Ändrande av PM
 
-I punkten “Syfte” skall det framgå vad PM:n reglerar.  
+I punkten "Syfte" skall det framgå vad PM:n reglerar.  
 En PM får aldrig reglera något som inte har relevans till det syfte som PM:n har.
 
-I punkten ”historik” skall datumet för upprättande samt datum för senaste ändring av PM finnas.
+I punkten "Historik" skall datumet för upprättande samt datum för senaste ändring av PM finnas.
 
 PM ändras med kvalificerad majoritet eller i enlighet med regler angivna i PM:et.
 
@@ -85,4 +85,4 @@ PM för Studiesociala nämnden, 2020-05-20
 PM för Traditioner, 2014-12-08  
 PM för TraditionsMEsterIT, 2008-12-11  
 PM för Trygghetsråd, 2014-09-22  
-PM för Valberedningen, 2014-02-10  
+PM för Valberedningen, 2014-02-10

@@ -8,8 +8,8 @@ The purpose of this Memo is to formulate and to regulate the chapter's Board's c
 
 ### 1.2 History
 
-Created: 2008-12-11  
-Senast ändrat: 2022-11-28
+Established: 2008-12-11  
+Last revision: 2022-11-28
 
 ### 1.3 Revising this Memo
 
@@ -31,7 +31,6 @@ The Chapter's board is composed of:
 - Board member responsible for Communication
 - Board member responsible for JML Activities
 - Board member
-- Chapter vice Cashier
 
 ### 2.2 Deputies
 
@@ -83,7 +82,7 @@ The vice president shall maintain close contact to the representatives in the re
 #### 3.2.3 Secretary
 
 The secretary is responsible for the chapter's documents.  
-They shall be well-read on the chapter statutes and Memos and shall make sure that it is correctly written both in meaning and language.  
+They shall be well-read on the chapter statutes and Memos and shall make sure that it is correctly written both in meaning and language.
 
 The secretary shall act as a support for any chapter member that wishes to make a motion.
 
@@ -99,7 +98,7 @@ The treasurer shall actively cooperate with and attend meetings arranged by THS 
 
 #### 3.2.5 Board member responsible for education influence
 
-The Board member responsible for education influence shall work long-term and strategically with educational, equality, and diversity questions within the programs connected to the chapter and shall work towards their constant improvement until their best possible state is achieved.  
+The Board member responsible for education influence shall work long-term and strategically with educational, equality, and diversity questions within the programs connected to the chapter and shall work towards their constant improvement until their best possible state is achieved.
 
 The board member is the convenor of the Education Committee and shall lead the operative work of the trustees within the committee.  
 The board member shall also be a support for said trustees and shall be a link between the board and The Education Committee.  

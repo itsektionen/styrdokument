@@ -12,7 +12,7 @@ The Study Social Committee is responsible for developing student life within the
 Established: 2020-05-20  
 Last revision: 2024-11-11
 
-### 1.3 Revisions to this Memo
+### 1.3 Revising this Memo
 
 In order to pass a revision of this Memo a decision has to be made with a qualified majority on a Chapter meeting.
 

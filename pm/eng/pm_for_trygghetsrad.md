@@ -6,7 +6,7 @@
 
 This memo regulates the chapter's Council of Safety.
 
-### 1.2 Historik
+### 1.2 History
 
 Established: 2014-09-22  
 Last revision: 2025-04-22
@@ -30,7 +30,7 @@ The confidentiality can be extended to the chapter board when necessary.
 The chapters Council of Safety is responsible for
 
 - represent the chapter's members in questions regarding their working environment and to make sure that work assigned to trustees adheres to The Work Environment Act.
-- retain continual contact with THS' safety officer.  
+- retain continual contact with THS' safety officer.
 - retain continual contact with the chapter's representative in THS.
 
 ## 4 Regulations

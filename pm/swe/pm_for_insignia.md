@@ -19,26 +19,17 @@ För ändring av ändring av denna PM krävs beslut taget med kvalificerad major
 
 ### 2.1 Officiellt Emblem
 
-Mikrochipets ben skall ha färgen laserviolett (#CC99FF, se §1.2 i sektionens
-stadga) och centrum skall ha en mörkare ton av samma färg (exempelvis
-`#403050`). Blixten skall vara vit (`#FFFFFF`).
-
-Sektionens
-logotyp kännetecknas av bokstäverna I och T utförda som två delar av en
-vertikal blixt, där I vilar uppe på T.
-Den ensamma blixten skall ha färgen laserviolett (`#CC99FF`, se §1.2 i
-sektionens stadga). Alternativt kan den undre delen ha en mörkare ton av
-samma färg (exempelvis `#403050`).
-I fall där blixten inte utan svårigheter kan användas skall den inneslutas i en
-45 grader vinklad kvadrat som föreställer ett stiliserat mikrochip.
+Sektionens logotyp kännetecknas av bokstäverna I och T utförda som två delar av en vertikal blixt, där I vilar uppe på T.
+Den ensamma blixten skall ha färgen laserviolett (`#CC99FF`, se §1.2 i sektionens stadga).
+Alternativt kan den undre delen ha en mörkare ton av samma färg (exempelvis `#403050`).
+I fall där blixten inte utan svårigheter kan användas skall den inneslutas i en 45 grader vinklad kvadrat som föreställer ett stiliserat mikrochip.
 
 Den officiella logotypen ser ut som följer:
 
 ![Sektionens logotyp, i färg](./img/logo-it-1500px.png)
 
-Mikrochipets ben skall ha färgen laserviolett (`#CC99FF`, se §1.2 i sektionens
-stadga) och centrum skall ha en mörkare ton av samma färg (exempelvis
-`#403050`). Blixten skall vara vit (`#FFFFFF`).
+Mikrochipets ben skall ha färgen laserviolett (`#CC99FF`, se §1.2 i sektionens stadga) och centrum skall ha en mörkare ton av samma färg (exempelvis `#403050`).
+Blixten skall vara vit (`#FFFFFF`).
 
 ### 2.2 Enfärgat Emblem
 

@@ -32,7 +32,7 @@ Intresserade sektionsmedlemmar får bli medlemmar i ITerativa Klubben.
 
 ITerativa Klubben har ingen egen ekonomi.
 
-## 3 Verksamhet
+## 4 Verksamhet
 
 ITerativa Klubbens verksamhetregleras under eget reglemente vilket är en del av denna PM.  
 Detta reglemente ändras i enlighet med bestämmelser i nämnda reglemente.

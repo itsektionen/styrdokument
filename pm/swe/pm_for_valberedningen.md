@@ -24,7 +24,7 @@ Syftet med denna PM är att formalisera valberedningens arbete och förtydliga d
 
 ## 3. Verksamhet i allmänhet
 
-Det åligger valberedningen:  
+Det åligger valberedningen:
 
 - att marknadsföra de val som förrättas under det aktuella verksamhetsåret
 - att insamla nomineringar och kandidaturer,
@@ -71,7 +71,7 @@ Valberedningen får dock aldrig rekommendera en kandidat att dra tillbaka en kan
 
 Kandidaternas ansökningshandlingar samt valberedningens omdömen och förordanden ska offentliggöras i separata valhandlingar till sektionsmötet vid vilket val ska ske.  
 Valberedningen ska även i dessa handlingar beskriva det arbetssätt som använts under beredningen samt redogöra för vilka bedömningskriterier som använts vid bedömning av kandidaternas kvalifikationer och lämplighet.  
-Det totala antalet sökande till vardera post ska anges.  
+Det totala antalet sökande till vardera post ska anges.
 
 Valberedningen ska i dessa handlingar också redogöra för eventuella avvikelser från normal beredningsprocedur som har förekommit.
 
@@ -80,11 +80,11 @@ Valberedningen ska i dessa handlingar också redogöra för eventuella avvikelse
 Valberedningen kan under arbetets gång komma över potentiellt känslig information om de olika kandidaterna, både sådan som är relevant för valet och sådan som inte är det.  
 Det är av yttersta vikt att sådan information behandlas varsamt.
 
-All information om kandidaterna och valberedningens arbete är konfidentiell och får ej lämnas ut av valberedningen eller någon av dess medlemmar, med följande undantag:  
+All information om kandidaterna och valberedningens arbete är konfidentiell och får ej lämnas ut av valberedningen eller någon av dess medlemmar, med följande undantag:
 
-- Valhandlingar enligt ovan, samt annan information som valberedningen skriftligen delger sektionen är offentlig.  
+- Valhandlingar enligt ovan, samt annan information som valberedningen skriftligen delger sektionen är offentlig.
 - Valberedningen ska under sektionsmöte i relevant utsträckning besvara de frågor som ställs av sektionsmötet.  
-  Frågor till en enskild ledamot av valberedningen behöver dock inte besvaras, såvida de inte avser en i handlingarna anmäld avvikande uppfattning.  
+  Frågor till en enskild ledamot av valberedningen behöver dock inte besvaras, såvida de inte avser en i handlingarna anmäld avvikande uppfattning.
 - Även uppgifter som är att anse som känsliga ska delges sektionsmötet, om de bedöms vara av betydande vikt för valet.  
   Dock skall de berörda kandidaterna i förväg informeras om detta och därvid ges möjlighet att dra tillbaka sina kandidaturer.
 

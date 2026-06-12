@@ -9,7 +9,7 @@ The purpose of the ITerative Club is to arrange events for the chapter's members
 
 ### 1.2 History
 
-Created: 2008-12-11  
+Established: 2008-12-11  
 Last revision: 2023-12-05
 
 ### 1.3 Revising this Memo
@@ -24,7 +24,7 @@ They are approved by the chapter meeting.
 ITerative Club's budget is managed by the Bureaucracy Senator.  
 Approved by the chapter meeting.
 
-Other committee board members are elected according to the committee's regulations.  
+Other committee board members are elected according to the committee's regulations.
 
 Interested members of the chapters may become members of the ITerative Club.
 

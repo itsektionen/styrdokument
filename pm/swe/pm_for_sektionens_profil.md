@@ -44,11 +44,11 @@ Revärerna behöver ej bytas ut om teknologen byter program, även om så är ö
 
 #### 2.2.2 Färg
 
-- För teknologer som går Civilingenjörsutbildning med inriktning Informationsteknik skall laservioletta revärer användas.  
-- För teknologer som går Civilingenjörsutbildning med inriktning Mikroelektronik skall limegröna revärer användas.  
-- För teknologer som går Högskoleingenjörsutbildning med inriktning Elektronik och datorteknik skall vita revärer användas.  
-- För teknologer som går Högskoleingenjörsutbildning med inriktning Datateknik skall cerisa revärer användas.  
-- För teknologer som går Kandidatutbildning med inriktning Affärssystem skall cerise- och porterbruna revärer användas.  
+- För teknologer som går Civilingenjörsutbildning med inriktning Informationsteknik skall laservioletta revärer användas.
+- För teknologer som går Civilingenjörsutbildning med inriktning Mikroelektronik skall limegröna revärer användas.
+- För teknologer som går Högskoleingenjörsutbildning med inriktning Elektronik och datorteknik skall vita revärer användas.
+- För teknologer som går Högskoleingenjörsutbildning med inriktning Datateknik skall cerisa revärer användas.
+- För teknologer som går Kandidatutbildning med inriktning Affärssystem skall cerise- och porterbruna revärer användas.
 - För teknologer som går kandidatutbildning med inriktning Informations- och kommunikationsteknik skall laservioletta revärer användas.
 
 #### 2.2.3 Gamla overaller

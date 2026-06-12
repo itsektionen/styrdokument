@@ -2,7 +2,7 @@
 
 ## 1 Formalities
 
-## 1.1 Purpose
+### 1.1 Purpose
 
 The purpose of this memo is to clearify the guildelines regarding the member's of the chapter of Information Technology's overalls and the chapter's other profile items.
 
@@ -44,11 +44,11 @@ The stripe does not have to be replaced if the student switches programs,this is
 
 #### 2.2.2 Color
 
-- Students attending the program Civilingenjörsutbildning med inriktning Informationsteknik shall wear laser violet leg stripes.  
-- Students attending the program Civilingenjörsutbildning med inriktning Mikroelektronik shall wear lime green leg stripes.  
-- Students attending the program Högskoleingenjörsutbildning med inriktning Elektronik och datorteknik shall wear white leg stripes.  
-- Students attending the program Högskoleingenjörsutbildning med inriktning Datateknik shall wear cerise leg stripes.  
-- Students attending the program Kandidatutbildning med inriktning Affärssystem shall wear cerise and porter brown leg stripes.  
+- Students attending the program Civilingenjörsutbildning med inriktning Informationsteknik shall wear laser violet leg stripes.
+- Students attending the program Civilingenjörsutbildning med inriktning Mikroelektronik shall wear lime green leg stripes.
+- Students attending the program Högskoleingenjörsutbildning med inriktning Elektronik och datorteknik shall wear white leg stripes.
+- Students attending the program Högskoleingenjörsutbildning med inriktning Datateknik shall wear cerise leg stripes.
+- Students attending the program Kandidatutbildning med inriktning Affärssystem shall wear cerise and porter brown leg stripes.
 - Students attending the program kandidatutbildning med inriktning Informations- och kommunikationsteknik shall wear laser violet leg stripes.
 
 #### 2.2.3 Old overalls

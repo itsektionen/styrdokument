@@ -30,7 +30,7 @@ Tystnadsplikten kan förlängas till sektionsstyrelsen vid behov.
 Sektionens trygghetsråd ansvarar för
 
 - att företräda sektionens medlemmar i arbetsmiljöfrågor samt att se till att de förtroendevaldas tilldelade arbete går i linje med arbetsmiljölagstiftningen.
-- att hålla kontinuerlig kontakt med THS huvudskyddsombud.  
+- att hålla kontinuerlig kontakt med THS huvudskyddsombud.
 - att hålla kontinuerlig kontakt med sektionens representant i THS.
 
 ## 4 Regleringar

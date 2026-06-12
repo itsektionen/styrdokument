@@ -62,9 +62,9 @@ En gasque för att avsluta en läsperiod och fira de avslutade tentorna.
 Utflykt för de mottagningsaktiva.  
 Brukar involvera teambuildning och en gasque.
 
-### 6.2 N0llegasque
+### 6.2 NØllegasque
 
-Den storslagna avslutningen för alla relaterade till Mottagningen, men främst för n0llan.
+Den storslagna avslutningen för alla relaterade till Mottagningen, men främst för nØllan.
 
 ## 7 ITK
 

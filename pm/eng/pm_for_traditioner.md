@@ -41,7 +41,7 @@ An evening arranged by the KAM project group in order to make contacts between s
 ### 3.2 KAM: Kista Carreer Fair
 
 KAM is organized by the KAM project group in the Buisness Relations Committee with the purpouse of making connections betweend students in Kista and employers.  
-KAM is usually concluded with a banquet.
+KAM is usually concluded with a party.
 
 ## 4 QMISK
 
@@ -62,10 +62,9 @@ A gasque meant to end a study period and celebrate the finished exams.
 A trip for the active members of the reception.  
 Usually involves team buidling and a gasque.
 
-## 6.2 N0llegasque
+### 6.2 NØllegasque
 
-The grand closing of the reception.  
-Aimed at all persons related to the Reception, but mainly n0llan.
+The grand closing of the reception for all persons related to the Reception, but mainly nØllan.
 
 ## 7 ITK
 

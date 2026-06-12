@@ -58,14 +58,14 @@ Därför behöver den antingen ersättas eller kompletteras med annan typ av exa
 Därtill är det viktigt att inse att betygssättning vid tillämpande av målrelaterade betyg oftast inte kan översättas till att ett vist antal rätt på en tentamen ger ett visst betyg.  
 För det andra så måste även undervisningen i kursen anpassas så att den kan nå de mål som ställts upp.  
 Detta kan kanske ses som självklart men då utbildningen på KTH ofta bygger på föreläsningar och självständiga studier utefter en kursbok så är denna självklarhet långt ifrån en realitet i utbildningen.  
-Moment så som laborationer, projektarbetet, seminarier etc.   bör med andra ord uppmuntras.  
+Moment så som laborationer, projektarbetet, seminarier etc. bör med andra ord uppmuntras.  
 En fördel med detta är också att dessa moment i utbildningen även kan
 användas i examinerande syfte.  
 Flertalet kurser är redan anpassats till detta men fortfarande finns många kurser som ännu inte börjat tillämpa detta tänkande.
 
 **Sektionen för Infromationsteknik anser att:**
 
-- betygssättning på KTH skall vara målrelaterad.  
+- betygssättning på KTH skall vara målrelaterad.
 - examination av kurser skall utformas så att dessa kan mäta de mål som är uppställda för kursen.
 - I kurser där mål inte examineras bör antingen mål eller examination omformas.
 - andra examinationsformer än skriftlig salstentamen bör uppmuntras.
