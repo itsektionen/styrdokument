@@ -61,7 +61,7 @@ Double check the points in the PR reminder comment if all things are correct.
 Every time something has been voted to be changed with a proposition or a motion at a chapter meeting, the revision date of the affected documents needs to be changed.
 This is often missed, so always double-check this before merging.
 
-### Mergning
+### Merging
 
 All pull requests **must** be merged _in chronological order_ of the dates they got approved by a chapter meeting.
 If multiple pull requests were voted on at the same chapter meeting, the internal order is not important.
