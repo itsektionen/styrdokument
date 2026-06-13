@@ -11,7 +11,7 @@ The material being produced shall be uniform in nature, and the chapter's attrib
 ### 1.2 History
 
 Established: 2017-05-23  
-Last revision: 2025-09-30
+Last revision: 2025-11-10
 
 ### 1.3 Revising this Memo
 
