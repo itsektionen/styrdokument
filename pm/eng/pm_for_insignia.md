@@ -9,7 +9,7 @@ The purpose of this memo is to regulate the chapter's insignia.
 ### 1.2 History
 
 Established: 2013-10-16  
-Last revision: 2025-06-08
+Last revision: 2025-11-10
 
 ### 1.3 Revising this Memo
 
