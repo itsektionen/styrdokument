@@ -66,4 +66,4 @@ I dess uppgifter ingår:
 
 ## 4 Logotyp
 
-![Studienämnden Logotyp](./img/logo-studie-1500px.png)
+![Studienämnden Logotyp](./img/logo-studie.svg){width=50%}

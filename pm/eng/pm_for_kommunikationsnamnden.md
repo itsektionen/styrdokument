@@ -88,4 +88,4 @@ The committee has no economy of its own.
 
 ## 5 Logo
 
-![Communication Committee Logo](./img/logo-kommunikation-1500px.png)
+![Communication Committee Logo](./img/logo-kommunikation.svg){width=50%}

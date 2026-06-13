@@ -84,4 +84,4 @@ Medlemmar i den Internationella arbetsgruppen som aktivt har bidragit med totalt
 
 ## 4 Logotyp
 
-![JML Logotyp](./img/logo-jml-1500px.png)
+![JML Logotyp](./img/logo-jml.svg){width=50%}

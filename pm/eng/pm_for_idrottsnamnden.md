@@ -29,4 +29,4 @@ The committee has no economy of it's own.
 
 ## 4 Logo
 
-![Sports Committee Logo](./img/logo-idrott-1500px.png)
+![Sports Committee Logo](./img/logo-idrott.svg){width=50%}

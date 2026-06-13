@@ -76,4 +76,4 @@ The Reception committee shall coordinate with the International Coordinator and 
 
 ## 5 Logo
 
-![Reception Committee Logo](./img/logo-mottagningen-1500px.png)
+![Reception Committee Logo](./img/logo-mottagningen.svg){width=50%}

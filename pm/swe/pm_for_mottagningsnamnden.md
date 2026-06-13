@@ -76,4 +76,4 @@ Mottagningsnämnden skall samordna med den Internationell-koordinatorn och event
 
 ## 5 Logotyp
 
-![Mottagningenen Logotyp](./img/logo-mottagningen-1500px.png)
+![Mottagningenen Logotyp](./img/logo-mottagningen.svg){width=50%}

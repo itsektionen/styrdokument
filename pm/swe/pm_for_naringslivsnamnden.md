@@ -65,4 +65,4 @@ Näringslivsnämnden har ej egen ekonomi.
 
 ## 5 Logotyp
 
-![Näringslivsnämnden Logotyp](./img/logo-naringsliv-1500px.png)
+![Näringslivsnämnden Logotyp](./img/logo-naringsliv.svg){width=50%}

@@ -84,4 +84,4 @@ Members of the group that have actively contributed for a total of 25 working ho
 
 ## 4 Logo
 
-![JML Logo](./img/logo-jml-1500px.png)
+![JML Logo](./img/logo-jml.svg){width=50%}
