@@ -32,7 +32,7 @@ The chapter's logotype is defined in the Memo for Insignia.
 
 ### 2.1 Colorization
 
-The legs of the microchip shall be of the color laser violet (#CC99FF, see §1.2 in the chapter’s statutes) and the centre shall have a darker tone of the same color (#443355).  
+The legs of the microchip shall be of the color laser violet (#CC99FF, see §1.2 in the chapter's statutes) and the centre shall have a darker tone of the same color (#443355).  
 The lightning bolt shall be white (#FFFFFF)
 
 In the case that the official emblem cannot be displayed without difficulties there is two monochrome variants of the emblem to use, one white and one black.  
