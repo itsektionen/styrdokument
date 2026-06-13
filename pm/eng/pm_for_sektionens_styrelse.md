@@ -97,7 +97,7 @@ The deputy treasurer shall share the treasures duties and responsibilities and s
 
 The treasurer shall actively cooperate with and attend meetings arranged by THS Economy council.
 
-The treasurer shall actively collaborate with the chapter’s board member responsible for purchases and keep them up to date with the chapter’s finances and oversee the pricing set forth by the purchasing coordinator such that it follows the chapter's budget.
+The treasurer shall actively collaborate with the chapter’s board member responsible for purchases and keep them up to date with the chapter's finances and oversee the pricing set forth by the purchasing coordinator such that it follows the chapter's budget.
 
 #### 3.2.5 Board member responsible for education influence
 
@@ -145,10 +145,12 @@ The board member shall actively cooperate with and attend meetings arranged by T
 
 #### 3.2.10 Board member responsible for Purchase Coordination
 
-Board member responsible for purchase coordination should work with purchases of consumables and joint committee equipment for the chapter and make sure that purchases of these characters are done in a correct and chapter benefiting manner. The board member shall also make sure that the chapter has a wide and varied base supply of beverages.
+Board member responsible for purchase coordination should work with purchases of consumables and joint committee equipment for the chapter and make sure that purchases of these characters are done in a correct and chapter benefiting manner.
+The board member shall also make sure that the chapter has a wide and varied base supply of beverages.
 
 The board member should closely work with the eventual purchasing responsible people of each committee.
-The board member should also have a close collaboration with the chapter’s treasurer who should be involved in and supervise the pricing of items in the chapter. The board member is expected to know which rules and regulations that should be followed when pricing and should price items under supervision of the treasurer in the chapter.
+The board member should also have a close collaboration with the chapter's treasurer who should be involved in and supervise the pricing of items in the chapter.
+The board member is expected to know which rules and regulations that should be followed when pricing and should price items under supervision of the treasurer in the chapter.
 The board member should have attended the STAD-education.
 To be elected to the position the board members does not have to have attended the STAD-education, but should in that case attend the education at the next possible time where this person should have priority.
 
