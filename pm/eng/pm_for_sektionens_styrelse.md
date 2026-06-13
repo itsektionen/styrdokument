@@ -97,7 +97,7 @@ The deputy treasurer shall share the treasures duties and responsibilities and s
 
 The treasurer shall actively cooperate with and attend meetings arranged by THS Economy council.
 
-The treasurer shall actively collaborate with the chapter’s board member responsible for purchases and keep them up to date with the chapter's finances and oversee the pricing set forth by the purchasing coordinator such that it follows the chapter's budget.
+The treasurer shall actively collaborate with the chapter's board member responsible for purchases and keep them up to date with the chapter's finances and oversee the pricing set forth by the purchasing coordinator such that it follows the chapter's budget.
 
 #### 3.2.5 Board member responsible for education influence
 
