@@ -32,8 +32,8 @@ Sektionens logotyp definieras utförligt i PM för Sektionens Insignia.
 
 ### 2.1 Färgsättning
 
-Mikrochipets ben har färgen laserviolett (#CC99FF), och centrum har en mörkare ton av samma färg (#443355).  
-Blixten är vit (#FFFFFF).
+Mikrochipets ben har färgen laserviolett (`#CC99FF`), och centrum har en mörkare ton av samma färg (`#443355`).  
+Blixten är vit (`#FFFFFF`).
 
 I de fall där den officiella logotypen inte kan återges med korrekta färger finns två enfärgade varianter att tillgå, en vit och en svart.  
 I de enfärgade versionerna har mikrochipets ben samma färg som blixten, medan centrum saknar färg.  
