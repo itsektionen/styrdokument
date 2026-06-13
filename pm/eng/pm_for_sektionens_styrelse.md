@@ -9,7 +9,7 @@ The purpose of this Memo is to formulate and to regulate the chapter's Board's c
 ### 1.2 History
 
 Established: 2008-12-11  
-Last revision: 2022-11-28
+Last revision: 2025-12-02
 
 ### 1.3 Revising this Memo
 
