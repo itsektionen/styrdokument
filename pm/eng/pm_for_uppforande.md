@@ -12,7 +12,7 @@ This Memo is part of the preventive work to avoid unacceptable behavior and to p
 ### 1.2 History
 
 Established: 2023-12-05  
-Last revision:: 2023-12-05
+Last revision:: 2026-05-05
 
 ### 1.3 Revising this Memo
 
@@ -116,30 +116,41 @@ The complainant always has the right to turn to another Safety Officer for suppo
 
 ### 5.2 Investigation
 
-Investigations proceed in the following steps:
+Before an investigation is launched a member of the Safety Council (so called *the safety officer*) that has had contact with the plaintiff has explained how an investigation is conducted in accordance with "Memo
+for the Council of Safety".
+The safety officer then asks the plaintiff if they would like to launch an investigation.
 
-1. A report is received by the Council of Safety.
-2. Contact is established between the complainant and the Council of Safety.
-3. If the incident described is a violation of any of the rules in this Memo, contact is made between the Council of Safety and witnesses to the incident.
-4. The Council of Safety summons the accused to a meeting.
-5. The Board is involved in decision-making based on anonymized information.
-   If necessary, the involved parties are contacted by the Council of Safety for additional information.
-6. The chapter board decides one of the following:
-   - The accusation is upheld, and a sanction is imposed on the accused.
-   - The accusation is dismissed, and the investigation is closed.
-7. All parties involved are notified in writing in accordance with this Memo.
+If the plaintiff wants to launch an investigation, it shall be conducted with the following steps:
 
-The victim can always choose to end an ongoing investigation.
+1. The safety officer who received the complaint launches the investigation.
+That safety officer owns the investigation.
+2. The plaintiff's testimony is documented.
+3. If the described events are not against the rules described in this memo, the investigation is not further conducted.
+The errand is then only documented for statistical reasons.
+4. The safety officer establishes contact and documents testimony from possible witnesses to the event.
+5. The safety officer summons the defendant to a meeting and documents their testimony.
+6. The chapter board makes a decision based on anonymized information on everyone involved.
+If necessary, the people involved are contacted via the safety officer for additional information.
+7. The chapter board decides one of the following:
+   * The charge is upheld and a penalty is issued against the defendant.
+   * The charge is dismissed and the investigation is closed.
+8. The plaintiff, after a decision by the board, but before the board has learned the name of the defendant for possible sanctions, has the right to decide to terminate the investigation.
+This is so that they can protect their anonymity.
+9. All parties involved are contacted in writing in accordance with this memo.
+
+The plaintiff can always elect to end an ongoing investigation.
 
 ### 5.3 Follow-up
 
-The Board promptly informs all parties involved and the chapter's Council of Safety in writing, regardless of the outcome.
+The member of the council of safety informs all people involved of the board’s decision.
+In the event of suspension, the member of the Safety
+Council shares the names of the defendant and the plaintiff to the chapter board.
 
-Disclosure of information about decisions to trustee elected occurs in cases of suspensions and must be handled with care.
-Information is disclosed outside trustee elected only if necessary.
+The chapter board shares information of decisions to trustee elected people in the case of a suspension and this shall be done carefully.
+Information is only shared outside of trustee elected people only when strictly necessary.
 
-Trustee electives are responsible for informing other organizers within the committee if necessary.
-They are responsible for excluding suspended individuals from events during the suspension period.
+Trustee elected people are responsible to inform other people within their committee when needed.
+These are responsible for suspended individuals being turned away from events during their suspension.
 
 ### 5.4 Appeal
 
@@ -147,7 +158,7 @@ Appeals of decisions are reviewed by THS Study Environment Officer, THS Study So
 
 The appeal must be submitted in writing to the chapter president and vice president or the Council of Safety within 30 days of the decision being notified.
 
-The accused can, in writing, request within 30 days of the decision being notified by the Council of Safety who made the report.
+The accused can, in writing, request within 30 days of the decision being notified by the Council of Safety who made the report. However only if the action taken is a suspension.
 
 ## 6 Sanctions
 
