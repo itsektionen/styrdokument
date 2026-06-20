@@ -9,7 +9,7 @@ This Memo regulates the chapters' education committee which is responsible for c
 ### 1.2 History
 
 Established: 2008-02-05  
-Last revision: 2022-09-27
+Last revision: 2026-03-24
 
 ### 1.3 Revising this Memo
 
@@ -22,6 +22,7 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 The board of the education committee is composed of:
 
 - The board member responsible for education influence.
+- A vice president with shared responsibility for education influence.
 - A Program representing student (PAS) for each of the educational programs at undergrad level at the school of EECS given at campus KTH Kista.
 - A program representing student (PAS) representing all master studies programs at the school of EECS at campus KTH Kista.
 
@@ -41,7 +42,11 @@ It is the responsibility of the board member that meetings be held with the comm
 
 Their responsibilities and duties are further regulated in Memo for the chapter board.
 
-### 3.2 PAS
+### 3.2 Vice President
+
+The committee vice president shall in the absence of the committee president carry out their duties and execute their responsibilities as well as carry out duties agreed delegated to them by the committee president.
+
+### 3.3 PAS
 
 A program representing student is responsible for the student's education influence at their program.
 
@@ -52,7 +57,7 @@ Their tasks include:
 - Work towards improving that wich may and should be improved at their program.  
 - Be available for opinions in matters regarding education.
 
-### 3.3 Representative for master programs
+### 3.4 Representative for master programs
 
 A program representing student is responsible for the students' education influence at the master programs at the school of EECS given at campus KTH Kista.
 

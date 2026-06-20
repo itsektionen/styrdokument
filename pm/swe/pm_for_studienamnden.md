@@ -9,7 +9,7 @@ Denna PM reglerar sektionens studienämnd vilken ansvarar för samordning av stu
 ### 1.2 Historik
 
 Upprättat: 2008-02-05  
-Senast ändrat: 2022-09-27
+Senast ändrat: 2026-03-24
 
 ### 1.3 Ändrande av PM
 
@@ -22,6 +22,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 Studienämndens styrelse består av:
 
 - Styrelseledamoten med ansvar för utbildningsinflytande.
+- Vice ordförande med delat ansvar för utbildningsinflytande.
 - En programansvarig student (PAS) för vardera av EECS-skolans program som ges på campus KTH Kista på grundutbildningsnivå.
 - En programansvarig student (PAS) som bevakar samtliga masterprogram vid EECS-skolan som ges på campus KTH Kista.
 
@@ -41,7 +42,11 @@ Styrelseledamoten ansvarar för att möten med hela nämnden hålls inför varje
 
 Dennes ansvar och plikter regleras närmare i "PM för Sektionens styrelse".
 
-### 3.2 PAS
+### 3.2 Vice ordförande
+
+Vice ordförande ska, i ordförandens frånvaro, fullgöra deras uppgifter och ansvarsområden samt utföra de uppgifter som studienämndens ordförande delegerat till dem enligt överenskommelse.
+
+### 3.3 PAS
 
 En programansvarig student är ansvarig för studenternas utbildningsinflytande på programmet.
 
@@ -52,7 +57,7 @@ I dess uppgifter ingår:
 - Att arbeta för att förbättra det som kan och bör förbättras på programmet.
 - Att vara tillgänglig för synpunkter kring studiefrågor.
 
-### 3.3 Ansvarig för masterprogram
+### 3.4 Ansvarig för masterprogram
 
 En programansvarig student är ansvarig för studenternas utbildningsinflytande på masterprogrammen i EECS-skolan som ges på campus KTH Kista.
 
