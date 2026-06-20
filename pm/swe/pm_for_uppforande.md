@@ -12,7 +12,7 @@ Detta PM är en del av det förebyggande arbetet för att undvika oacceptabelt b
 ### 1.2 Historik
 
 Upprättat: 2023-12-05  
-Senast ändrat: 2023-12-05
+Senast ändrat: 2026-05-05
 
 ### 1.3 Ändrande av PM
 
@@ -116,26 +116,35 @@ Den målsägande har alltid rätt att vända sig till annat skyddsombud för st�
 
 ### 5.2 Utredning
 
-Utredningar sker enligt följande steg:
+Innan en utredning startar ska en medlem av Trygghetsrådet (så kallad skyddsombudet) som haft kontakt med den målsägande förklarat hur en utredning går till i enlighet med “PM för trygghetsrådet”.
+Skyddsombudet frågar sedan den målsägande om de vill starta en utredning.
 
-1. En anmälan mottas av Trygghetsrådet.
-2. Kontakt upprättas mellan målsägande och Trygghetsrådet.
-3. Om händelsen som beskrivs är ett brott mot någon av reglerna i detta PM upprättas kontakt mellan Trygghetsrådet och vittnen till händelsen.
-4. Trygghetsrådet kallar den tilltalade till möte.
-5. Styrelsen inblandas för beslutsfattande utifrån anonymiserad information.
-   Vid behov kontaktas de inblandade via Trygghetsrådet för ytterligare information.
-6. Styrelsens beslutar något av följande:
-   - Anklagan bifalls och det utfärdas en påföljd gentemot den tilltalade.
-   - Anklagan avfärdas och utredningen läggs ner.
-7. Alla involverade kontaktas skriftligt i enlighet med detta PM.
+Om målsägande vill starta en utredning sker det enligt följande steg:
+
+1. Skyddsombudet som mottagit anmälan startar utredningen.
+Skyddsombudet äger utredningen.
+2. Den målsägandes vittnesmål av situationen dokumenteras.
+3. Om händelsen som beskrivs inte är ett brott mot någon av reglerna i detta PM utförs inte en utredning.
+Ärendet dokumenteras då endast i statistiskt syfte.
+4. Skyddsombudet upprättar kontakt och dokumenterar vittnesmål från eventuella vittnen till händelsen.
+5. Skyddsombudet kallar den tilltalade till möte och dokumenterar deras vittnesmål.
+6. Styrelsen fattar ett beslut utifrån anonymiserad information om alla inblandade.
+Vid behov kontaktas de inblandade via skyddsombudet för ytterligare information.
+7. Styrelsen beslutar något av följande:
+   * Anklagan bifalls och det utfärdas en påföljd gentemot den tilltalade.
+   * Anklagan avfärdas och utredningen läggs ner.
+8. Den målsägande, efter beslut av styrelsen, men innan styrelsen eventuellt fått veta den tilltalades namn för eventuella påföljder, har rätt att besluta om att avsluta en pågående utredning.
+Detta för att de ska kunna värna om sin anonymitet.
+9. Alla involverade kontaktas skriftligt i enlighet med detta PM.
 
 Målsäganden kan alltid välja att avsluta en pågående utredning.
 
 ### 5.3 Uppföljning
 
-Styrelsen informerar skyndsamt skriftligt alla involverade samt sektionens Trygghetsråd oberoende av utfall.
+Medlemmen av Trygghetsrådet informerar alla involverade om styrelsens beslut.
+Vid avstängning delger medlemmen av Trygghetsrådet den tilltalades namn och målsägandens namn till Styrelsen.
 
-Delgivande av information om beslut till förtroendevalda sker vid avstängningar och skall skötas med aktsamhet.
+Styrelsen delger information om beslut till förtroendevalda vid avstängningar och detta skall skötas med aktsamhet.
 Information delges utanför förtroendevalda endast vid behov.
 
 Förtroendevalda ansvarar för att informera övriga arrangörer inom nämnden vid behov.
@@ -148,6 +157,7 @@ Dessa bär ansvar att avstängda individer avvisas från evenemang under avstän
 Överklagan ska lämnas skriftligt till sektionsordförande och vice sektionsordförande eller Trygghetsrådet inom 30 dagar från det att beslutet delgivits.
 
 Den tilltalade kan skriftligt begära inom 30 dagar från att beslutet delgivits av Trygghetsrådet vem som har gjort anmälan.
+Dock endast när påföljden är avstängning.
 
 ## 6 Påföljder
 
