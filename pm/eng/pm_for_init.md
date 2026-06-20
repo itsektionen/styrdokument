@@ -1,4 +1,3 @@
-
 # Memo for init
 
 ## 1 Formalities
@@ -13,7 +12,6 @@ The committee may also conduct activities with the purpose of educating.
 ### 1.2 History
 
 Created: 2025-11-18
-
 Last revision: 2025-11-18 
 
 ### 1.3 Revising this Memo
@@ -40,7 +38,6 @@ A chapter member may only be part of one board at a time.
 Convenor and Chairman of init is Bootloader, who is responsible for ensuring that meetings with the whole committee is held regularly.
 
 This person shall work long-term and strategically on developing the chapters digital systems and ensuring that they're maintained.
-
 
 ### 2.2 Kernel
 
