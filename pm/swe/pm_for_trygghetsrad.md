@@ -25,6 +25,7 @@ Trygghetsrådets uppgifter kan delas upp mellan skyddsombuden eller göras gemen
 Alla skyddsombud i Trygghetsrådet har sekretess.  
 Sekretessen innebär att medlemmar i Trygghetsrådet inte får obehörigen röja information som de fått veta i sitt uppdrag gällande yrkeshemligheter, arbetsförfarande eller information om enskilda individer.
 Sekretessen kan endast utökas med medgivande från personen som informationen rör.  
+Detta gäller även gentemot andra medlemmar av Trygghetsrådet.
 Om information delges till en annan individ med medgivande från personen som informationen rör hamnar denna individ under samma sekretess som en medlem av Trygghetsrådet.
 
 ## 3 Ansvar

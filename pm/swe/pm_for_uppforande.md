@@ -116,7 +116,7 @@ Den målsägande har alltid rätt att vända sig till annat skyddsombud för st�
 
 ### 5.2 Utredning
 
-Innan en utredning startar ska en medlem av Trygghetsrådet (så kallad skyddsombudet) som haft kontakt med den målsägande förklarat hur en utredning går till i enlighet med “PM för trygghetsrådet”.
+Innan en utredning startar ska en medlem av Trygghetsrådet (så kallad *skyddsombudet*) som haft kontakt med den målsägande förklarat hur en utredning går till i enlighet med "PM för trygghetsrådet".
 Skyddsombudet frågar sedan den målsägande om de vill starta en utredning.
 
 Om målsägande vill starta en utredning sker det enligt följande steg:

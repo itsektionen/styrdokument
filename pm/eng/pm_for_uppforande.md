@@ -142,7 +142,7 @@ The plaintiff can always elect to end an ongoing investigation.
 
 ### 5.3 Follow-up
 
-The member of the council of safety informs all people involved of the board’s decision.
+The member of the council of safety informs all people involved of the board's decision.
 In the event of suspension, the member of the Safety
 Council shares the names of the defendant and the plaintiff to the chapter board.
 
@@ -158,7 +158,8 @@ Appeals of decisions are reviewed by THS Study Environment Officer, THS Study So
 
 The appeal must be submitted in writing to the chapter president and vice president or the Council of Safety within 30 days of the decision being notified.
 
-The accused can, in writing, request within 30 days of the decision being notified by the Council of Safety who made the report. However only if the action taken is a suspension.
+The accused can, in writing, request within 30 days of the decision being notified by the Council of Safety who made the report.
+However only if the action taken is a suspension.
 
 ## 6 Sanctions
 

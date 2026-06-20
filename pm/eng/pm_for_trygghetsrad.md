@@ -22,7 +22,7 @@ All roles in the Council of Safety are elected by the chapter meeting.
 
 The Council of Safety's responsibilities can be divided between the safety officers or done together.
 
-All safety officers in the Safety Council are bound by confidentiality.
+All safety officers in the Safety Council are bound by confidentiality.  
 Confidentiality implies that all members of the Safety Council cannot without prior permission disclose any information they have received in their task regarding trade secrets, working procedure or information about individual people.
 The confidentiality can only be extended with permission from the person whom the information is regarded.
 This even applies between members of the Safety Council.
