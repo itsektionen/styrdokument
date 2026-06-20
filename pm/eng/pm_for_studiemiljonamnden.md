@@ -32,4 +32,4 @@ It is also Studiemiljönämnden's task to make sure that error reports regarding
 
 ## 5 Logo
 
-![SMN Logo](./img/logo-smn-1500px.png)
+![SMN Logo](./img/logo-smn.svg){width=50%}

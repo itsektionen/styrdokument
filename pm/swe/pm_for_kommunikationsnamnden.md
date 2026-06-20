@@ -88,4 +88,4 @@ Nämnden har ej egen ekonomi.
 
 ## 5 Logotyp
 
-![Kommunikationsnämnden Logotyp](./img/logo-kommunikation-1500px.png)
+![Kommunikationsnämnden Logotyp](./img/logo-kommunikation.svg){width=50%}

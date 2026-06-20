@@ -32,4 +32,4 @@ Det är även Studiemiljönämndens uppgift att se till att felanmälningar av l
 
 ## 5 Logotyp
 
-![SMN Logotyp](./img/logo-smn-1500px.png)
+![SMN Logotyp](./img/logo-smn.svg){width=50%}

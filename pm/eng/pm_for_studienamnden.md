@@ -66,4 +66,4 @@ Their tasks include:
 
 ## 4 Logo
 
-![Education Committee Logo](./img/logo-studie-1500px.png)
+![Education Committee Logo](./img/logo-studie.svg){width=50%}
