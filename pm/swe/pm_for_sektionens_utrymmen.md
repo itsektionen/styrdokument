@@ -22,7 +22,7 @@ För ändrande av detta PM krävs ett beslut taget med kvalificerad majoritet p�
 #### 2.1.1 Nyttjande
 
 Sektionen disponerar förvaringsutrymmen där sektionens organ kan lagra utrustning och material som används i organens verksamheter.  
-Samtliga organ har rätt att utnyttja dessa utrymmen i mån av tillgång och behov, så länge reglerna i detta PM efterföljs (se 2.1.7).  
+Samtliga organ har rätt att utnyttja dessa utrymmen i mån av tillgång och behov, så länge reglerna i detta PM efterföljs (se 2.1.7).
 
 Organ som önskar göra detta skall framställa sitt önskemål till sektionsstyrelsen, som fattar beslut i frågan.  
 I framställan skall omfattningen av organets behov tydligt framgå.
@@ -47,11 +47,12 @@ Utrustning och material som förvaras i ett utrymme får ej vara så placerad at
 
 #### 2.1.6 Förvaringskärl
 
-Utrustning och material skall i möjligaste mån vara förpackade, exempelvis i lådor, nät eller säckar. ”Lånade” förvaringsartiklar som inte ägs av organet (t ex kundvagnar) bör inte användas.
+Utrustning och material skall i möjligaste mån vara förpackade, exempelvis i lådor, nät eller säckar.
+"Lånade" förvaringsartiklar som inte ägs av organet (t.ex. kundvagnar) bör inte användas.
 
 #### 2.1.7 Regelefterlevnad
 
-Vid brott mot reglerna, som inte skyndsamt åtgärdas efter påpekande, förlorar organet vars medlem brutit mot reglerna all rätt till förvaring i det berörda utrymmet, samt eventuell behörighet som tilldelats organets medlemmar enligt 2.1.2
+Vid brott mot reglerna, som inte skyndsamt åtgärdas efter påpekande, förlorar organet vars medlem brutit mot reglerna all rätt till förvaring i det berörda utrymmet, samt eventuell behörighet som tilldelats organets medlemmar enligt 2.1.2.
 
 #### 2.1.8 Kvarlämnade föremål
 

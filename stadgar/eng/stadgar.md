@@ -1,12 +1,13 @@
 <!-- markdownlint-disable-next-line -->
-![The chapter's logo](./img/logo-it-1500px.png)
+![The chapter's logo](./img/logo-it.svg){width=50%}
 
 # Statutes of the Information Technology Chapter
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2025-01-20
+Last edit made at the chapter meeting on 2025-09-30
 
 <!-- markdownlint-disable MD056 MD058 -->
+
 \pagebreak
 
 | Table of contents
@@ -61,8 +62,8 @@ Last edit made at the chapter meeting on 2025-01-20
 | §9.2 Authority | | §10.2 Authority |
 | §9.3 Economy | | §10.3 Membership |
 | --- | | §10.4 Economy |
-| §11 Auditing and discharging  | | --- |
-| §11.1 Purpose | |  §12 Caucus |
+| §11 Auditing and discharging | | --- |
+| §11.1 Purpose | | §12 Caucus |
 | §11.2 Chapter auditor | | §12.1 Composition |
 | §11.3 Bias and chapter auditors | | §12.2 Tasks and responsibilities |
 | §11.4 Duties | | §12.3 Election procedure |
@@ -73,6 +74,7 @@ Last edit made at the chapter meeting on 2025-01-20
 | §13 Closing words |
 
 \pagebreak
+
 <!-- markdownlint-enable MD056 MD058 -->
 
 ## §1 General Information
@@ -102,7 +104,7 @@ To be considered a member one must pay the proper fees.
 ### §1.6 Authorised signatory
 
 §1.6.1 The chapter's authorised signatories are the chapter president and the chapter treasurer.  
-They sign the chapter firm together.  
+They sign the chapter firm together.
 
 The chapter board may suggest other signatories that the chapter meeting can approve.
 
@@ -112,11 +114,11 @@ The chapter board may suggest other signatories that the chapter meeting can app
 
 §1.7.1 The different bodies of the chapter are:
 
-- The chapter meeting.  
-- The chapter board.  
-- The chapter committees.  
-- The chapter clubs.  
-- The chapter auditors.  
+- The chapter meeting.
+- The chapter board.
+- The chapter committees.
+- The chapter clubs.
+- The chapter auditors.
 - The chapter caucus.
 
 ### §1.8 Announcing decisions
@@ -127,7 +129,7 @@ The chapter board may suggest other signatories that the chapter meeting can app
 
 §1.9.1 Relative majority: most votes.  
 §1.9.2 Qualified majority: > 2/3.  
-§1.9.3 Unanimous: all votes.  
+§1.9.3 Unanimous: all votes.
 
 ### §1.10 The chapter's birthday
 
@@ -166,8 +168,8 @@ Deviations from §2.2 cannot be made.
 
 ### §2.3 Memos
 
-§2.3.1 Memos regulate parts of the chapter where the statutes are not sufficiently
-detailed. Memos are always subordinate to the chapter statutes.
+§2.3.1 Memos regulate parts of the chapter where the statutes are not sufficiently detailed.
+Memos are always subordinate to the chapter statutes.
 
 §2.3.2 The establishment and abolishment of memos is decided upon by the chapter meeting and requires a qualified majority.  
 Memos mentioned in the statutes cannot be abolished without a change to the statutes.
@@ -203,26 +205,26 @@ Decisions regarding the establishing and changing of such exceptions always requ
 §3.2.4 A committee with its own budget is required to make its accounting available to the chapter meeting and the chapter board.
 
 §3.2.5 Committees with their own budget are authorized separately by the committee president and treasurer unless otherwise is stated in the committee's governing memo.  
-The authorizing parties are responsible for the committee’s economy.  
+The authorizing parties are responsible for the committee's economy.  
 Committees without its own economy shall not have any signatories.
 
 ### §3.3 Responsibilities
 
 §3.3.1 It is the responsibility of all chapter bodies that conduct activities under the rule of the chapter:
 
-- to provide verifications regarding when the transaction took place, what it pertains to, what it amounted to, and who made it, for every commercial transaction.  
-- to keep it's own account book.  
-- to make an annual financial report.  
+- to provide verifications regarding when the transaction took place, what it pertains to, what it amounted to, and who made it, for every commercial transaction.
+- to keep it's own account book.
+- to make an annual financial report.
 - to make an annual operational report.
 
 §3.3.2 All annual financial reports, operational reports, economical reports, accounting records, and verification information shall be saved according to Swedish laws and regulations.
 
 ### §3.4 Budget
 
-§3.4.1 It is the responsibility of the departing chapter board together with the succeeding board to formulate a suggested budget for the next operational year, and to present it to the chapter meeting. The suggestion shall be made in the form of a proposition.
+§3.4.1 It is the responsibility of the departing chapter board together with the succeeding board to formulate a suggested budget for the next operational year, and to present it to the chapter meeting.
+The suggestion shall be made in the form of a proposition.
 
-§3.4.2 In order to make changes to an already accepted budget a qualified majority is
-required.
+§3.4.2 In order to make changes to an already accepted budget a qualified majority is required.
 
 ### §3.5 Dissolvement
 
@@ -240,30 +242,30 @@ required.
 
 §4.2.1 Regular members have the rights:
 
-- to attend the chapter meeting with the rights to speak and vote.  
-- to have any inquiry processed by the chapter meeting.  
-- to express their reservation against decisions made by the chapter meeting.  
-- to access the chapter's protocols and other documents.  
-- to vote in the elections for the union council.  
-- to stand as a candidate for any position of responsibility within the chapter and THS, except for the position of supervisor.  
-- to attend board meetings.  
-- to utilise of services provided by the chapter.  
+- to attend the chapter meeting with the rights to speak and vote.
+- to have any inquiry processed by the chapter meeting.
+- to express their reservation against decisions made by the chapter meeting.
+- to access the chapter's protocols and other documents.
+- to vote in the elections for the union council.
+- to stand as a candidate for any position of responsibility within the chapter and THS, except for the position of supervisor.
+- to attend board meetings.
+- to utilise of services provided by the chapter.
 - to wear the chapter's overalls with the chapter color and the chapter's insignia.
 
 §4.2.2 It is the responsibility of regular members:
 
-- to conform to decisions made by the chapter meeting and by the chapter's bodies.  
+- to conform to decisions made by the chapter meeting and by the chapter's bodies.
 - to pay the union- and chapter fee.
 
 ### §4.3 Supporting member
 
 §4.3.1 A supporting member is a member of THS that has chosen to support the chapter.
 
-§4.3.2 A supporting member has the same rights as a regular member except for eligibility and the right to vote in the elections for the union council.
+§4.3.2 A supporting member has the same rights as a regular member, except for the right to vote at chapter meetings and in the THS union council elections, as well as eligibility for positions in the union council and the board.
 
-§4.3.3 A supporting member have the same responsibilities as a regular member.
+§4.3.3 A supporting member has the same responsibilities as a regular member.
 
-## §4.4 Honorary member
+### §4.4 Honorary member
 
 §4.4.1 The decoration of honorary member is appointed by the chapter meeting and requires a qualified majority.  
 A decision is based on a nomination on a chapter meeting and does not require a formal motion.
@@ -274,11 +276,22 @@ A decision is based on a nomination on a chapter meeting and does not require a 
 
 §4.4.4 An honorary member have the rights:
 
-- to attend chapter meetings with the right to speak.  
-- to attend board meetings.  
+- to attend chapter meetings with the right to speak.
+- to attend board meetings.
 - to receive an invitation to all major events held by the chapter.
 
 §4.4.5 An honorary member that has inflicted harm upon the chapter may be expulsed after a decision has been made with a qualified majority on a chapter meeting.
+
+### §4.5 Guest Member
+
+§4.5.1 A guest member is a member of THS who does not study a program mapped to the chapter.
+
+§4.5.2 A guest member is appointed by a board meeting with a qualified majority for a period of one year.
+A request to be appointed as a guest member must be sent to the board by the person themselves no later than four (4) days before the board meeting.
+
+§4.5.3 A guest member has the same rights as a regular member, except for the right to vote at chapter meetings and in the THS union council elections, as well as eligibility for positions in the union council and the board.
+
+§4.5.4 A guest member has the same responsibilities as a regular member.
 
 ## §5 Chapter meeting
 
@@ -310,10 +323,10 @@ These may be supplemented with extraordinary meetings if required.
 The following count as regular meetings:
 
 - the election meeting, where the next year's trustees are chosen or approved in accordance with the chapter's regulatory documents.  
-  These must be held at least one month before the end of the operational year.  
+  These must be held at least one month before the end of the operational year.
 - the budget meeting, where the next year's budget is processed.  
   This meeting should be held after the election meeting but must always be held before the end of the working year.  
-  This meeting should also treat next year's operational plan.  
+  This meeting should also treat next year's operational plan.
 - the decharge meeting, where the decharge of the previous year's board is treated.  
   It must be held at the latest 6 months after the end of the previous operational year, in accordance with THS bylaws.
 
@@ -340,13 +353,13 @@ A postponed matter shall be processed during the next chapter meeting.
 
 §5.7.1 Decisions can only be made in matters prescribed by the chapter's regulatory documents, or that is brought up by a motion or follow-up motion, and is a part of the decided upon meeting agenda.
 
-§5.7.2 Decisions are made through parliamentary voting with relative majority unless
-stated otherwise in the chapter's regulatory documents.
+§5.7.2 Decisions are made through parliamentary voting with relative majority unless stated otherwise in the chapter's regulatory documents.
 
 §5.7.3 Voting and elections is performed through acclamation unless stated otherwise in the chapter's regulatory documents, or if a formal vote is demanded by a voting member.
 
 §5.7.4 A formal vote is done openly, unless stated otherwise in the chapter's regulatory documents or, if demanded by a voting member, through ballots.  
-The votes are counted by two persons, chosen individually from one another by the meeting, and is reported to the chairman of the meeting. Should the numbers diverge the vote is recounted.
+The votes are counted by two persons, chosen individually from one another by the meeting, and is reported to the chairman of the meeting.
+Should the numbers diverge the vote is recounted.
 
 §5.7.5 In the event that the votes are tied the meeting president has the casting vote except in the case of elections where chance shall decide.
 
@@ -445,13 +458,13 @@ If the decision regards economic spending a decision can only be made if the amo
 
 §7.4.1 The chapter board is responsible:
 
-- to prepare subjects to be addressed by the chapter meeting.  
-- to answer received motions.  
-- to provide meeting minutes for the chapter meeting.  
-- to execute decisions made by the chapter meeting.  
-- to take responsibility for the chapter's economy and the economy of its committees before the chapter meeting.  
-- to draw up an annual report.  
-- to if necessary call to extra chapter meetings.  
+- to prepare subjects to be addressed by the chapter meeting.
+- to answer received motions.
+- to provide meeting minutes for the chapter meeting.
+- to execute decisions made by the chapter meeting.
+- to take responsibility for the chapter's economy and the economy of its committees before the chapter meeting.
+- to draw up an annual report.
+- to if necessary call to extra chapter meetings.
 - to draw up proposals for a operational plan and a budget for the following year.
 
 ### §7.5 Board meetings
@@ -466,7 +479,7 @@ If the decision regards economic spending a decision can only be made if the amo
 
 §7.5.5 All chapter members have the right to attend board meetings.
 
-§7.5.6 The board has the right to hold the board meeting behind closed doors if the decision to do so is made with a qualified majority for it. In this case only auditors, co-opted persons, and persons with the right to vote may attend the meeting.
+§7.5.6 The board meeting has the right to decide by qualified majority that the meeting shall be held behind closed doors, whereby only the auditors, voting or co-opted people have the right to attend.
 
 ### §7.6 Summons
 
@@ -565,8 +578,8 @@ It's name and composition is regulated by a directive adopted at the time of con
 §10.1.1 An application for being approved as a chapter association shall be submitted in writing to the chapter board.  
 The application must contain:
 
-- the purpose of the association  
-- economic scope  
+- the purpose of the association
+- economic scope
 - a proposal for, or already adopted, memos or statutes for the association that do not contravene the chapter's statutes.
 
 §10.1.2 Approval of an association is decided upon by the chapter meeting after recommendation by the chapter board.
@@ -614,25 +627,25 @@ With exception to membership in any of the chapter's clubs.
 
 §11.4.1 It is the duty of the chapter audtors:
 
-- to on behalf of the chapter meeting continually audit the accounting and activities of the chapter board and other chapter bodies, in accordance with the chapter's and THS's statutes.  
+- to on behalf of the chapter meeting continually audit the accounting and activities of the chapter board and other chapter bodies, in accordance with the chapter's and THS's statutes.
 - to after the end of the operational year audit the accounting and annual work reports of the chapter board and other chapter bodies.
 
 ### §11.5 Rights
 
 §11.5.1 The chapter auditors have the rights:
 
-- to by demand view all expenditures, protocols, and minutes.  
-- to receive information regarding activities.  
-- to call on any chapter body for auditing.  
-- to monitor all chapter bodies with the right to speak and make suggestions.  
-- to make changes to the praxis for accounting.  
+- to by demand view all expenditures, protocols, and minutes.
+- to receive information regarding activities.
+- to call on any chapter body for auditing.
+- to monitor all chapter bodies with the right to speak and make suggestions.
+- to make changes to the praxis for accounting.
 - to request additional chapter meetings.
 
 ### §11.6 The audit report
 
 §11.6.1 Regarding the audit report the following applies:
 
-- it shall be handed in to the board at least ten (10) days before the chapter meeting where auditing is processed.  
+- it shall be handed in to the board at least ten (10) days before the chapter meeting where auditing is processed.
 - it must be signed by at least two (2) of the chapter's auditors.
 
 ### §11.7 Discharging

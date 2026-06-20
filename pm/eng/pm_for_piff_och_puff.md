@@ -8,7 +8,7 @@ The purpose of this Memo is to regulate the committee *PIFF och PUFF*.
 
 ### 1.2 History
 
-Created: 2020-09-28  
+Established: 2020-09-28  
 Last revision: 2020-09-28
 
 ### 1.3 Revising this Memo
@@ -57,6 +57,8 @@ The nomination is based on an audition where all chapter members may participate
 All members of the faction have the right to attend the audition, and state their opinion about the suitability of any candidates.
 
 In the event that a faction is missing a president, or that the president is seeking to be reelected, the active members of the faction are responsible for conducting the process.
+
+The nominated person is approved by the chapter meeting.
 
 ### 3.2 Election of Active Faction Members
 

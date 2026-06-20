@@ -11,7 +11,7 @@ Kommunikationsnämndens syfte är att koordinera kommunikation, informationsflö
 ### 1.2 Historik
 
 Upprättat: 2014-01-01  
-Senast ändrat: 2023-12-05  
+Senast ändrat: 2023-12-05
 
 ### 1.3 Ändrande av PM
 
@@ -33,7 +33,7 @@ En enskild sektionsmedlem får endast inneha en styrelsepost åt gången.
 ### 2.1 Styrelseledamot med ansvar för Kommunikation
 
 Sammankallande och ordförande för Kommunikationsnämnden är Styrelseledamot med ansvar för Kommunikation, vilken ansvarar för att möten med hela nämnden hålls inför varje styrelsemöte.  
-Dennes ansvar och plikter regleras närmare i ”PM för Sektionens styrelse”.  
+Dennes ansvar och plikter regleras närmare i "PM för Sektionens styrelse".  
 Denne ska arbeta långsiktigt och strategiskt med att utveckla kommunikationen inom sektionen.
 
 ### 2.2 Vice ordförande
@@ -56,20 +56,20 @@ Den historieansvarige skall se till att nämnder upprätthåller sin del av PM f
 
 Kommunikationsnämnden ansvarar för:
 
-- att information om sektionens verksamhet publiceras på sektionens officiella webbplats och andra informationskanaler där sektionen har en officiell närvaro  
-- att i samråd med sektionens övriga organ vid behov hjälpa dessa att effektivare nå ut till sektionens medlemmar  
-- att ta emot och behandla önskemål och synpunkter på sektionens webbplats och andra informationskanaler  
-- att sköta den operativa driften av webbplatsen och mailkonton kopplade till sektionens domän(er)  
+- att information om sektionens verksamhet publiceras på sektionens officiella webbplats och andra informationskanaler där sektionen har en officiell närvaro
+- att i samråd med sektionens övriga organ vid behov hjälpa dessa att effektivare nå ut till sektionens medlemmar
+- att ta emot och behandla önskemål och synpunkter på sektionens webbplats och andra informationskanaler
+- att sköta den operativa driften av webbplatsen och mailkonton kopplade till sektionens domän(er)
 - att koordinera med webbutvecklare för större utvecklings- eller underhållsprojekt som inte kan skötas inom Kommunikationsnämnden
 
 ### 3.2 Profil
 
 Kommunikationsnämnden ansvarar för:
 
-- att ta fram overaller enligt ”Sektionens profildokument” och bedriva försäljning av dessa  
-- att ta fram profilsaker och bedriva försäljning av dessa  
-- att eftersträva medlemmarnas önskemål om eventuella nya profilsaker, genom att kartlägga önskemål med hjälp av undersökningar i samarbete med andra i nämnden  
-- att vid behov bistå sektionens organ med grafiskt material, exempelvis affischer, som behövs i organens verksamheter  
+- att ta fram overaller enligt "Sektionens profildokument" och bedriva försäljning av dessa
+- att ta fram profilsaker och bedriva försäljning av dessa
+- att eftersträva medlemmarnas önskemål om eventuella nya profilsaker, genom att kartlägga önskemål med hjälp av undersökningar i samarbete med andra i nämnden
+- att vid behov bistå sektionens organ med grafiskt material, exempelvis affischer, som behövs i organens verksamheter
 - Att tydligöra sektionens koppling till THS
 
 ### 3.3 Alumni
@@ -78,8 +78,8 @@ Historieansvarig ansvarar för sektionens kontakt med skolans alumni.
 
 I dessa uppgifter ingår:
 
-- att vara en kontaktperson mellan sektionen och alumnimedlemmarna  
-- att informera alumnimedlemmarna om de av sektionens event som kan vara intressanta för dessa  
+- att vara en kontaktperson mellan sektionen och alumnimedlemmarna
+- att informera alumnimedlemmarna om de av sektionens event som kan vara intressanta för dessa
 - att anordna event där sektionens medlemmar kan träffa och knyta kontakter med alumnimedlemmar, som t.ex. alumnipub
 
 ## 4 Ekonomi
@@ -88,4 +88,4 @@ Nämnden har ej egen ekonomi.
 
 ## 5 Logotyp
 
-![Kommunikationsnämnden Logotyp](./img/logo-kommunikation-1500px.png)
+![Kommunikationsnämnden Logotyp](./img/logo-kommunikation.svg){width=50%}

@@ -1,12 +1,13 @@
 <!-- markdownlint-disable-next-line -->
-![](./img/logo-it-1500px.png)
+![Sektionen's logotyp](./img/logo-it.svg){width=50%}
 
 # Sektionen för Informationstekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
-Senast ändrade vid Sektionsmötet 2025-01-20
+Senast ändrade vid Sektionsmötet 2025-09-30
 
 <!-- markdownlint-disable MD056 MD058 -->
+
 \pagebreak
 
 | Innehållsförteckning
@@ -16,7 +17,7 @@ Senast ändrade vid Sektionsmötet 2025-01-20
 | §1.2 Färg | | §2.2 Stadgar |
 | §1.3 Ändamål | | §2.3 PM |
 | §1.4 Sammansättning | | §2.4 Tolkning av styrdokument |
-| §1.5 Verksamhetsår |  | --- |
+| §1.5 Verksamhetsår | | --- |
 | §1.6 Firmateckning |
 | §1.7 Struktur |
 | §1.8 Tillkännagivande av beslut |
@@ -46,7 +47,7 @@ Senast ändrade vid Sektionsmötet 2025-01-20
 | §7.2 Sammansättning | | §8.2 Nämndposter |
 | §7.3 Sektionspresidiet | | §8.3 Bemyndigande |
 | §7.4 Styrelsens ansvar | | §8.4 Protokoll |
-| §7.5 Sammanträden, styrelsemöte |  | §8.5 Medlemskap |
+| §7.5 Sammanträden, styrelsemöte | | §8.5 Medlemskap |
 | §7.6 Kallelse | | --- |
 | §7.7 Beslutsmässighet |
 | §7.8 Solidariskt beslutsfattande |
@@ -62,7 +63,7 @@ Senast ändrade vid Sektionsmötet 2025-01-20
 | §9.3 Ekonomi | | §10.3 Medlemskap |
 | --- | | §10.4 Ekonomi |
 | §11 Revision och ansvarsfrihet | | --- |
-| §11.1 Uppgift | |  §12 Valberedning |
+| §11.1 Uppgift | | §12 Valberedning |
 | §11.2 Sektionsrevisor | | §12.1 Sammansättning |
 | §11.3 Jäv hos sektionsrevisor | | §12.2 Ansvar och uppgifter |
 | §11.4 Åligganden | | §12.3 Valprocedur |
@@ -73,6 +74,7 @@ Senast ändrade vid Sektionsmötet 2025-01-20
 | §13 Slutord |
 
 \pagebreak
+
 <!-- markdownlint-enable MD056 MD058 -->
 
 ## §1 Allmänt
@@ -112,11 +114,11 @@ Sektionsstyrelsen kan även föreslå andra firmatecknare som sektionsmötet kan
 
 §1.7.1 Sektionens organ är:
 
-- Sektionsmötet.  
-- Sektionsstyrelsen.  
-- Sektionens nämnder.  
-- Sektionens klubbar.  
-- Sektionsrevisorerna.  
+- Sektionsmötet.
+- Sektionsstyrelsen.
+- Sektionens nämnder.
+- Sektionens klubbar.
+- Sektionsrevisorerna.
 - Sektionens valberedning.
 
 ### §1.8 Tillkännagivande av beslut
@@ -155,7 +157,7 @@ Vid eventuella tolkningstvister skall tolkningsrätt ligga på det svenska dokum
 §2.2.2 För ändring av dessa stadgar krävs bifall på beslut tagna på två på varandra följande sektionsmöten.
 
 §2.2.3 Avvikelse från stadgarna får göras om det enhälligt stöds av ett beslutsmässigt sektionsmöte.  
-Avvikelse får ej göras till nackdel för enskild medlem.  
+Avvikelse får ej göras till nackdel för enskild medlem.
 
 Det skall i protokollet motiveras varför sektionsmötet väljer att avvika från stadgarna.  
 Avvikelse får ej ske från §2.2.
@@ -176,7 +178,7 @@ PM som nämns i sektionens stadgar kan dock inte avskaffas utan stadgeändring.
 
 §2.3.4 Det åligger sektionsordförande att ansvara för upprättande samt ändrande av PM om inte annat anges i sagda PM.
 
-§2.3.5 En PM skall utformas så att den följer de regler som anges i ”PM för PM”.
+§2.3.5 En PM skall utformas så att den följer de regler som anges i "PM för PM".
 
 ### §2.4 Tolkning av styrdokument
 
@@ -210,9 +212,9 @@ Nämnder utan egen ekonomi skall inte ha en firmatecknare.
 
 §3.3.1 Alla sektionens organ som bedriver verksamhet i sektionens regi är skyldiga:
 
-- att för varje affärshändelse kunna uppvisa verifikationer som innehåller uppgifter om när affärshändelsen skett, vad den avser, vilket belopp den gäller samt vilken motpart den berör.  
-- att föra kassabok.  
-- att göra årsbokslut.  
+- att för varje affärshändelse kunna uppvisa verifikationer som innehåller uppgifter om när affärshändelsen skett, vad den avser, vilket belopp den gäller samt vilken motpart den berör.
+- att föra kassabok.
+- att göra årsbokslut.
 - att upprätta verksamhetsberättelse.
 
 §3.3.2 Samtliga av sektionens årsbokslut, verksamhetsberättelser, eventuella ekonomiska berättelser, kolumndagböcker och verifikationspärmar skall förvaras i enlighet med gällande svenska lagar och förordningar.
@@ -240,28 +242,28 @@ Förslaget från sektionsstyrelsen läggs fram som en proposition.
 
 §4.2.1 Ordinarie medlem har rätt:
 
-- att deltaga på sektionsmötet med yttrande- och rösträtt.  
-- att få viss fråga behandlad av sektionsmötet.  
-- att reservera sig mot sektionsmötets beslut.  
-- att ta del av sektionens protokoll och övriga handlingar.  
-- att rösta i val till Kårfullmäktige.  
-- att kandidera till samtliga förtroendeuppdrag inom sektionen och THS, inspektor undantaget.  
-- att närvara på styrelsemöte.  
-- att ta del av den service som sektionen erbjuder.  
+- att deltaga på sektionsmötet med yttrande- och rösträtt.
+- att få viss fråga behandlad av sektionsmötet.
+- att reservera sig mot sektionsmötets beslut.
+- att ta del av sektionens protokoll och övriga handlingar.
+- att rösta i val till Kårfullmäktige.
+- att kandidera till samtliga förtroendeuppdrag inom sektionen och THS, inspektor undantaget.
+- att närvara på styrelsemöte.
+- att ta del av den service som sektionen erbjuder.
 - att bära sektionens overall med sektionens färg och sektionens insignia.
 
 §4.2.2 Ordinarie medlem är skyldig:
 
-- att rätta sig efter sektionsmötets och andra sektionsorgans beslut.  
+- att rätta sig efter sektionsmötets och andra sektionsorgans beslut.
 - att erlägga kår- och sektionsavgift.
 
 ### §4.3 Stödmedlem
 
 §4.3.1 Som stödmedlem betraktas THS-medlem som valt att stödja sektionen.
 
-§4.3.2 Stödmedlem har samma rättigheter som ordinarie medlem, undantaget valbarhet samt rösträtt till THS kårfullmäktige
+§4.3.2 Stödmedlem har samma rättigheter som ordinarie medlem, med undantag för rösträtt vid sektionsmöten och THS kårfullmäktige, samt valbarhet till THS kårfullmäktige och styrelsen.
 
-§4.3.3 Stödmedlem har samma skyldigheter som ordinarie medlem
+§4.3.3 Stödmedlem har samma skyldigheter som ordinarie medlem.
 
 ### §4.4 Hedersmedlem
 
@@ -274,11 +276,22 @@ Beslut fattas efter nominering på sektionsmöte och beslut kan fattas utan för
 
 §4.4.4 Hedersmedlem har rätt:
 
-- att deltaga på sektionsmötet med yttranderätt.  
-- att närvara på styrelsemöte.  
+- att deltaga på sektionsmötet med yttranderätt.
+- att närvara på styrelsemöte.
 - att att erhålla en inbjudan till större evenemang anordnade av sektionen.
 
 §4.4.5 Hedersmedlem som misskött sig eller åsamkat sektionen skada kan efter beslut av sektionsmötet med kvalificerad majoritet uteslutas.
+
+### §4.5 Gästmedlem
+
+§4.5.1 Som gästmedlem betraktas THS-medlem som studerar ett program som inte tillhör sektionen.
+
+§4.5.2 En gästmedlem utses av ett styrelsemöte med kvalificerad majoritet för tiden av ett år.
+En begäran om att bli utsedd till gästmedlem skall skickas till styrelsen av personen själv senast fyra (4) dagar före styrelsemötet.
+
+§4.5.3 Gästmedlem har samma rättigheter som ordinarie medlem, med undantag för rösträtt vid sektionsmöten och THS kårfullmäktige, samt valbarhet till THS kårfullmäktige och styrelsen.
+
+§4.5.4 En gästmedlem har samma skyldigheter som ordinarie medlem.
 
 ## §5 Sektionsmöte, SM
 
@@ -310,10 +323,10 @@ Dessa kan kompletteras med extrainsatta vid behov.
 Som ordinarie möte räknas:
 
 - Valmötet, där kommande års förtroendevalda väljs eller godkänns i enlighet med sektionens styrdokument.  
-  Ska hållas minst en månad innan utgång av verksamhetsår.  
+  Ska hållas minst en månad innan utgång av verksamhetsår.
 - Budgetmötet, där kommande års budget fastställs.  
   Bör hållas efter valmötet men ska under alla omständigheter hållas innan utgång av innevarande verksamhetsår.  
-  Ska även behandla kommande års verksamhetsplan.  
+  Ska även behandla kommande års verksamhetsplan.
 - Dechargemötet, där fråga om ansvarsfrihet för föregående års sektionsstyrelse lyfts.  
   Ska hållas senast 6 månader efter avslutat verksamhetsår, i enlighet med THS reglemente.
 
@@ -445,13 +458,13 @@ Rör beslutet ekonomiska utgifter får beslut endast fattas om beloppet understi
 
 §7.4.1 Sektionsstyrelsen ansvarar för:
 
-- att bereda ärenden som ska behandlas av sektionsmötet.  
-- att svara på de motioner som inkommit.  
-- att upprätta föredragningslista till sektionsmötet.  
-- att verkställa av sektionsmötet fattade beslut.  
-- att inför sektionsmötet bära ansvaret för sektionens och sektionsnämndernas ekonomi.  
-- att upprätta verksamhetsberättelse.  
-- att vid behov kalla till extra sektionsmöte.  
+- att bereda ärenden som ska behandlas av sektionsmötet.
+- att svara på de motioner som inkommit.
+- att upprätta föredragningslista till sektionsmötet.
+- att verkställa av sektionsmötet fattade beslut.
+- att inför sektionsmötet bära ansvaret för sektionens och sektionsnämndernas ekonomi.
+- att upprätta verksamhetsberättelse.
+- att vid behov kalla till extra sektionsmöte.
 - att ta fram förslag till verksamhetsplan och budget.
 
 ### §7.5 Sammanträden, styrelsemöte
@@ -565,8 +578,8 @@ Dess namn, ändamål, och sammansättning regleras i ett direktiv som upprättas
 §10.1.1 Ansökan om godkännande av förening lämnas skriftligen till sektionsstyrelsen.  
 Ansökan skall innehålla:
 
-- föreningens grundtanke  
-- ekonomisk omfattning  
+- föreningens grundtanke
+- ekonomisk omfattning
 - ett förslag till, eller en antagen, PM eller stadgar för föreningen som ej strider mot sektionens stadgar.
 
 §10.1.2 Godkännande av en förening sker genom beslut på sektionsmötet efter förordande av sektionsstyrelsen.
@@ -614,25 +627,25 @@ Undantaget är medlemskap i sektionens klubbar.
 
 §11.4.1 Det åligger sektionsrevisorerna:
 
-- att för sektionsmötets räkning kontinuerligt granska sektionsstyrelsens och övriga sektionsorgans förvaltning samt deras verksamhet i förhållande till sektionens och THS stadgar.  
+- att för sektionsmötets räkning kontinuerligt granska sektionsstyrelsens och övriga sektionsorgans förvaltning samt deras verksamhet i förhållande till sektionens och THS stadgar.
 - att efter verksamhetsårets slut granska sektionsstyrelsens och övriga sektionsorgans förvaltning samt deras verksamhetsberättelser.
 
 ### §11.5 Rättigheter
 
 §11.5.1 Sektionsrevisorerna äger rätt:
 
-- att efter begäran taga del av samtliga räkenskaper, protokoll och handlingar.  
-- att erhålla upplysningar rörande verksamheten.  
-- att inkalla samtliga sektionens organ för granskning.  
-- att med yttranderätt samt förslagsrätt övervaka samtliga sektionens organ.  
-- att ändra i praxis för redovisning.  
+- att efter begäran taga del av samtliga räkenskaper, protokoll och handlingar.
+- att erhålla upplysningar rörande verksamheten.
+- att inkalla samtliga sektionens organ för granskning.
+- att med yttranderätt samt förslagsrätt övervaka samtliga sektionens organ.
+- att ändra i praxis för redovisning.
 - att begära extra sektionsmöte.
 
 ### §11.6 Revisionsberättelsen
 
 §11.6.1 Beträffande revisionsberättelser gäller:
 
-- att senast tio (10) dagar före sektionsmötet där revision tas upp, inlämnas revisionsberättelse till sektionsstyrelsen.  
+- att senast tio (10) dagar före sektionsmötet där revision tas upp, inlämnas revisionsberättelse till sektionsstyrelsen.
 - att revisionsberättelse skall undertecknas av minst två av sektionsrevisorerna.
 
 ### §11.7 Ansvarsfrihet

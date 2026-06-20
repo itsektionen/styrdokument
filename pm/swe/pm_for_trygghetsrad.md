@@ -9,7 +9,7 @@ Denna PM är avsedd att reglera sektionens trygghetsråd.
 ### 1.2 Historik
 
 Upprättat: 2014-09-22  
-Senast ändrat: 2023-12-05
+Senast ändrat: 2025-04-22
 
 ### 1.3 Ändrande av PM
 
@@ -30,9 +30,10 @@ Tystnadsplikten kan förlängas till sektionsstyrelsen vid behov.
 Sektionens trygghetsråd ansvarar för
 
 - att företräda sektionens medlemmar i arbetsmiljöfrågor samt att se till att de förtroendevaldas tilldelade arbete går i linje med arbetsmiljölagstiftningen.
-- att hålla kontinuerlig kontakt med THS huvudskyddsombud.  
+- att hålla kontinuerlig kontakt med THS huvudskyddsombud.
 - att hålla kontinuerlig kontakt med sektionens representant i THS.
 
 ## 4 Regleringar
 
-Sektionens skyddsombud får inte vara förtroendevalda styrelsemedlemmar.
+Sektionens skyddsombud får inte vara förtroendevalda styrelsemedlemmar.  
+Minst ett skyddsombud skall inte vara aktiv medlem inom PIFF och PUFF.

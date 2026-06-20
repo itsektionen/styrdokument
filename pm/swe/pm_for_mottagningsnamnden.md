@@ -48,7 +48,7 @@ Benämnd Neurotisk Åskådare till Generalens Ounvikliga Nederlag (NÅGON).
 ### 2.3 Ledamot med ansvar för Budget
 
 Är ekonomisk samordnare och fungerar som kontaktperson med sektionens kassör.
-Dennes uppgift är att disponera Mottagningens budget.  
+Dennes uppgift är att disponera Mottagningens budget.
 
 ### 2.4 Ledamöter
 
@@ -76,4 +76,4 @@ Mottagningsnämnden skall samordna med den Internationell-koordinatorn och event
 
 ## 5 Logotyp
 
-![Mottagningenen Logotyp](./img/logo-mottagningen-1500px.png)
+![Mottagningenen Logotyp](./img/logo-mottagningen.svg){width=50%}

@@ -9,7 +9,7 @@ Denna PM reglerar sektionens fana vilken används för att representera sektione
 ### 1.2 Historik
 
 Upprättat: 2011-12-08  
-Senast ändrat: 2012-09-27
+Senast ändrat: 2022-09-27
 
 Sektionsfanan införskaffades 2011-09-21
 
@@ -30,8 +30,8 @@ Fanan förvaras av THS Fanborg.
 
 Sektionsfanan bärs vid, men inte begränsad till, följande tillfällen.
 
-- Valborgfirande på Skansen  
-- Nobelfesten  
-- Diplomeringar  
-- Promoveringar  
+- Valborgfirande på Skansen
+- Nobelfesten
+- Diplomeringar
+- Promoveringar
 - Välkomstceremonin i Stadshuset

@@ -5,14 +5,14 @@
 ### 1.1 Purpose
 
 The purpose of this document is for the chapter to be an inclusive and safe environment for everyone.  
-Everyone has the right to be treated with respect and should feel welcome and safe at the chapter’s activities and in the chapter premises.
+Everyone has the right to be treated with respect and should feel welcome and safe at the chapter's activities and in the chapter premises.
 
 This Memo is part of the preventive work to avoid unacceptable behavior and to provide the chapter with a better basis to objectively handle situations where unacceptable behavior is exhibited.
 
 ### 1.2 History
 
 Established: 2023-12-05  
-Last Modified: 2023-12-05  
+Last revision:: 2023-12-05
 
 ### 1.3 Revising this Memo
 
@@ -20,7 +20,7 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 
 ### 1.4 Scope
 
-The policy must be followed by all chapter members and covers all participants in the chapter’s events, as well as in the representation of the chapter.
+The policy must be followed by all chapter members and covers all participants in the chapter's events, as well as in the representation of the chapter.
 
 This Memo should always be linked in all registration forms and event information.
 
@@ -55,7 +55,7 @@ Involved individuals in the investigation shall recuse themselves from cases whe
 It is not allowed to:
 
 - Violate personal boundaries that, with good reason, can be considered clearly set or if the person in question is noticeably uncomfortable.
-- Act deliberately exclusionary unless justified by the chapter’s or committees' governing documents.
+- Act deliberately exclusionary unless justified by the chapter's or committees' governing documents.
 - Express, write, or otherwise communicate offensive statements or messages in regards to an individual or identity.
   Identity includes, but is not limited to:
   - Gender
@@ -105,11 +105,11 @@ Chapter auditors are involved only if the parties involved feel that the case ha
 
 ### 5.1 Reporting
 
-A report can be made in case of a violation of this Memo through the chapter’s Council of Safety.
+A report can be made in case of a violation of this Memo through the chapter's Council of Safety.
 
 It is never too late to report previous violations of this Memo.
-
-An anonymous report can be made, and in such cases, no investigation takes place. Such a report contributes only to statistics and future preventive work.
+An anonymous report can be made, and in such cases, no investigation takes place.
+Such a report contributes only to statistics and future preventive work.
 
 A report against an Safety Officer should be made via private email to another Safety Officer or the chapter president and vice-president.
 The complainant always has the right to turn to another Safety Officer for support in the reporting process.
@@ -133,7 +133,7 @@ The victim can always choose to end an ongoing investigation.
 
 ### 5.3 Follow-up
 
-The Board promptly informs all parties involved and the chapter’s Council of Safety in writing, regardless of the outcome.
+The Board promptly informs all parties involved and the chapter's Council of Safety in writing, regardless of the outcome.
 
 Disclosure of information about decisions to trustee elected occurs in cases of suspensions and must be handled with care.
 Information is disclosed outside trustee elected only if necessary.

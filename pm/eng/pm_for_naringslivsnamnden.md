@@ -10,7 +10,7 @@ The purpose of the Business Relations Committee is to market and promote the cha
 
 ### 1.2 History
 
-Created: 2008-12-11  
+Established: 2008-12-11  
 Last revision: 2022-09-27
 
 ### 1.3 Revising this Memo
@@ -21,7 +21,7 @@ In order to pass a revision of this Memo, a decision has to be made with a quali
 
 The board of the Business Relations Committee is made up by:
 
-- Board member responsible for Business Relations  
+- Board member responsible for Business Relations
 - Deputy chairperson
 
 These are elected by the chapter meeting.
@@ -47,9 +47,9 @@ The deputy chairperson is also responsible for the work delegated to them by the
 
 The Business Relations Committee is responsible for:
 
-- contacting and staying in touch with companies regarding company events and activities  
-- arranging events based on what is requested and agreed upon based on the previous point  
-- to evaluate events that has been carried out and collect feedback from both students and companies  
+- contacting and staying in touch with companies regarding company events and activities
+- arranging events based on what is requested and agreed upon based on the previous point
+- to evaluate events that has been carried out and collect feedback from both students and companies
 - to arrange and host Kista Arbetsmarknadsdag (KAM) during the school year
 
 ### 3.2 Sponsorship
@@ -65,4 +65,4 @@ The committee has no economy of its own.
 
 ## 5 Logo
 
-![Business Relations Committee Logo](./img/logo-naringsliv-1500px.png)
+![Business Relations Committee Logo](./img/logo-naringsliv.svg){width=50%}

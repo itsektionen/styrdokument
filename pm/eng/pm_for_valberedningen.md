@@ -2,7 +2,7 @@
 
 ## 1 Formalities
 
-## 1.1. Purpose
+### 1.1. Purpose
 
 Ths Memo regulates the Chapter's Elections Committee.
 
@@ -26,9 +26,9 @@ The purpose of this Memo is to formulate the Elections Committee's work and to m
 
 The Elections Committee shall
 
-- promote the elections that are administered during the current operational year  
-- collect nominations and candidacies  
-- interview the different candidates  
+- promote the elections that are administered during the current operational year
+- collect nominations and candidacies
+- interview the different candidates
 - make an official statement of opinion about the candidates and to act as a council for the chapter's decision.
 
 ## 4. Detailed Activities
@@ -59,7 +59,7 @@ The Elections Committee shall to the extent that it is possible conduct intervie
 
 The Elections Committee shall hand in a written opinion of each candidate to the decided upon chapter meeting.  
 In it the candidates qualities in relation to the position and any relevant differences between candidates shall be brought up.  
-The Elections Committee shall also include any other information that is relevant to the elections in the opinion.  
+The Elections Committee shall also include any other information that is relevant to the elections in the opinion.
 
 The Elections Committee shall favour the candidate or candidates that they deem are fit and decidedly better suited that any other potential candidates.  
 All candidates shall have access to the opinion about themselves and if they are favoured or not.  
@@ -82,9 +82,9 @@ It is of utmost importance this information be handled with care.
 
 All information about the candidates and the Elections Committees work is confidential and shall not be disclosed by the Elections Committee or any of it's members, except for these following exceptions:
 
-- Election minutes in accordance with the statements above, and any information the Election Committee provides the Chapter is public.  
+- Election minutes in accordance with the statements above, and any information the Election Committee provides the Chapter is public.
 - The Elections Committee shall, to the extent that it is relevant, answer the questions that are asked during chapter meetings.  
-  Any questions to any specific member of the Elections Committee may be left unanswered if it does not relate to a difference of opinion stated in the minutes.  
+  Any questions to any specific member of the Elections Committee may be left unanswered if it does not relate to a difference of opinion stated in the minutes.
 - Information that is deemed sensitive shall be provided to the chapter meeting if it is deemed important for the elections.  
   This must, however, be communicated to the relevant candidates who shall be given the chance to retract their candidacy.
 
