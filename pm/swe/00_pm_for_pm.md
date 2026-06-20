@@ -85,4 +85,5 @@ PM för Studiesociala nämnden, 2020-05-20
 PM för Traditioner, 2014-12-08  
 PM för TraditionsMEsterIT, 2008-12-11  
 PM för Trygghetsråd, 2014-09-22  
-PM för Valberedningen, 2014-02-10
+PM för Valberedningen, 2014-02-10  
+PM för init, 2025-11-10  
