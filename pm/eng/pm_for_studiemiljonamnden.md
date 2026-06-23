@@ -6,12 +6,12 @@
 
 This Memo is meant to regulate the committee Studiemiljönämnden.
 
-Studiemiljönämnden is responsible for ensuring that the chapters members stay in a good study environment.
+Studiemiljönämnden is responsible for the locales belonging to the chapter.
 
 ### 1.2 History
 
 Established: 2008-02-05  
-Last revision: 2022-09-27
+Last revision: 2026-03-24
 
 ### 1.3 Revising this Memo
 
@@ -27,8 +27,10 @@ The committee does not have its own economy.
 
 ## 4 Activities
 
-StURe together with Lill-StURe shall perform a safety inspection round every semester.  
-It is also Studiemiljönämnden's task to make sure that error reports regarding the premises reaches Akademiska Hus and to maintain the quality of The Chapter Hall (Kistan 2.0).
+It is Studiemiljönämnden's task to take care of the locales belonging to the chapter, by ensuring that reports are made to Akademiska Hus or KTH and maintaining the things the chapter is responsible for in the locales.  
+Studiemiljönämnden is however not responsible for property that committees own and maintain themselves.
+
+Their long-term goal should be to improve the locales for the purpose of the study environment and the study social environment.
 
 ## 5 Logo
 
