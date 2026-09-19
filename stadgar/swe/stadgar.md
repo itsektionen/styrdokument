@@ -1,10 +1,10 @@
 <!-- markdownlint-disable-next-line -->
 ![Sektionen's logotyp](./img/logo-it.svg){width=50%}
 
-# Sektionen för Informationstekniks Stadgar
+# Kongliga Sektionen för Informationstekniks Stadgar
 
 Antagna vid Sektionsmötet 2008-12-11  
-Senast ändrade vid Sektionsmötet 2025-09-30
+Senast ändrade vid Sektionsmötet 2025-11-10
 
 <!-- markdownlint-disable MD056 MD058 -->
 
@@ -81,7 +81,7 @@ Senast ändrade vid Sektionsmötet 2025-09-30
 
 ### §1.1 Namn
 
-§1.1.1 Sektionens namn är Sektionen för Informationsteknik.
+§1.1.1 Sektionens namn är Kongliga Sektionen för Informationsteknik.
 
 ### §1.2 Färg
 
