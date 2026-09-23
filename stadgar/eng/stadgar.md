@@ -1,10 +1,10 @@
 <!-- markdownlint-disable-next-line -->
 ![The chapter's logo](./img/logo-it.svg){width=50%}
 
-# Statutes of the Information Technology Chapter
+# Statutes of the Royal Information Technology Chapter
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2025-09-30
+Last edit made at the chapter meeting on 2025-11-10
 
 <!-- markdownlint-disable MD056 MD058 -->
 
@@ -81,7 +81,7 @@ Last edit made at the chapter meeting on 2025-09-30
 
 ### §1.1 Name
 
-§1.1.1 The chapter's name is Sektionen för Informationsteknik (en. The Chapter for Information Technology)
+§1.1.1 The chapter's name is Kongliga Sektionen för Informationsteknik (en. The Royal Chapter for Information Technology)
 
 ### §1.2 Color
 
