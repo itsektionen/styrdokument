@@ -4,7 +4,7 @@
 # Statutes of the Information Technology Chapter
 
 Adopted at the chapter meeting on 2008-12-11  
-Last edit made at the chapter meeting on 2025-09-30
+Last edit made at the chapter meeting on 2025-12-02
 
 <!-- markdownlint-disable MD056 MD058 -->
 
@@ -439,7 +439,7 @@ The chapter board is answerable for the chapter's activities to the chapter meet
 
 ### §7.2 Composition
 
-§7.2.1 The Board is composed of the chapter presidium and two (2) to six (6) board members.  
+§7.2.1 The Board is composed of the chapter presidium and two (2) to seven (7) board members.  
 These are further regulated in Memo For The Chapter Board.
 
 §7.2.2 The board's members must not have any payment defaults and must not be in any criminal record.

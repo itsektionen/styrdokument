@@ -9,7 +9,7 @@ The purpose of this Memo is to formulate and to regulate the chapter's Board's c
 ### 1.2 History
 
 Established: 2008-12-11  
-Last revision: 2022-11-28
+Last revision: 2025-12-02
 
 ### 1.3 Revising this Memo
 
@@ -30,6 +30,7 @@ The Chapter's board is composed of:
 - Board member responsible for Business Relations
 - Board member responsible for Communication
 - Board member responsible for JML Activities
+- Board member responsible for Purchase Coordination
 - Board member
 
 ### 2.2 Deputies
@@ -96,6 +97,8 @@ The deputy treasurer shall share the treasures duties and responsibilities and s
 
 The treasurer shall actively cooperate with and attend meetings arranged by THS Economy council.
 
+The treasurer shall actively collaborate with the chapter's board member responsible for purchases and keep them up to date with the chapter's finances and oversee the pricing set forth by the purchasing coordinator such that it follows the chapter's budget.
+
 #### 3.2.5 Board member responsible for education influence
 
 The Board member responsible for education influence shall work long-term and strategically with educational, equality, and diversity questions within the programs connected to the chapter and shall work towards their constant improvement until their best possible state is achieved.
@@ -140,7 +143,18 @@ The board member shall act as a support for them, as well as a link between the 
 The board member shall be responsible for holding a meeting with the JML-workgroup before every board meeting to ensure a good insight to their work and to ensure the possibility to answer and forward their questions to the board and vice versa.  
 The board member shall actively cooperate with and attend meetings arranged by THS, the EECS-school and JML Rådet.
 
-#### 3.2.10 Other board members and deputies
+#### 3.2.10 Board member responsible for Purchase Coordination
+
+Board member responsible for purchase coordination should work with purchases of consumables and joint committee equipment for the chapter and make sure that purchases of these characters are done in a correct and chapter benefiting manner.
+The board member shall also make sure that the chapter has a wide and varied base supply of beverages.
+
+The board member should closely work with the eventual purchasing responsible people of each committee.
+The board member should also have a close collaboration with the chapter's treasurer who should be involved in and supervise the pricing of items in the chapter.
+The board member is expected to know which rules and regulations that should be followed when pricing and should price items under supervision of the treasurer in the chapter.
+The board member should have attended the STAD-education.
+To be elected to the position the board members does not have to have attended the STAD-education, but should in that case attend the education at the next possible time where this person should have priority.
+
+#### 3.2.11 Other board members and deputies
 
 The remaining board members are responsible for working with the boards strategic questions as well as the areas the board consider important.  
 The vice treasurer is regulated under point 3.2.4.
