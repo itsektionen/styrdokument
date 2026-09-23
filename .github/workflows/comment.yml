@@ -45,7 +45,7 @@ jobs:
             }
 
             body += `\n\n### Merging Instructions
-            _Maintainers will merge this pull request using squash and merge with the following commit message format prefix, if the changes have been voted on at a chapter meeting: `SMX 20YY-<changes>`_
+            _Maintainers will merge this pull request using squash and merge with the following commit message format prefix, if the changes have been voted on at a chapter meeting: \`SMX 20YY-<changes>\`_
             _All merges will be merged in chronological order of the dates they got approved by a chapter meeting._`;
 
             body += `\n\n${COMMENT_IDENTIFIER}`;
